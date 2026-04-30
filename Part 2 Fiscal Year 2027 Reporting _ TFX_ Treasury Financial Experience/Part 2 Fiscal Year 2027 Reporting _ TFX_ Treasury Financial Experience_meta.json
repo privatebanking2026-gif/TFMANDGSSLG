@@ -1,0 +1,374 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Part 2 Fiscal Year 2027 Reporting",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          457.3798522949219,
+          50.39898681640625
+        ],
+        [
+          457.3798522949219,
+          80.82421875
+        ],
+        [
+          33.75,
+          80.82421875
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Bulletin No. 2026-02 (January 2026)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          117.05859375
+        ],
+        [
+          463.78125,
+          117.05859375
+        ],
+        [
+          463.78125,
+          138.05859375
+        ],
+        [
+          33.46875,
+          138.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Section I: Chart of Accounts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.60546875,
+          342.24609375
+        ],
+        [
+          276.5548400878906,
+          342.24609375
+        ],
+        [
+          276.5548400878906,
+          357.47039794921875
+        ],
+        [
+          49.60546875,
+          357.47039794921875
+        ]
+      ]
+    },
+    {
+      "title": "Section II: Accounts and Definitions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.60546875,
+          487.97039794921875
+        ],
+        [
+          330.6747741699219,
+          487.97039794921875
+        ],
+        [
+          330.6747741699219,
+          502.97039794921875
+        ],
+        [
+          49.60546875,
+          502.97039794921875
+        ]
+      ]
+    },
+    {
+      "title": "Section III: Account Transactions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.3984375,
+          633.4703979492188
+        ],
+        [
+          310.9497985839844,
+          633.4703979492188
+        ],
+        [
+          310.9497985839844,
+          648.4703979492188
+        ],
+        [
+          51.3984375,
+          648.4703979492188
+        ]
+      ]
+    },
+    {
+      "title": "Top of Page",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.017578125,
+          58.78125
+        ],
+        [
+          139.1219482421875,
+          58.78125
+        ],
+        [
+          139.1219482421875,
+          71.18743896484375
+        ],
+        [
+          72.017578125,
+          71.18743896484375
+        ]
+      ]
+    },
+    {
+      "title": "Section IV: USSGL Account Attributes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.3984375,
+          106.97039794921875
+        ],
+        [
+          344.7748107910156,
+          106.97039794921875
+        ],
+        [
+          344.7748107910156,
+          121.97039794921875
+        ],
+        [
+          51.3984375,
+          121.97039794921875
+        ]
+      ]
+    },
+    {
+      "title": "Cover Page Link",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.615234375,
+          134.92633056640625
+        ],
+        [
+          166.87057495117188,
+          134.92633056640625
+        ],
+        [
+          166.87057495117188,
+          146.93743896484375
+        ],
+        [
+          72.615234375,
+          146.93743896484375
+        ]
+      ]
+    },
+    {
+      "title": "Section V: USSGL Crosswalks to Standard External Reports",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.0078125,
+          343.97039794921875
+        ],
+        [
+          501.44970703125,
+          343.97039794921875
+        ],
+        [
+          501.44970703125,
+          358.97039794921875
+        ],
+        [
+          49.0078125,
+          358.97039794921875
+        ]
+      ]
+    },
+    {
+      "title": "Section VI: USSGL Crosswalks to Reclassified Statements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.3984375,
+          661.2203979492188
+        ],
+        [
+          490.6796875,
+          661.2203979492188
+        ],
+        [
+          490.6796875,
+          676.2204055786133
+        ],
+        [
+          51.3984375,
+          676.2204055786133
+        ]
+      ]
+    },
+    {
+      "title": "Section VII: GTAS Validations and Edits",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          49.0078125,
+          176.72039794921875
+        ],
+        [
+          352.874755859375,
+          176.72039794921875
+        ],
+        [
+          352.874755859375,
+          191.72039794921875
+        ],
+        [
+          49.0078125,
+          191.72039794921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          343
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Part 2 Fiscal Year 2027 Reporting _ TFX_ Treasury Financial Experience"
+}

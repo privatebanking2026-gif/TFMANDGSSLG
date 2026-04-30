@@ -1,0 +1,1113 @@
+{
+  "table_of_contents": [
+    {
+      "title": "4 Returns",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.25,
+          95.1328125
+        ],
+        [
+          282.75,
+          95.1328125
+        ],
+        [
+          282.75,
+          195.6796875
+        ],
+        [
+          68.25,
+          195.6796875
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.75,
+          210.0
+        ],
+        [
+          160.5,
+          210.0
+        ],
+        [
+          160.5,
+          228.55078125
+        ],
+        [
+          69.75,
+          228.55078125
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter...",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.75,
+          276.75
+        ],
+        [
+          176.25,
+          276.75
+        ],
+        [
+          176.25,
+          291.75
+        ],
+        [
+          69.75,
+          291.75
+        ]
+      ]
+    },
+    {
+      "title": "A: General Information on Returns",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.71875,
+          73.95477294921875
+        ],
+        [
+          324.3792724609375,
+          73.95477294921875
+        ],
+        [
+          324.3792724609375,
+          89.9747314453125
+        ],
+        [
+          71.71875,
+          89.9747314453125
+        ]
+      ]
+    },
+    {
+      "title": "Return Reason Codes (ACH Credits)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.71875,
+          319.81640625
+        ],
+        [
+          296.8083190917969,
+          319.81640625
+        ],
+        [
+          296.8083190917969,
+          333.9687805175781
+        ],
+        [
+          71.71875,
+          333.9687805175781
+        ]
+      ]
+    },
+    {
+      "title": "Death Notification Entry",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          327.42877197265625
+        ],
+        [
+          225.5244903564453,
+          327.42877197265625
+        ],
+        [
+          225.5244903564453,
+          342.24609375
+        ],
+        [
+          71.71875,
+          342.24609375
+        ]
+      ]
+    },
+    {
+      "title": "Example: Flagging Joint Accounts",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.92578125,
+          464.5604553222656
+        ],
+        [
+          236.21922302246094,
+          464.5604553222656
+        ],
+        [
+          236.21922302246094,
+          475.54046630859375
+        ],
+        [
+          69.92578125,
+          475.54046630859375
+        ]
+      ]
+    },
+    {
+      "title": "Example: Flagging Erroneous Report of Death",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          649.2411193847656
+        ],
+        [
+          296.76727294921875,
+          649.2411193847656
+        ],
+        [
+          296.76727294921875,
+          660.2211303710938
+        ],
+        [
+          71.71875,
+          660.2211303710938
+        ]
+      ]
+    },
+    {
+      "title": "Effect of Returning a Payment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          211.32861328125
+        ],
+        [
+          260.3974304199219,
+          211.32861328125
+        ],
+        [
+          260.3974304199219,
+          225.30859375
+        ],
+        [
+          71.12109375,
+          225.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Notice of Misdirected Payment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          295.06640625
+        ],
+        [
+          266.17254638671875,
+          295.06640625
+        ],
+        [
+          266.17254638671875,
+          309.0686950683594
+        ],
+        [
+          71.12109375,
+          309.0686950683594
+        ]
+      ]
+    },
+    {
+      "title": "Manual Posting of Payments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.71875,
+          416.49609375
+        ],
+        [
+          251.2349090576172,
+          416.49609375
+        ],
+        [
+          251.2349090576172,
+          431.3489990234375
+        ],
+        [
+          71.71875,
+          431.3489990234375
+        ]
+      ]
+    },
+    {
+      "title": "No Holding of Payments in Suspense Accounts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          532.8692016601562
+        ],
+        [
+          362.85394287109375,
+          532.8692016601562
+        ],
+        [
+          362.85394287109375,
+          549.140625
+        ],
+        [
+          71.12109375,
+          549.140625
+        ]
+      ]
+    },
+    {
+      "title": "Recipients Without Current Accounts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          641.953125
+        ],
+        [
+          307.5252990722656,
+          641.953125
+        ],
+        [
+          307.5252990722656,
+          657.421875
+        ],
+        [
+          71.12109375,
+          657.421875
+        ]
+      ]
+    },
+    {
+      "title": "B: Returning Payments Through the ACH",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.71875,
+          73.08984375
+        ],
+        [
+          368.42462158203125,
+          73.08984375
+        ],
+        [
+          368.42462158203125,
+          90.87890625
+        ],
+        [
+          71.71875,
+          90.87890625
+        ]
+      ]
+    },
+    {
+      "title": "ACH Correct Preparation of Returns",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5234375,
+          98.2265625
+        ],
+        [
+          299.0101013183594,
+          98.2265625
+        ],
+        [
+          299.0101013183594,
+          112.44830322265625
+        ],
+        [
+          70.5234375,
+          112.44830322265625
+        ]
+      ]
+    },
+    {
+      "title": "Claim Number Structure Table",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5234375,
+          425.88897705078125
+        ],
+        [
+          265.46368408203125,
+          425.88897705078125
+        ],
+        [
+          265.46368408203125,
+          439.8689880371094
+        ],
+        [
+          70.5234375,
+          439.8689880371094
+        ]
+      ]
+    },
+    {
+      "title": "C: Returning Partial Payments in Response to Notices of \nReclamation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.71875,
+          73.95477294921875
+        ],
+        [
+          480.95550537109375,
+          73.95477294921875
+        ],
+        [
+          480.95550537109375,
+          108.75018310546875
+        ],
+        [
+          71.71875,
+          108.75018310546875
+        ]
+      ]
+    },
+    {
+      "title": "STEP ACTION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          77.09765625,
+          425.77734375
+        ],
+        [
+          151.78289794921875,
+          425.77734375
+        ],
+        [
+          151.78289794921875,
+          437.1387634277344
+        ],
+        [
+          77.09765625,
+          437.1387634277344
+        ]
+      ]
+    },
+    {
+      "title": "D: Dishonored Returns",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.12109375,
+          73.4765625
+        ],
+        [
+          238.89007568359375,
+          73.4765625
+        ],
+        [
+          238.89007568359375,
+          89.9747314453125
+        ],
+        [
+          71.12109375,
+          89.9747314453125
+        ]
+      ]
+    },
+    {
+      "title": "Most Common Errors",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          64.9801025390625,
+          139.44842529296875
+        ],
+        [
+          206.11241149902344,
+          139.44842529296875
+        ],
+        [
+          206.11241149902344,
+          153.42840576171875
+        ],
+        [
+          64.9801025390625,
+          153.42840576171875
+        ]
+      ]
+    },
+    {
+      "title": "Dishonored Return Codes:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          64.248046875,
+          421.7844543457031
+        ],
+        [
+          189.23165893554688,
+          421.7844543457031
+        ],
+        [
+          189.23165893554688,
+          432.76446533203125
+        ],
+        [
+          64.248046875,
+          432.76446533203125
+        ]
+      ]
+    },
+    {
+      "title": "E: Payments Returned in Error; Obtaining a Refund due from \nthe Government",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.71875,
+          73.4765625
+        ],
+        [
+          518.3685913085938,
+          73.4765625
+        ],
+        [
+          518.3685913085938,
+          108.75018310546875
+        ],
+        [
+          71.71875,
+          108.75018310546875
+        ]
+      ]
+    },
+    {
+      "title": "What to do if a Payment was Returned in Error",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.71875,
+          282.69140625
+        ],
+        [
+          368.15625,
+          282.69140625
+        ],
+        [
+          368.15625,
+          297.0086975097656
+        ],
+        [
+          71.71875,
+          297.0086975097656
+        ]
+      ]
+    },
+    {
+      "title": "ACTION STEPS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          77.40010070800781,
+          306.66796875
+        ],
+        [
+          153.0,
+          306.66796875
+        ],
+        [
+          153.0,
+          317.85858154296875
+        ],
+        [
+          77.40010070800781,
+          317.85858154296875
+        ]
+      ]
+    },
+    {
+      "title": "1. Contact the federal agency that authorized the payment. Do not contact the government \ndisbursing office.",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          89.6484375,
+          325.6171875
+        ],
+        [
+          524.9633178710938,
+          325.6171875
+        ],
+        [
+          524.9633178710938,
+          347.79833984375
+        ],
+        [
+          89.6484375,
+          347.79833984375
+        ]
+      ]
+    },
+    {
+      "title": "2. Promptly notify the recipient of the error.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          90.24609375,
+          74.63671875
+        ],
+        [
+          315.8499755859375,
+          74.63671875
+        ],
+        [
+          315.8499755859375,
+          85.95819091796875
+        ],
+        [
+          90.24609375,
+          85.95819091796875
+        ]
+      ]
+    },
+    {
+      "title": "Additional Information on TreasuryDirect Payments made in \nError/Duplicate",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          64.546875,
+          286.9453125
+        ],
+        [
+          463.5264587402344,
+          286.9453125
+        ],
+        [
+          463.5264587402344,
+          317.65325927734375
+        ],
+        [
+          64.546875,
+          317.65325927734375
+        ]
+      ]
+    },
+    {
+      "title": "SSA Program Service Centers",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          64.80010223388672,
+          444.33984375
+        ],
+        [
+          257.34796142578125,
+          444.33984375
+        ],
+        [
+          257.34796142578125,
+          459.0690002441406
+        ],
+        [
+          64.80010223388672,
+          459.0690002441406
+        ]
+      ]
+    },
+    {
+      "title": "What to do if there are Duplicate Returns",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.71875,
+          73.4765625
+        ],
+        [
+          332.611083984375,
+          73.4765625
+        ],
+        [
+          332.611083984375,
+          87.66827392578125
+        ],
+        [
+          71.71875,
+          87.66827392578125
+        ]
+      ]
+    },
+    {
+      "title": "Restoring Funds",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.71875,
+          273.12860107421875
+        ],
+        [
+          175.7109375,
+          273.12860107421875
+        ],
+        [
+          175.7109375,
+          287.1086120605469
+        ],
+        [
+          71.71875,
+          287.1086120605469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/greenbook-chapter4"
+}

@@ -1,0 +1,91 @@
+{
+  "table_of_contents": [
+    {
+      "title": "9 Forms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          86.625
+        ],
+        [
+          259.3233337402344,
+          86.625
+        ],
+        [
+          259.3233337402344,
+          211.44049072265625
+        ],
+        [
+          71.12109375,
+          211.44049072265625
+        ]
+      ]
+    },
+    {
+      "title": "This Chapter includes all Green Book forms.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          223.088623046875
+        ],
+        [
+          350.135009765625,
+          223.088623046875
+        ],
+        [
+          350.135009765625,
+          237.068603515625
+        ],
+        [
+          69.92578125,
+          237.068603515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          44
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/greenbook-chapter9"
+}

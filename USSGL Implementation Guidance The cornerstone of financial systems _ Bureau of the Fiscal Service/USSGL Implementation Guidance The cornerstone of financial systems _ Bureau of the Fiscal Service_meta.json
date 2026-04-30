@@ -1,0 +1,757 @@
+{
+  "table_of_contents": [
+    {
+      "title": "USSGL Implementation Guidance The\ncornerstone of financial systems",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          37.125
+        ],
+        [
+          517.4949951171875,
+          37.125
+        ],
+        [
+          517.4949951171875,
+          99.18975830078125
+        ],
+        [
+          33.75,
+          99.18975830078125
+        ]
+      ]
+    },
+    {
+      "title": "Background:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          574.6640625
+        ],
+        [
+          120.38572692871094,
+          574.6640625
+        ],
+        [
+          120.38572692871094,
+          588.9080352783203
+        ],
+        [
+          33.75,
+          588.9080352783203
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary Accounting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.5,
+          338.25
+        ],
+        [
+          201.75,
+          338.25
+        ],
+        [
+          201.75,
+          354.234375
+        ],
+        [
+          31.5,
+          354.234375
+        ]
+      ]
+    },
+    {
+      "title": "General Fund Receipt Account Guidance\nFiscal Year 2021",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          39.83203125
+        ],
+        [
+          297.8809814453125,
+          39.83203125
+        ],
+        [
+          297.8809814453125,
+          63.8055419921875
+        ],
+        [
+          47.8125,
+          63.8055419921875
+        ]
+      ]
+    },
+    {
+      "title": "Cancellation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          31.5,
+          153.75
+        ],
+        [
+          123.75,
+          153.75
+        ],
+        [
+          123.75,
+          167.8359375
+        ],
+        [
+          31.5,
+          167.8359375
+        ]
+      ]
+    },
+    {
+      "title": "Reduction",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          31.5,
+          682.5
+        ],
+        [
+          109.5,
+          682.5
+        ],
+        [
+          109.5,
+          696.8671875
+        ],
+        [
+          31.5,
+          696.8671875
+        ]
+      ]
+    },
+    {
+      "title": "Permanent Reduction to General Fund Appropriation\nFiscal 2019",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.8125,
+          38.28515625
+        ],
+        [
+          370.4608459472656,
+          38.28515625
+        ],
+        [
+          370.4608459472656,
+          63.8050537109375
+        ],
+        [
+          47.8125,
+          63.8050537109375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act Scenario Fiscal Year 2022",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.25,
+          38.25
+        ],
+        [
+          188.25,
+          38.25
+        ],
+        [
+          188.25,
+          63.0
+        ],
+        [
+          47.25,
+          63.0
+        ]
+      ]
+    },
+    {
+      "title": "Trust Funds",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          31.5,
+          422.25
+        ],
+        [
+          122.25,
+          420.75
+        ],
+        [
+          122.25,
+          436.21875
+        ],
+        [
+          31.5,
+          436.21875
+        ]
+      ]
+    },
+    {
+      "title": "SFFAS 54 Lease Guidance\nEffective Fiscal Year 2024",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.41015625,
+          39.83203125
+        ],
+        [
+          209.4274444580078,
+          39.83203125
+        ],
+        [
+          209.4274444580078,
+          63.8050537109375
+        ],
+        [
+          48.41015625,
+          63.8050537109375
+        ]
+      ]
+    },
+    {
+      "title": "Specialized Accounting",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          31.5,
+          200.70703125
+        ],
+        [
+          199.5,
+          200.70703125
+        ],
+        [
+          199.5,
+          216.94921875
+        ],
+        [
+          31.5,
+          216.94921875
+        ]
+      ]
+    },
+    {
+      "title": "Download PDF\nDownload Docx",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          48.41015625,
+          42.15234375
+        ],
+        [
+          139.3773651123047,
+          42.15234375
+        ],
+        [
+          139.3773651123047,
+          74.31732177734375
+        ],
+        [
+          48.41015625,
+          74.31732177734375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          20
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          12
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          33
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Span",
+          16
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          11
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/USSGL Implementation Guidance The cornerstone of financial systems _ Bureau of the Fiscal Service"
+}

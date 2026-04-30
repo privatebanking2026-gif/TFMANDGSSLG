@@ -1,0 +1,1210 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ACH Payment\nProcessing",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.109375,
+          99.75
+        ],
+        [
+          390.0,
+          99.75
+        ],
+        [
+          390.0,
+          190.65234375
+        ],
+        [
+          74.109375,
+          190.65234375
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5,
+          210.0
+        ],
+        [
+          159.75,
+          210.0
+        ],
+        [
+          159.75,
+          227.00390625
+        ],
+        [
+          70.5,
+          227.00390625
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter...",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.75,
+          301.5
+        ],
+        [
+          176.25,
+          301.5
+        ],
+        [
+          176.25,
+          315.94921875
+        ],
+        [
+          69.75,
+          315.94921875
+        ]
+      ]
+    },
+    {
+      "title": "A: Financial Organization Master File (FOMF)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          73.65478515625
+        ],
+        [
+          400.27862548828125,
+          73.65478515625
+        ],
+        [
+          400.27862548828125,
+          89.67474365234375
+        ],
+        [
+          71.71875,
+          89.67474365234375
+        ]
+      ]
+    },
+    {
+      "title": "Purpose",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.0000991821289,
+          206.40863037109375
+        ],
+        [
+          124.94934844970703,
+          206.40863037109375
+        ],
+        [
+          124.94934844970703,
+          220.38861083984375
+        ],
+        [
+          72.0000991821289,
+          220.38861083984375
+        ]
+      ]
+    },
+    {
+      "title": "Financial Institution Responsibility",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          314.0486755371094
+        ],
+        [
+          295.7877502441406,
+          314.0486755371094
+        ],
+        [
+          295.7877502441406,
+          328.32421875
+        ],
+        [
+          71.71875,
+          328.32421875
+        ]
+      ]
+    },
+    {
+      "title": "Changes to Financial Institution Name and Mailing Address",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.0000991821289,
+          341.47265625
+        ],
+        [
+          360.55230712890625,
+          341.47265625
+        ],
+        [
+          360.55230712890625,
+          352.96051025390625
+        ],
+        [
+          72.0000991821289,
+          352.96051025390625
+        ]
+      ]
+    },
+    {
+      "title": "Changes to Routing Transit Numbers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          424.480712890625
+        ],
+        [
+          251.6976776123047,
+          424.480712890625
+        ],
+        [
+          251.6976776123047,
+          435.4607238769531
+        ],
+        [
+          71.12109375,
+          435.4607238769531
+        ]
+      ]
+    },
+    {
+      "title": "Updating ACH Customer Directory (ACD):",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          592.1210327148438
+        ],
+        [
+          271.4441223144531,
+          592.1210327148438
+        ],
+        [
+          271.4441223144531,
+          603.1010437011719
+        ],
+        [
+          71.71875,
+          603.1010437011719
+        ]
+      ]
+    },
+    {
+      "title": "New Depository Institutions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.71875,
+          72.31640625
+        ],
+        [
+          207.984375,
+          72.31640625
+        ],
+        [
+          207.984375,
+          83.91998291015625
+        ],
+        [
+          71.71875,
+          83.91998291015625
+        ]
+      ]
+    },
+    {
+      "title": "B: Federal Government ACH Processing",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5234375,
+          143.25494384765625
+        ],
+        [
+          358.55145263671875,
+          143.25494384765625
+        ],
+        [
+          358.55145263671875,
+          159.27490234375
+        ],
+        [
+          70.5234375,
+          159.27490234375
+        ]
+      ]
+    },
+    {
+      "title": "General Flow",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          167.70843505859375
+        ],
+        [
+          155.66619873046875,
+          167.70843505859375
+        ],
+        [
+          155.66619873046875,
+          181.68841552734375
+        ],
+        [
+          71.12109375,
+          181.68841552734375
+        ]
+      ]
+    },
+    {
+      "title": "Prenotification",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          253.30078125
+        ],
+        [
+          167.84141540527344,
+          253.30078125
+        ],
+        [
+          167.84141540527344,
+          267.72857666015625
+        ],
+        [
+          71.12109375,
+          267.72857666015625
+        ]
+      ]
+    },
+    {
+      "title": "Payment Formats",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          339.7287902832031
+        ],
+        [
+          184.26925659179688,
+          339.7287902832031
+        ],
+        [
+          184.26925659179688,
+          353.70880126953125
+        ],
+        [
+          71.12109375,
+          353.70880126953125
+        ]
+      ]
+    },
+    {
+      "title": "Account Requirements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.71875,
+          438.15234375
+        ],
+        [
+          216.93638610839844,
+          438.15234375
+        ],
+        [
+          216.93638610839844,
+          452.84765625
+        ],
+        [
+          71.71875,
+          452.84765625
+        ]
+      ]
+    },
+    {
+      "title": "Misdirected Payments",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          72.0000991821289,
+          468.66900634765625
+        ],
+        [
+          213.5280303955078,
+          468.66900634765625
+        ],
+        [
+          213.5280303955078,
+          483.78515625
+        ],
+        [
+          72.0000991821289,
+          483.78515625
+        ]
+      ]
+    },
+    {
+      "title": "Notice of Misdirected Payment",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          73.3883056640625
+        ],
+        [
+          266.17254638671875,
+          73.3883056640625
+        ],
+        [
+          266.17254638671875,
+          87.78515625
+        ],
+        [
+          71.12109375,
+          87.78515625
+        ]
+      ]
+    },
+    {
+      "title": "Availability of Funds",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          437.468994140625
+        ],
+        [
+          202.7061004638672,
+          437.468994140625
+        ],
+        [
+          202.7061004638672,
+          452.84765625
+        ],
+        [
+          71.12109375,
+          452.84765625
+        ]
+      ]
+    },
+    {
+      "title": "C: Federal ACH Payment Schedule",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.12109375,
+          143.91485595703125
+        ],
+        [
+          316.9565124511719,
+          143.91485595703125
+        ],
+        [
+          316.9565124511719,
+          159.934814453125
+        ],
+        [
+          71.12109375,
+          159.934814453125
+        ]
+      ]
+    },
+    {
+      "title": "D: Identifying Treasury Disbursed Payments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5234375,
+          229.955078125
+        ],
+        [
+          396.03607177734375,
+          229.955078125
+        ],
+        [
+          396.03607177734375,
+          245.97503662109375
+        ],
+        [
+          70.5234375,
+          245.97503662109375
+        ]
+      ]
+    },
+    {
+      "title": "Consumer Payments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.419921875,
+          254.40863037109375
+        ],
+        [
+          202.23123168945312,
+          254.40863037109375
+        ],
+        [
+          202.23123168945312,
+          268.38861083984375
+        ],
+        [
+          71.419921875,
+          268.38861083984375
+        ]
+      ]
+    },
+    {
+      "title": "Consumer Payment Formats",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.822265625,
+          282.4004211425781
+        ],
+        [
+          209.7216339111328,
+          282.4004211425781
+        ],
+        [
+          209.7216339111328,
+          293.38043212890625
+        ],
+        [
+          70.822265625,
+          293.38043212890625
+        ]
+      ]
+    },
+    {
+      "title": "Standard Entry Class Code",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5234375,
+          375.4006042480469
+        ],
+        [
+          199.2719268798828,
+          375.4006042480469
+        ],
+        [
+          199.2719268798828,
+          386.380615234375
+        ],
+        [
+          70.5234375,
+          386.380615234375
+        ]
+      ]
+    },
+    {
+      "title": "Social Security Administration Use of Prearranged Payment and Deposit (PPD+)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.328125,
+          457.9007263183594
+        ],
+        [
+          460.3045654296875,
+          457.9007263183594
+        ],
+        [
+          460.3045654296875,
+          468.8807373046875
+        ],
+        [
+          69.328125,
+          468.8807373046875
+        ]
+      ]
+    },
+    {
+      "title": "Payment Types",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.419921875,
+          79.0579833984375
+        ],
+        [
+          145.79559326171875,
+          79.0579833984375
+        ],
+        [
+          145.79559326171875,
+          90.0379638671875
+        ],
+        [
+          71.419921875,
+          90.0379638671875
+        ]
+      ]
+    },
+    {
+      "title": "Identifying the Paying Agency/Payment Type",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.12109375,
+          234.9686279296875
+        ],
+        [
+          358.4377136230469,
+          234.9686279296875
+        ],
+        [
+          358.4377136230469,
+          249.43359375
+        ],
+        [
+          71.12109375,
+          249.43359375
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          73.212890625,
+          43.69921875
+        ],
+        [
+          127.599609375,
+          43.69921875
+        ],
+        [
+          127.599609375,
+          52.20703125
+        ],
+        [
+          73.212890625,
+          52.20703125
+        ]
+      ]
+    },
+    {
+      "title": "E: Identifying Non-Treasury Disbursed Payments\nIdentifying the Paying Agency/Payment Type",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.5234375,
+          131.19488525390625
+        ],
+        [
+          428.9361877441406,
+          131.19488525390625
+        ],
+        [
+          428.9361877441406,
+          170.15625
+        ],
+        [
+          70.5234375,
+          170.15625
+        ]
+      ]
+    },
+    {
+      "title": "Identifying the Payee",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.12109375,
+          447.0690002441406
+        ],
+        [
+          206.2168426513672,
+          447.0690002441406
+        ],
+        [
+          206.2168426513672,
+          462.12890625
+        ],
+        [
+          71.12109375,
+          462.12890625
+        ]
+      ]
+    },
+    {
+      "title": "F: Garnishment of Federal \u01a4",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.71875,
+          61.875
+        ],
+        [
+          325.125732421875,
+          61.875
+        ],
+        [
+          325.125732421875,
+          78.27471923828125
+        ],
+        [
+          71.71875,
+          78.27471923828125
+        ]
+      ]
+    },
+    {
+      "title": "EXAMPLES:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.12109375,
+          552.62109375
+        ],
+        [
+          128.70559692382812,
+          552.62109375
+        ],
+        [
+          128.70559692382812,
+          565.4810485839844
+        ],
+        [
+          71.12109375,
+          565.4810485839844
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          20
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "TableCell",
+          112
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/greenbook-chapter2"
+}

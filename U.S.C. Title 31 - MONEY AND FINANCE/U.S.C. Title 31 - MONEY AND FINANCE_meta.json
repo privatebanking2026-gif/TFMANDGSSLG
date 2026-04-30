@@ -1,0 +1,472 @@
+{
+  "table_of_contents": [
+    {
+      "title": "31 U.S.C.",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.75390625,
+          35.19140625
+        ],
+        [
+          112.75,
+          35.19140625
+        ],
+        [
+          112.75,
+          47.25
+        ],
+        [
+          62.75390625,
+          47.25
+        ]
+      ]
+    },
+    {
+      "title": "\u00a73716. Administrative offset",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          62.75390625,
+          169.3828125
+        ],
+        [
+          233.29310607910156,
+          169.3828125
+        ],
+        [
+          233.29310607910156,
+          184.25811767578125
+        ],
+        [
+          62.75390625,
+          184.25811767578125
+        ]
+      ]
+    },
+    {
+      "title": "Historical and Revision Notes",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          225.31640625,
+          32.87109375
+        ],
+        [
+          391.57122802734375,
+          32.87109375
+        ],
+        [
+          391.57122802734375,
+          45.89837646484375
+        ],
+        [
+          225.31640625,
+          45.89837646484375
+        ]
+      ]
+    },
+    {
+      "title": "References in Text",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          260.578125,
+          297.7734375
+        ],
+        [
+          354.92034912109375,
+          297.7734375
+        ],
+        [
+          354.92034912109375,
+          309.4989929199219
+        ],
+        [
+          260.578125,
+          309.4989929199219
+        ]
+      ]
+    },
+    {
+      "title": "Codification",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          276.416015625,
+          576.0039978027344
+        ],
+        [
+          339.3672180175781,
+          576.0039978027344
+        ],
+        [
+          339.3672180175781,
+          586.9989929199219
+        ],
+        [
+          276.416015625,
+          586.9989929199219
+        ]
+      ]
+    },
+    {
+      "title": "Amendments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          277.611328125,
+          623.77734375
+        ],
+        [
+          339.8157043457031,
+          623.77734375
+        ],
+        [
+          339.8157043457031,
+          634.9989929199219
+        ],
+        [
+          277.611328125,
+          634.9989929199219
+        ]
+      ]
+    },
+    {
+      "title": "Effective Date of 2008 Amendment",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          223.5234375,
+          342.24609375
+        ],
+        [
+          392.3387756347656,
+          342.24609375
+        ],
+        [
+          392.3387756347656,
+          353.7487487792969
+        ],
+        [
+          223.5234375,
+          353.7487487792969
+        ]
+      ]
+    },
+    {
+      "title": "Offsets From Social Security Payments",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          212.765625,
+          518.2537536621094
+        ],
+        [
+          404.5869445800781,
+          518.2537536621094
+        ],
+        [
+          404.5869445800781,
+          529.2487487792969
+        ],
+        [
+          212.765625,
+          529.2487487792969
+        ]
+      ]
+    },
+    {
+      "title": "Ex. Ord. No. 13019. Supporting Families: Collecting Delinquent Child Support Obligations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.453125,
+          577.37109375
+        ],
+        [
+          526.6980590820312,
+          577.37109375
+        ],
+        [
+          526.6980590820312,
+          592.06640625
+        ],
+        [
+          88.453125,
+          592.06640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          167
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1101
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1496
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1560
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          679
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/U.S.C. Title 31 - MONEY AND FINANCE"
+}

@@ -1,0 +1,305 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Private Collection Agencies",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          37.247314453125
+        ],
+        [
+          376.115966796875,
+          37.247314453125
+        ],
+        [
+          376.115966796875,
+          65.43975830078125
+        ],
+        [
+          33.46875,
+          65.43975830078125
+        ]
+      ]
+    },
+    {
+      "title": "PCA Duties",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          189.52264404296875
+        ],
+        [
+          117.13864135742188,
+          189.52264404296875
+        ],
+        [
+          117.13864135742188,
+          205.6026611328125
+        ],
+        [
+          33.75,
+          205.6026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Current PCAs",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          425.02264404296875
+        ],
+        [
+          133.38351440429688,
+          425.02264404296875
+        ],
+        [
+          133.38351440429688,
+          441.1026611328125
+        ],
+        [
+          33.46875,
+          441.1026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Fiscal Service PCA contracts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          463.2890625
+        ],
+        [
+          269.98065185546875,
+          463.2890625
+        ],
+        [
+          269.98065185546875,
+          480.1026611328125
+        ],
+        [
+          33.46875,
+          480.1026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Oversight of PCA Contractors",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.87109375,
+          490.359375
+        ],
+        [
+          279.5360107421875,
+          490.359375
+        ],
+        [
+          279.5360107421875,
+          508.6026611328125
+        ],
+        [
+          32.87109375,
+          508.6026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Debtor protections",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.80078125,
+          578.91796875
+        ],
+        [
+          173.21798706054688,
+          578.91796875
+        ],
+        [
+          173.21798706054688,
+          593.0007476806641
+        ],
+        [
+          50.80078125,
+          593.0007476806641
+        ]
+      ]
+    },
+    {
+      "title": "PCA compliance review process:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.41015625,
+          30.55078125
+        ],
+        [
+          253.2384796142578,
+          30.55078125
+        ],
+        [
+          253.2384796142578,
+          43.250732421875
+        ],
+        [
+          48.41015625,
+          43.250732421875
+        ]
+      ]
+    },
+    {
+      "title": "If you have a complaint about a PCA, you may:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.203125,
+          409.1484375
+        ],
+        [
+          331.5180358886719,
+          409.1484375
+        ],
+        [
+          331.5180358886719,
+          421.2507629394531
+        ],
+        [
+          50.203125,
+          421.2507629394531
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Private Collection Agencies _ Bureau of the Fiscal Service"
+}

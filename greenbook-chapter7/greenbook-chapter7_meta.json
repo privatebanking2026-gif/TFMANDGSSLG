@@ -1,0 +1,332 @@
+{
+  "table_of_contents": [
+    {
+      "title": "7 Contacts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          96.6796875
+        ],
+        [
+          299.2834167480469,
+          96.6796875
+        ],
+        [
+          299.2834167480469,
+          213.240478515625
+        ],
+        [
+          71.12109375,
+          213.240478515625
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.0000991821289,
+          212.1651611328125
+        ],
+        [
+          159.0809326171875,
+          212.1651611328125
+        ],
+        [
+          159.0809326171875,
+          232.1451416015625
+        ],
+        [
+          72.0000991821289,
+          232.1451416015625
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter\u2026",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.419921875,
+          304.0887756347656
+        ],
+        [
+          174.97816467285156,
+          304.0887756347656
+        ],
+        [
+          174.97816467285156,
+          319.04296875
+        ],
+        [
+          71.419921875,
+          319.04296875
+        ]
+      ]
+    },
+    {
+      "title": "A: Fiscal Service Payment Management Call Center",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          73.95477294921875
+        ],
+        [
+          439.01519775390625,
+          73.95477294921875
+        ],
+        [
+          439.01519775390625,
+          89.9747314453125
+        ],
+        [
+          70.5234375,
+          89.9747314453125
+        ]
+      ]
+    },
+    {
+      "title": "B: EFTPS Assistance",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.0000991821289,
+          181.1749267578125
+        ],
+        [
+          216.63827514648438,
+          181.1749267578125
+        ],
+        [
+          216.63827514648438,
+          197.19488525390625
+        ],
+        [
+          72.0000991821289,
+          197.19488525390625
+        ]
+      ]
+    },
+    {
+      "title": "C: Major Paying Agency Contacts",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.71875,
+          345.2751770019531
+        ],
+        [
+          307.4091796875,
+          345.2751770019531
+        ],
+        [
+          307.4091796875,
+          361.96875
+        ],
+        [
+          71.71875,
+          361.96875
+        ]
+      ]
+    },
+    {
+      "title": "D: Defense Finance and Accounting Service (DFAS) Contacts",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          92.79473876953125
+        ],
+        [
+          506.8125,
+          92.79473876953125
+        ],
+        [
+          506.8125,
+          108.814697265625
+        ],
+        [
+          71.71875,
+          108.814697265625
+        ]
+      ]
+    },
+    {
+      "title": "E: Go Direct Contact Information",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          180.984375
+        ],
+        [
+          308.390625,
+          180.984375
+        ],
+        [
+          308.390625,
+          197.19488525390625
+        ],
+        [
+          71.71875,
+          197.19488525390625
+        ]
+      ]
+    },
+    {
+      "title": "F: Treasury Offset Program",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.0000991821289,
+          256.6551513671875
+        ],
+        [
+          270.1114807128906,
+          256.6551513671875
+        ],
+        [
+          270.1114807128906,
+          273.41015625
+        ],
+        [
+          72.0000991821289,
+          273.41015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          28
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/greenbook-chapter7"
+}
