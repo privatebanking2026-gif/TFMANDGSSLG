@@ -1,0 +1,1455 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 3200 Foreign Currency Accounting\nAnd Reporting",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          583.499755859375,
+          50.39898681640625
+        ],
+        [
+          583.499755859375,
+          122.39898681640625
+        ],
+        [
+          33.46875,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Foreign Currency Accounting And Reporting",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          159.05859375
+        ],
+        [
+          481.77777099609375,
+          159.05859375
+        ],
+        [
+          481.77777099609375,
+          180.05859375
+        ],
+        [
+          33.46875,
+          180.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.822265625,
+          199.16015625
+        ],
+        [
+          152.40744018554688,
+          199.16015625
+        ],
+        [
+          152.40744018554688,
+          213.1983642578125
+        ],
+        [
+          70.822265625,
+          213.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3210\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          283.6983642578125
+        ],
+        [
+          320.5408020019531,
+          283.6983642578125
+        ],
+        [
+          320.5408020019531,
+          297.1983642578125
+        ],
+        [
+          70.5234375,
+          297.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3215\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          463.2890625
+        ],
+        [
+          226.02740478515625,
+          463.2890625
+        ],
+        [
+          226.02740478515625,
+          477.2109375
+        ],
+        [
+          71.12109375,
+          477.2109375
+        ]
+      ]
+    },
+    {
+      "title": "Section 3220\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.92578125,
+          36.3515625
+        ],
+        [
+          309.65985107421875,
+          36.3515625
+        ],
+        [
+          309.65985107421875,
+          50.4483642578125
+        ],
+        [
+          69.92578125,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3225\u2014Reporting Requirements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          102.09375
+        ],
+        [
+          324.73931884765625,
+          102.09375
+        ],
+        [
+          324.73931884765625,
+          115.6983642578125
+        ],
+        [
+          71.12109375,
+          115.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "3225.10\u2014Uniform Reporting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.21484375,
+          454.42633056640625
+        ],
+        [
+          212.52186584472656,
+          454.42633056640625
+        ],
+        [
+          212.52186584472656,
+          466.42633056640625
+        ],
+        [
+          47.21484375,
+          466.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3225.20\u2014Monthly Statements of Accountable Officers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          620.1763305664062
+        ],
+        [
+          359.4297180175781,
+          620.1763305664062
+        ],
+        [
+          359.4297180175781,
+          632.1763153076172
+        ],
+        [
+          47.8125,
+          632.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "3225.30\u2014Quarterly Reports of Accountable Officers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.21484375,
+          115.62890625
+        ],
+        [
+          346.5417785644531,
+          115.62890625
+        ],
+        [
+          346.5417785644531,
+          128.17633056640625
+        ],
+        [
+          47.21484375,
+          128.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3225.40\u2014Semi-annual Statement of Balances",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.41015625,
+          543.33984375
+        ],
+        [
+          311.1177673339844,
+          543.33984375
+        ],
+        [
+          311.1177673339844,
+          555.6763153076172
+        ],
+        [
+          48.41015625,
+          555.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "3225.50\u2014Semi-annual Report On Country Owned Currencies",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.6171875,
+          153.67657470703125
+        ],
+        [
+          398.71771240234375,
+          153.67657470703125
+        ],
+        [
+          398.71771240234375,
+          165.67657470703125
+        ],
+        [
+          46.6171875,
+          165.67657470703125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3230\u2014Administration of Foreign Currency",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.25,
+          286.6986083984375
+        ],
+        [
+          392.9952697753906,
+          286.6986083984375
+        ],
+        [
+          392.9952697753906,
+          300.1986083984375
+        ],
+        [
+          71.25,
+          300.1986083984375
+        ]
+      ]
+    },
+    {
+      "title": "3230.10\u2014Collections",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          320.17657470703125
+        ],
+        [
+          170.66989135742188,
+          320.17657470703125
+        ],
+        [
+          170.66989135742188,
+          332.17657470703125
+        ],
+        [
+          47.8125,
+          332.17657470703125
+        ]
+      ]
+    },
+    {
+      "title": "3230.20\u2014Guaranty Funds",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.21484375,
+          736.4265670776367
+        ],
+        [
+          196.96189880371094,
+          736.4265670776367
+        ],
+        [
+          196.96189880371094,
+          748.4265670776367
+        ],
+        [
+          47.21484375,
+          748.4265670776367
+        ]
+      ]
+    },
+    {
+      "title": "3230.30\u2014Depositaries",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.111328125,
+          134.17633056640625
+        ],
+        [
+          178.45790100097656,
+          134.17633056640625
+        ],
+        [
+          178.45790100097656,
+          146.17633056640625
+        ],
+        [
+          48.111328125,
+          146.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3230.40\u2014Withdrawals from Treasury Accounts",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          383.17633056640625
+        ],
+        [
+          316.9137878417969,
+          383.17633056640625
+        ],
+        [
+          316.9137878417969,
+          395.61328125
+        ],
+        [
+          47.8125,
+          395.61328125
+        ]
+      ]
+    },
+    {
+      "title": "3230.50\u2014Transfers Without Reimbursement",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.21484375,
+          586.65234375
+        ],
+        [
+          301.0417785644531,
+          586.65234375
+        ],
+        [
+          301.0417785644531,
+          599.1763153076172
+        ],
+        [
+          47.21484375,
+          599.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "3230.60\u2014Unfunding",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.21484375,
+          134.17633056640625
+        ],
+        [
+          165.67391967773438,
+          134.17633056640625
+        ],
+        [
+          165.67391967773438,
+          146.17633056640625
+        ],
+        [
+          47.21484375,
+          146.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3235.10\u2014General",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.513671875,
+          674.9263229370117
+        ],
+        [
+          149.8019561767578,
+          674.9263229370117
+        ],
+        [
+          149.8019561767578,
+          686.9263229370117
+        ],
+        [
+          47.513671875,
+          686.9263229370117
+        ]
+      ]
+    },
+    {
+      "title": "3235.20\u2014Exchange Rates",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.916015625,
+          257.17584228515625
+        ],
+        [
+          199.1578826904297,
+          257.17584228515625
+        ],
+        [
+          199.1578826904297,
+          269.17584228515625
+        ],
+        [
+          46.916015625,
+          269.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "3235.20a\u2014Agreement Rates",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.41015625,
+          281.91796875
+        ],
+        [
+          212.47787475585938,
+          281.91796875
+        ],
+        [
+          212.47787475585938,
+          293.92584228515625
+        ],
+        [
+          48.41015625,
+          293.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "3235.20b\u2014Selling Rates on Withdrawals from Treasury Accounts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.75,
+          530.9258422851562
+        ],
+        [
+          420.2216491699219,
+          530.9258422851562
+        ],
+        [
+          420.2216491699219,
+          542.953125
+        ],
+        [
+          48.75,
+          542.953125
+        ]
+      ]
+    },
+    {
+      "title": "3235.20c\u2014Treasury Reporting Rates",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          95.92633056640625
+        ],
+        [
+          258.4978332519531,
+          95.92633056640625
+        ],
+        [
+          258.4978332519531,
+          107.92633056640625
+        ],
+        [
+          47.8125,
+          107.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3235.20d\u2014Uniform Exchange Rates",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.21484375,
+          581.1763305664062
+        ],
+        [
+          255.79783630371094,
+          581.1763305664062
+        ],
+        [
+          255.79783630371094,
+          593.1763153076172
+        ],
+        [
+          47.21484375,
+          593.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "3235.30\u2014Loans and Certain Other Receivables",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.21484375,
+          669.6763229370117
+        ],
+        [
+          319.1578063964844,
+          669.6763229370117
+        ],
+        [
+          319.1578063964844,
+          681.6763229370117
+        ],
+        [
+          47.21484375,
+          681.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "3240.10\u2014Conversion of Currencies",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.41015625,
+          349.59375
+        ],
+        [
+          251.8378448486328,
+          349.59375
+        ],
+        [
+          251.8378448486328,
+          362.17584228515625
+        ],
+        [
+          48.41015625,
+          362.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Descriptions",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.25,
+          29.390625
+        ],
+        [
+          152.72244262695312,
+          29.390625
+        ],
+        [
+          152.72244262695312,
+          42.9483642578125
+        ],
+        [
+          71.25,
+          42.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "3245.10\u2014System of Foreign Currency Fund Accounts",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          62.26171875
+        ],
+        [
+          355.20574951171875,
+          62.26171875
+        ],
+        [
+          355.20574951171875,
+          74.92633056640625
+        ],
+        [
+          47.8125,
+          74.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3245.20\u2014Foreign Currency Fund Account Classifications",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          407.92633056640625
+        ],
+        [
+          375.8337097167969,
+          407.92633056640625
+        ],
+        [
+          375.8337097167969,
+          420.75
+        ],
+        [
+          47.8125,
+          420.75
+        ]
+      ]
+    },
+    {
+      "title": "3245.30\u2014Sales Accounts",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.513671875,
+          677.9263229370117
+        ],
+        [
+          194.9338836669922,
+          677.9263229370117
+        ],
+        [
+          194.9338836669922,
+          689.9263229370117
+        ],
+        [
+          47.513671875,
+          689.9263229370117
+        ]
+      ]
+    },
+    {
+      "title": "3245.40\u2014Program Accounts Not Requiring Appropriations",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          260.17584228515625
+        ],
+        [
+          384.0057067871094,
+          260.17584228515625
+        ],
+        [
+          384.0057067871094,
+          272.17584228515625
+        ],
+        [
+          47.8125,
+          272.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "3245.50\u2014Holding Accounts",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.41015625,
+          406.0546875
+        ],
+        [
+          208.02586364746094,
+          406.0546875
+        ],
+        [
+          208.02586364746094,
+          418.42584228515625
+        ],
+        [
+          48.41015625,
+          418.42584228515625
+        ]
+      ]
+    },
+    {
+      "title": "3245.60\u2014Advances of Unfunded Foreign Currencies Account",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          514.4258422851562
+        ],
+        [
+          398.90167236328125,
+          514.4258422851562
+        ],
+        [
+          398.90167236328125,
+          526.4258422851562
+        ],
+        [
+          47.8125,
+          526.4258422851562
+        ]
+      ]
+    },
+    {
+      "title": "Section 3250\u2014Preparation and Distribution of the X7000 File",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.25,
+          628.6978759765625
+        ],
+        [
+          459.0102233886719,
+          628.6978759765625
+        ],
+        [
+          459.0102233886719,
+          643.88671875
+        ],
+        [
+          71.25,
+          643.88671875
+        ]
+      ]
+    },
+    {
+      "title": "Section 3255\u2014Reconciliation of Foreign Currency Accounts",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          70.5234375,
+          36.73828125
+        ],
+        [
+          457.91668701171875,
+          36.73828125
+        ],
+        [
+          457.91668701171875,
+          50.4483642578125
+        ],
+        [
+          70.5234375,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          33.46875,
+          473.3085632324219
+        ],
+        [
+          239.29087829589844,
+          473.3085632324219
+        ],
+        [
+          239.29087829589844,
+          494.3085632324219
+        ],
+        [
+          33.46875,
+          494.3085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning Delegations and Designations of Authority to:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          31.7109375
+        ],
+        [
+          467.34149169921875,
+          31.7109375
+        ],
+        [
+          467.34149169921875,
+          44.17633056640625
+        ],
+        [
+          47.8125,
+          44.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          32.572265625,
+          199.93359375
+        ],
+        [
+          155.69692993164062,
+          199.93359375
+        ],
+        [
+          155.69692993164062,
+          222.05859375
+        ],
+        [
+          32.572265625,
+          222.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Appendices Listing",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.224609375,
+          240.92578125
+        ],
+        [
+          196.95741271972656,
+          240.92578125
+        ],
+        [
+          196.95741271972656,
+          255.1983642578125
+        ],
+        [
+          70.224609375,
+          255.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          32.87109375,
+          456.71484375
+        ],
+        [
+          248.264892578125,
+          456.71484375
+        ],
+        [
+          248.264892578125,
+          478.5585632324219
+        ],
+        [
+          32.87109375,
+          478.5585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.822265625,
+          496.93359375
+        ],
+        [
+          206.73590087890625,
+          496.93359375
+        ],
+        [
+          206.73590087890625,
+          511.6983642578125
+        ],
+        [
+          70.822265625,
+          511.6983642578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          410
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          638
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          722
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          555
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          640
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          561
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          649
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          747
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          676
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          486
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "TableCell",
+          17
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          643
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          425
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 3200 Foreign Currency Accounting And Reporting _ TFX_ Treasury Financial Experience"
+}

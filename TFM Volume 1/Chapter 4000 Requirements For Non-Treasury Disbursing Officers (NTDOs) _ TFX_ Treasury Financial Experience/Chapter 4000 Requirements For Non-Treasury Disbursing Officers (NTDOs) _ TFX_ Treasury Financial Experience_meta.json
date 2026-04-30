@@ -1,0 +1,1302 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 4000 Requirements For Non-\nTreasury Disbursing Officers (NTDOs)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          507.599853515625,
+          50.39898681640625
+        ],
+        [
+          507.599853515625,
+          122.58984375
+        ],
+        [
+          33.46875,
+          122.58984375
+        ]
+      ]
+    },
+    {
+      "title": "Requirements For Non-Treasury Disbursing Officers\n(NTDOs)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          159.05859375
+        ],
+        [
+          555.6207275390625,
+          159.05859375
+        ],
+        [
+          555.6207275390625,
+          209.30859375
+        ],
+        [
+          33.75,
+          209.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Section 4025.10\u2014Processing Payments Under Government Fiscal Crisis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.6171875,
+          633.6763305664062
+        ],
+        [
+          462.0056457519531,
+          633.6763305664062
+        ],
+        [
+          462.0056457519531,
+          645.6763153076172
+        ],
+        [
+          46.6171875,
+          645.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 4025.20\u2014Processing Payments at Fiscal Budget Year-End",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          448.42633056640625
+        ],
+        [
+          428.1136779785156,
+          448.42633056640625
+        ],
+        [
+          428.1136779785156,
+          460.42633056640625
+        ],
+        [
+          47.8125,
+          460.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4030\u2014Processing ACH Payments",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.92578125,
+          478.37109375
+        ],
+        [
+          339.7783203125,
+          478.37109375
+        ],
+        [
+          339.7783203125,
+          493.06640625
+        ],
+        [
+          69.92578125,
+          493.06640625
+        ]
+      ]
+    },
+    {
+      "title": "4030.10a\u2014Changes to OALs",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          332.92657470703125
+        ],
+        [
+          213.17962646484375,
+          332.92657470703125
+        ],
+        [
+          213.17962646484375,
+          344.93768310546875
+        ],
+        [
+          47.8125,
+          344.93768310546875
+        ]
+      ]
+    },
+    {
+      "title": "4030.10b\u2014OAL Renewal Process",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.21484375,
+          524.1765747070312
+        ],
+        [
+          240.7018585205078,
+          524.1765747070312
+        ],
+        [
+          240.7018585205078,
+          536.1765594482422
+        ],
+        [
+          47.21484375,
+          536.1765594482422
+        ]
+      ]
+    },
+    {
+      "title": "Section 4035\u2014Submission of Vouchers to DOs Other Than Treasury DOs",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5234375,
+          657.9486083984375
+        ],
+        [
+          536.8377075195312,
+          657.9486083984375
+        ],
+        [
+          536.8377075195312,
+          671.73046875
+        ],
+        [
+          70.5234375,
+          671.73046875
+        ]
+      ]
+    },
+    {
+      "title": "4035.10\u2014Use of Invoices in Place of Vouchers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          76.18359375
+        ],
+        [
+          314.0337829589844,
+          76.18359375
+        ],
+        [
+          314.0337829589844,
+          88.42633056640625
+        ],
+        [
+          47.8125,
+          88.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4040\u2014Government-wide Accounting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.12109375,
+          210.1983642578125
+        ],
+        [
+          359.98779296875,
+          210.1983642578125
+        ],
+        [
+          359.98779296875,
+          223.6983642578125
+        ],
+        [
+          71.12109375,
+          223.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4040\u2014Government-wide Accounting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          242.92633056640625
+        ],
+        [
+          307.8497619628906,
+          242.92633056640625
+        ],
+        [
+          307.8497619628906,
+          254.92633056640625
+        ],
+        [
+          47.8125,
+          254.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4040.10a\u2014Federal Entities Using Eight-Digit ALCs",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.75,
+          572.1763305664062
+        ],
+        [
+          336.85772705078125,
+          572.1763305664062
+        ],
+        [
+          336.85772705078125,
+          584.1763153076172
+        ],
+        [
+          48.75,
+          584.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "4040.10b\u2014Federal Entities Using Four-Digit ALCs",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          641.56640625
+        ],
+        [
+          333.3297424316406,
+          641.56640625
+        ],
+        [
+          333.3297424316406,
+          653.9263153076172
+        ],
+        [
+          47.8125,
+          653.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 4045\u2014Payment Information Repository (PIR)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.328125,
+          372.1983642578125
+        ],
+        [
+          410.19427490234375,
+          372.1983642578125
+        ],
+        [
+          410.19427490234375,
+          385.6983642578125
+        ],
+        [
+          69.328125,
+          385.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "4045.10\u2014Submission of Files",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          213.46875
+        ],
+        [
+          217.54185485839844,
+          213.46875
+        ],
+        [
+          217.54185485839844,
+          225.67584228515625
+        ],
+        [
+          47.8125,
+          225.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "4045.20\u2014PIR Standard Reporting Format (SRF)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.21484375,
+          464.92584228515625
+        ],
+        [
+          319.2977294921875,
+          464.92584228515625
+        ],
+        [
+          319.2977294921875,
+          476.92584228515625
+        ],
+        [
+          47.21484375,
+          476.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4050\u2014Delegated Disbursing Authority",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.25,
+          146.4483642578125
+        ],
+        [
+          368.4928283691406,
+          146.4483642578125
+        ],
+        [
+          368.4928283691406,
+          159.9483642578125
+        ],
+        [
+          71.25,
+          159.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "4050.10\u2014Standards for Delegating Disbursing Authority",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          306.66796875
+        ],
+        [
+          369.5096740722656,
+          306.66796875
+        ],
+        [
+          369.5096740722656,
+          318.67633056640625
+        ],
+        [
+          47.8125,
+          318.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4050.20\u2014Delegated Disbursing Authority Document",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          648.6763305664062
+        ],
+        [
+          347.0497131347656,
+          648.6763305664062
+        ],
+        [
+          347.0497131347656,
+          660.90234375
+        ],
+        [
+          47.8125,
+          660.90234375
+        ]
+      ]
+    },
+    {
+      "title": "4050.30\u2014Authorities of Treasury's CDO",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.41015625,
+          172.42584228515625
+        ],
+        [
+          275.913818359375,
+          172.42584228515625
+        ],
+        [
+          275.913818359375,
+          184.46484375
+        ],
+        [
+          48.41015625,
+          184.46484375
+        ]
+      ]
+    },
+    {
+      "title": "4050.40\u2014Responsibilities and Liabilities of a Federal Entity with Delegated Disbursing\nAuthority",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          46.6171875,
+          529.03125
+        ],
+        [
+          540.8054809570312,
+          529.03125
+        ],
+        [
+          540.8054809570312,
+          561.6758270263672
+        ],
+        [
+          46.6171875,
+          561.6758270263672
+        ]
+      ]
+    },
+    {
+      "title": "4050.50\u2014Oversight Requirements",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          215.7890625
+        ],
+        [
+          244.9258575439453,
+          215.7890625
+        ],
+        [
+          244.9258575439453,
+          227.92633056640625
+        ],
+        [
+          47.8125,
+          227.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4050.50a\u2014Review and Self-Certification Reporting Requirements",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          240.5390625
+        ],
+        [
+          423.3056335449219,
+          240.5390625
+        ],
+        [
+          423.3056335449219,
+          252.67633056640625
+        ],
+        [
+          47.8125,
+          252.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4050.50b\u2014Risk Assessment",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.41015625,
+          333.67584228515625
+        ],
+        [
+          211.2698974609375,
+          333.67584228515625
+        ],
+        [
+          211.2698974609375,
+          345.67584228515625
+        ],
+        [
+          48.41015625,
+          345.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "4050.50c\u2014Failure to Submit Required Self-Certification Reports and Information Required\nby a Risk Assessment",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          46.6171875,
+          652.4258422851562
+        ],
+        [
+          564.6734619140625,
+          652.4258422851562
+        ],
+        [
+          564.6734619140625,
+          683.9258346557617
+        ],
+        [
+          46.6171875,
+          683.9258346557617
+        ]
+      ]
+    },
+    {
+      "title": "4050.60\u2014Termination of Delegated Disbursing Authority",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.8125,
+          114.08203125
+        ],
+        [
+          370.34967041015625,
+          114.08203125
+        ],
+        [
+          370.34967041015625,
+          126.67633056640625
+        ],
+        [
+          47.8125,
+          126.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          33.75,
+          684.8085632324219
+        ],
+        [
+          239.29087829589844,
+          684.8085632324219
+        ],
+        [
+          239.29087829589844,
+          705.8085632324219
+        ],
+        [
+          33.75,
+          705.8085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning section 4025 and 4030.10 to:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          31.7109375
+        ],
+        [
+          369.4336853027344,
+          31.7109375
+        ],
+        [
+          369.4336853027344,
+          44.17633056640625
+        ],
+        [
+          47.8125,
+          44.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning all other sections to:",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          48.75,
+          216.94921875
+        ],
+        [
+          324.45770263671875,
+          216.94921875
+        ],
+        [
+          324.45770263671875,
+          229.42633056640625
+        ],
+        [
+          48.75,
+          229.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          32.572265625,
+          385.9453125
+        ],
+        [
+          155.69692993164062,
+          385.9453125
+        ],
+        [
+          155.69692993164062,
+          407.3085632324219
+        ],
+        [
+          32.572265625,
+          407.3085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Appendix Listing",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.25,
+          426.1640625
+        ],
+        [
+          181.4594268798828,
+          426.1640625
+        ],
+        [
+          181.4594268798828,
+          440.4483642578125
+        ],
+        [
+          71.25,
+          440.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          32.87109375,
+          592.83984375
+        ],
+        [
+          248.264892578125,
+          592.83984375
+        ],
+        [
+          248.264892578125,
+          615.0585632324219
+        ],
+        [
+          32.87109375,
+          615.0585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.822265625,
+          633.05859375
+        ],
+        [
+          206.73590087890625,
+          633.05859375
+        ],
+        [
+          206.73590087890625,
+          648.1983642578125
+        ],
+        [
+          70.822265625,
+          648.1983642578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          340
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          679
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          681
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          844
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          548
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          667
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          722
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          593
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          607
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          639
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          715
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          603
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "TableCell",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 4000 Requirements For Non-Treasury Disbursing Officers (NTDOs) _ TFX_ Treasury Financial Experience"
+}

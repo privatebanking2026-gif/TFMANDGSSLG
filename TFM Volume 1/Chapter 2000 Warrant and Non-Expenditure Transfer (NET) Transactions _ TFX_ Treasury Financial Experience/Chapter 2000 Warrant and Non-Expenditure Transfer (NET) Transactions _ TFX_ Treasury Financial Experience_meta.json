@@ -1,0 +1,1595 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 2000 Warrant and Non-\nExpenditure Transfer (NET) Transactions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          528.7898559570312,
+          50.39898681640625
+        ],
+        [
+          528.7898559570312,
+          122.39898681640625
+        ],
+        [
+          33.75,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Warrant And Non-Expenditure Transfer (NET)\nTransactions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.078125,
+          159.05859375
+        ],
+        [
+          484.2347717285156,
+          159.05859375
+        ],
+        [
+          484.2347717285156,
+          209.30859375
+        ],
+        [
+          31.078125,
+          209.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          228.55078125
+        ],
+        [
+          152.40744018554688,
+          228.55078125
+        ],
+        [
+          152.40744018554688,
+          242.4483642578125
+        ],
+        [
+          71.12109375,
+          242.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 2010\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          389.42578125
+        ],
+        [
+          320.5408020019531,
+          389.42578125
+        ],
+        [
+          320.5408020019531,
+          403.6983642578125
+        ],
+        [
+          69.92578125,
+          403.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 2015\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          645.1983642578125
+        ],
+        [
+          226.02740478515625,
+          645.1983642578125
+        ],
+        [
+          226.02740478515625,
+          660.12890625
+        ],
+        [
+          71.12109375,
+          660.12890625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2020\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          102.9483642578125
+        ],
+        [
+          309.65985107421875,
+          102.9483642578125
+        ],
+        [
+          309.65985107421875,
+          116.4483642578125
+        ],
+        [
+          71.12109375,
+          116.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 2025\u2014Warrant Transactions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          168.1983642578125
+        ],
+        [
+          304.8046875,
+          168.1983642578125
+        ],
+        [
+          304.8046875,
+          181.6983642578125
+        ],
+        [
+          70.5234375,
+          181.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "2025.10\u2014Appropriation Warrants",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          379.37109375
+        ],
+        [
+          239.8018341064453,
+          379.37109375
+        ],
+        [
+          239.8018341064453,
+          391.42633056640625
+        ],
+        [
+          47.8125,
+          391.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2025.40\u2014Recording Budget Execution without a Treasury Warrant",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.6171875,
+          560.9263305664062
+        ],
+        [
+          426.8736267089844,
+          560.9263305664062
+        ],
+        [
+          426.8736267089844,
+          572.9263153076172
+        ],
+        [
+          46.6171875,
+          572.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "2025.50\u2014Rescissions of Funds",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.8125,
+          242.859375
+        ],
+        [
+          228.245849609375,
+          242.859375
+        ],
+        [
+          228.245849609375,
+          254.92584228515625
+        ],
+        [
+          47.8125,
+          254.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "2025.60 \u2014 Reversing Warrants",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.8125,
+          573.6758422851562
+        ],
+        [
+          225.38987731933594,
+          573.6758422851562
+        ],
+        [
+          225.38987731933594,
+          586.265625
+        ],
+        [
+          47.8125,
+          586.265625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2030\u2014NET Transactions Using CARS ATM",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          70.5234375,
+          36.9483642578125
+        ],
+        [
+          395.6484375,
+          36.9483642578125
+        ],
+        [
+          395.6484375,
+          50.4483642578125
+        ],
+        [
+          70.5234375,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "2030.10\u2014Accessing CARS ATM NET Module",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          264.90234375
+        ],
+        [
+          304.6177978515625,
+          264.90234375
+        ],
+        [
+          304.6177978515625,
+          277.42633056640625
+        ],
+        [
+          47.8125,
+          277.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2030.20\u2014CARS ATM NET Module",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.21484375,
+          488.92633056640625
+        ],
+        [
+          241.96585083007812,
+          488.92633056640625
+        ],
+        [
+          241.96585083007812,
+          500.92633056640625
+        ],
+        [
+          47.21484375,
+          500.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2030.30\u2014Entering NETs and Selecting Transfer Types",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          241.69921875
+        ],
+        [
+          354.7137145996094,
+          241.69921875
+        ],
+        [
+          354.7137145996094,
+          254.17584228515625
+        ],
+        [
+          47.8125,
+          254.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "2030.40\u2014Additional NET Guidance",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.41015625,
+          718.4263229370117
+        ],
+        [
+          249.2498321533203,
+          718.4263229370117
+        ],
+        [
+          249.2498321533203,
+          730.4263229370117
+        ],
+        [
+          48.41015625,
+          730.4263229370117
+        ]
+      ]
+    },
+    {
+      "title": "Reversing NETS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          48.111328125,
+          241.69921875
+        ],
+        [
+          143.80592346191406,
+          241.69921875
+        ],
+        [
+          143.80592346191406,
+          254.17633056640625
+        ],
+        [
+          48.111328125,
+          254.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Returning Funds",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          48.41015625,
+          656.1763305664062
+        ],
+        [
+          145.7938995361328,
+          656.1763305664062
+        ],
+        [
+          145.7938995361328,
+          668.1763229370117
+        ],
+        [
+          48.41015625,
+          668.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "Negative Balances",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.708984375,
+          114.67633056640625
+        ],
+        [
+          157.337890625,
+          114.67633056640625
+        ],
+        [
+          157.337890625,
+          126.67633056640625
+        ],
+        [
+          48.708984375,
+          126.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Other",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.8125,
+          203.92633056640625
+        ],
+        [
+          82.53797149658203,
+          203.92633056640625
+        ],
+        [
+          82.53797149658203,
+          215.92633056640625
+        ],
+        [
+          47.8125,
+          215.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2030.50\u2014Using USSGL Budgetary Accounts with NETs",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.8125,
+          311.92633056640625
+        ],
+        [
+          363.18572998046875,
+          311.92633056640625
+        ],
+        [
+          363.18572998046875,
+          324.0703125
+        ],
+        [
+          47.8125,
+          324.0703125
+        ]
+      ]
+    },
+    {
+      "title": "2030.60\u2014Using USSGL Proprietary Accounts with NETs",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.8125,
+          592.06640625
+        ],
+        [
+          367.84173583984375,
+          592.06640625
+        ],
+        [
+          367.84173583984375,
+          604.4263153076172
+        ],
+        [
+          47.8125,
+          604.4263153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 2035\u2014Borrowings",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          70.5234375,
+          546.43359375
+        ],
+        [
+          241.5118865966797,
+          546.43359375
+        ],
+        [
+          241.5118865966797,
+          561.12890625
+        ],
+        [
+          70.5234375,
+          561.12890625
+        ]
+      ]
+    },
+    {
+      "title": "2035.10\u2014Borrowings from the FFB (Using the CARS ATM NET Module)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          47.8125,
+          659.9263305664062
+        ],
+        [
+          452.629638671875,
+          659.9263305664062
+        ],
+        [
+          452.629638671875,
+          671.9263229370117
+        ],
+        [
+          47.8125,
+          671.9263229370117
+        ]
+      ]
+    },
+    {
+      "title": "2035.20\u2014Borrowings from Treasury (Using the CARS Borrowings Module)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.8125,
+          32.17633056640625
+        ],
+        [
+          470.6176452636719,
+          32.17633056640625
+        ],
+        [
+          470.6176452636719,
+          44.47265625
+        ],
+        [
+          47.8125,
+          44.47265625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2040\u2014Correcting Accounting Errors",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          70.5234375,
+          165.9483642578125
+        ],
+        [
+          356.53179931640625,
+          165.9483642578125
+        ],
+        [
+          356.53179931640625,
+          179.4483642578125
+        ],
+        [
+          70.5234375,
+          179.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "2040.10\u2014Correcting Accounting Errors discovered in Subsequent Periods \u2013 Current\nFiscal Year",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.8125,
+          198.67633056640625
+        ],
+        [
+          528.2376098632812,
+          198.67633056640625
+        ],
+        [
+          528.2376098632812,
+          230.17633056640625
+        ],
+        [
+          47.8125,
+          230.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2040.20\u2014Backdating Accounting Errors discovered in Subsequent Periods \u2013 Prior Fiscal\nYear",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          46.6171875,
+          350.75390625
+        ],
+        [
+          553.3495483398438,
+          350.75390625
+        ],
+        [
+          553.3495483398438,
+          382.42633056640625
+        ],
+        [
+          46.6171875,
+          382.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2045\u2014Subscriber Services: Retrieving Posted Copies of Transactions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          70.5234375,
+          146.953125
+        ],
+        [
+          519.4361572265625,
+          146.953125
+        ],
+        [
+          519.4361572265625,
+          160.6983642578125
+        ],
+        [
+          70.5234375,
+          160.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          33.75,
+          398.3085632324219
+        ],
+        [
+          239.29087829589844,
+          398.3085632324219
+        ],
+        [
+          239.29087829589844,
+          419.3085632324219
+        ],
+        [
+          33.75,
+          419.3085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Contacts",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          71.25,
+          439.6983642578125
+        ],
+        [
+          186.72889709472656,
+          439.6983642578125
+        ],
+        [
+          186.72889709472656,
+          453.1983642578125
+        ],
+        [
+          71.25,
+          453.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning the quarterly intra-governmental transactions reconciliation\nprocess to:",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          46.6171875,
+          30.55078125
+        ],
+        [
+          550.3453979492188,
+          30.55078125
+        ],
+        [
+          550.3453979492188,
+          63.67633056640625
+        ],
+        [
+          46.6171875,
+          63.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter and the submission of CARS Borrowings\ntransactions in CARS to:",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          47.8125,
+          160.42633056640625
+        ],
+        [
+          512.8255004882812,
+          160.42633056640625
+        ],
+        [
+          512.8255004882812,
+          191.17633056640625
+        ],
+        [
+          47.8125,
+          191.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries regarding the submission of GTAS to:",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          48.41015625,
+          306.66796875
+        ],
+        [
+          352.4776916503906,
+          306.66796875
+        ],
+        [
+          352.4776916503906,
+          319.42633056640625
+        ],
+        [
+          48.41015625,
+          319.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          32.2734375,
+          438.0585632324219
+        ],
+        [
+          155.69692993164062,
+          438.0585632324219
+        ],
+        [
+          155.69692993164062,
+          459.0585632324219
+        ],
+        [
+          32.2734375,
+          459.0585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Appendices Listing",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          70.822265625,
+          478.6983642578125
+        ],
+        [
+          196.95741271972656,
+          478.6983642578125
+        ],
+        [
+          196.95741271972656,
+          492.6796875
+        ],
+        [
+          70.822265625,
+          492.6796875
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          33.46875,
+          623.77734375
+        ],
+        [
+          248.264892578125,
+          623.77734375
+        ],
+        [
+          248.264892578125,
+          645.0585632324219
+        ],
+        [
+          33.46875,
+          645.0585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          71.25,
+          663.99609375
+        ],
+        [
+          206.73590087890625,
+          663.99609375
+        ],
+        [
+          206.73590087890625,
+          678.69140625
+        ],
+        [
+          71.25,
+          678.69140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          318
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          496
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          489
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          483
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          482
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          417
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          513
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          667
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          660
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          545
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          551
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          416
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          797
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          618
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          513
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          537
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          455
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "TableCell",
+          7
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 2000 Warrant and Non-Expenditure Transfer (NET) Transactions _ TFX_ Treasury Financial Experience"
+}

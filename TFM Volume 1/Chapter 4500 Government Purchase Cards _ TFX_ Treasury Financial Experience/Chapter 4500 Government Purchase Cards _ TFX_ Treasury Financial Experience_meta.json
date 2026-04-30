@@ -1,0 +1,443 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 4500 Government Purchase\nCards",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.2734375
+        ],
+        [
+          501.0598449707031,
+          50.2734375
+        ],
+        [
+          501.0598449707031,
+          122.39898681640625
+        ],
+        [
+          33.46875,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Government Purchase Cards",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          159.05859375
+        ],
+        [
+          326.5108642578125,
+          159.05859375
+        ],
+        [
+          326.5108642578125,
+          180.05859375
+        ],
+        [
+          33.75,
+          180.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          199.16015625
+        ],
+        [
+          152.40744018554688,
+          199.16015625
+        ],
+        [
+          152.40744018554688,
+          213.1983642578125
+        ],
+        [
+          70.5234375,
+          213.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4530\u2014Federal Entity Refunds",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          419.9765625
+        ],
+        [
+          315.68084716796875,
+          419.9765625
+        ],
+        [
+          315.68084716796875,
+          434.4483642578125
+        ],
+        [
+          70.5234375,
+          434.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4535\u2014Review and Approval of Billing Statement for Payment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.25,
+          679.46484375
+        ],
+        [
+          516.375,
+          679.46484375
+        ],
+        [
+          516.375,
+          694.16015625
+        ],
+        [
+          71.25,
+          694.16015625
+        ]
+      ]
+    },
+    {
+      "title": "4535.10\u2014Payments",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.6171875,
+          376.27734375
+        ],
+        [
+          162.92991638183594,
+          376.27734375
+        ],
+        [
+          162.92991638183594,
+          388.42633056640625
+        ],
+        [
+          46.6171875,
+          388.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4535.20\u2014Training Requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.21484375,
+          548.1763305664062
+        ],
+        [
+          235.12184143066406,
+          548.1763305664062
+        ],
+        [
+          235.12184143066406,
+          560.1763153076172
+        ],
+        [
+          47.21484375,
+          560.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 4540\u2014Electronic Commerce",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.328125,
+          205.34765625
+        ],
+        [
+          309.5563049316406,
+          205.34765625
+        ],
+        [
+          309.5563049316406,
+          219.9486083984375
+        ],
+        [
+          69.328125,
+          219.9486083984375
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          33.75,
+          516.8088073730469
+        ],
+        [
+          239.29087829589844,
+          516.8088073730469
+        ],
+        [
+          239.29087829589844,
+          537.8088073730469
+        ],
+        [
+          33.75,
+          537.8088073730469
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.87109375,
+          283.46484375
+        ],
+        [
+          248.264892578125,
+          283.46484375
+        ],
+        [
+          248.264892578125,
+          304.5585632324219
+        ],
+        [
+          32.87109375,
+          304.5585632324219
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          319
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          555
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          656
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          425
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 4500 Government Purchase Cards _ TFX_ Treasury Financial Experience"
+}

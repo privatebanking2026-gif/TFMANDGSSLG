@@ -1,0 +1,967 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 2000 Depositing Domestic\nChecks And Cash Received In Over The\nCounter (OTC) Collections",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          543.9898071289062,
+          50.39898681640625
+        ],
+        [
+          543.9898071289062,
+          164.39898681640625
+        ],
+        [
+          33.46875,
+          164.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          192.9483642578125
+        ],
+        [
+          152.40744018554688,
+          192.9483642578125
+        ],
+        [
+          152.40744018554688,
+          206.4483642578125
+        ],
+        [
+          71.12109375,
+          206.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "2025.20\u2014Exceptions and Waivers From Electronic Collections Requirements",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          46.6171875,
+          76.42633056640625
+        ],
+        [
+          488.1775817871094,
+          76.42633056640625
+        ],
+        [
+          488.1775817871094,
+          88.55859375
+        ],
+        [
+          46.6171875,
+          88.55859375
+        ]
+      ]
+    },
+    {
+      "title": "2025.30\u2014Exception/Waiver Request Process",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          184.42633056640625
+        ],
+        [
+          307.1578063964844,
+          184.42633056640625
+        ],
+        [
+          307.1578063964844,
+          196.453125
+        ],
+        [
+          47.8125,
+          196.453125
+        ]
+      ]
+    },
+    {
+      "title": "EO14247@fiscal.treasury.gov.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.75,
+          146.92633056640625
+        ],
+        [
+          217.518310546875,
+          146.92633056640625
+        ],
+        [
+          217.518310546875,
+          158.94140625
+        ],
+        [
+          48.75,
+          158.94140625
+        ]
+      ]
+    },
+    {
+      "title": "2025.40\u2014No-Cash Guidance",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.41015625,
+          173.17633056640625
+        ],
+        [
+          214.6298828125,
+          173.17633056640625
+        ],
+        [
+          214.6298828125,
+          185.17633056640625
+        ],
+        [
+          48.41015625,
+          185.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2025.50\u2014Funds Received for Another Federal Entity",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.6171875,
+          471.67633056640625
+        ],
+        [
+          347.9817199707031,
+          471.67633056640625
+        ],
+        [
+          347.9817199707031,
+          483.67633056640625
+        ],
+        [
+          46.6171875,
+          483.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2030\u2014Deposit Procedures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5234375,
+          615.26953125
+        ],
+        [
+          295.2421875,
+          615.26953125
+        ],
+        [
+          295.2421875,
+          630.1983642578125
+        ],
+        [
+          70.5234375,
+          630.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "2030.10\u2014Deposit Reporting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          650.1763305664062
+        ],
+        [
+          210.7578582763672,
+          650.1763305664062
+        ],
+        [
+          210.7578582763672,
+          662.1763153076172
+        ],
+        [
+          47.8125,
+          662.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "2030.20\u2014Designated FIs for TGA Deposits",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          196.83984375
+        ],
+        [
+          293.1177978515625,
+          196.83984375
+        ],
+        [
+          293.1177978515625,
+          209.92657470703125
+        ],
+        [
+          47.8125,
+          209.92657470703125
+        ]
+      ]
+    },
+    {
+      "title": "2030.30\u2014Frequency of Deposits",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          159.71484375
+        ],
+        [
+          234.9418487548828,
+          159.71484375
+        ],
+        [
+          234.9418487548828,
+          172.42633056640625
+        ],
+        [
+          47.8125,
+          172.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2030.40\u2014Reporting Large Deposits",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          427.42633056640625
+        ],
+        [
+          252.7978057861328,
+          427.42633056640625
+        ],
+        [
+          252.7978057861328,
+          439.42633056640625
+        ],
+        [
+          47.8125,
+          439.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2030.50\u2014Counterfeit Currency",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.6171875,
+          576.6763305664062
+        ],
+        [
+          226.21786499023438,
+          576.6763305664062
+        ],
+        [
+          226.21786499023438,
+          588.6763153076172
+        ],
+        [
+          46.6171875,
+          588.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 2035\u2014Checks Received",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          36.9483642578125
+        ],
+        [
+          281.77783203125,
+          36.9483642578125
+        ],
+        [
+          281.77783203125,
+          50.4483642578125
+        ],
+        [
+          71.12109375,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "2035.10\u2014Record of Checks Received",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.41015625,
+          70.3828125
+        ],
+        [
+          265.45379638671875,
+          70.3828125
+        ],
+        [
+          265.45379638671875,
+          82.42633056640625
+        ],
+        [
+          48.41015625,
+          82.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2035.20\u2014Depositors' Endorsement on Checks Deposited at a Financial Institution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.75,
+          424.42633056640625
+        ],
+        [
+          518.6414794921875,
+          424.42633056640625
+        ],
+        [
+          518.6414794921875,
+          436.42633056640625
+        ],
+        [
+          48.75,
+          436.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2040\u2014Collection Solutions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          642.9483642578125
+        ],
+        [
+          296.4703674316406,
+          642.9483642578125
+        ],
+        [
+          296.4703674316406,
+          656.4483642578125
+        ],
+        [
+          71.12109375,
+          656.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "2040.10\u2014Check Capture",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.708984375,
+          32.09765625
+        ],
+        [
+          192.2139129638672,
+          32.09765625
+        ],
+        [
+          192.2139129638672,
+          44.17584228515625
+        ],
+        [
+          48.708984375,
+          44.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Section 2040.20\u2014Seized Currency Collection",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          308.92584228515625
+        ],
+        [
+          308.2577819824219,
+          308.92584228515625
+        ],
+        [
+          308.2577819824219,
+          320.9765625
+        ],
+        [
+          47.8125,
+          320.9765625
+        ]
+      ]
+    },
+    {
+      "title": "2040.30\u2014Mail-In Treasury General Account (MITGA)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.21484375,
+          613.3359375
+        ],
+        [
+          345.6857604980469,
+          613.3359375
+        ],
+        [
+          345.6857604980469,
+          625.4258270263672
+        ],
+        [
+          47.21484375,
+          625.4258270263672
+        ]
+      ]
+    },
+    {
+      "title": "Section 2040.40\u2014Emergency Procedures",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          48.75,
+          140.17633056640625
+        ],
+        [
+          286.3858337402344,
+          140.17633056640625
+        ],
+        [
+          286.3858337402344,
+          152.17633056640625
+        ],
+        [
+          48.75,
+          152.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          33.75,
+          582.8085632324219
+        ],
+        [
+          239.29087829589844,
+          582.8085632324219
+        ],
+        [
+          239.29087829589844,
+          603.8085632324219
+        ],
+        [
+          33.75,
+          603.8085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Contacts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.5234375,
+          623.4483642578125
+        ],
+        [
+          186.72889709472656,
+          623.4483642578125
+        ],
+        [
+          186.72889709472656,
+          636.9483642578125
+        ],
+        [
+          70.5234375,
+          636.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter to:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          656.9263305664062
+        ],
+        [
+          294.2657470703125,
+          656.9263305664062
+        ],
+        [
+          294.2657470703125,
+          668.9263229370117
+        ],
+        [
+          47.8125,
+          668.9263229370117
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          32.87109375,
+          279.05810546875
+        ],
+        [
+          248.264892578125,
+          279.05810546875
+        ],
+        [
+          248.264892578125,
+          300.0580749511719
+        ],
+        [
+          32.87109375,
+          300.0580749511719
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.12109375,
+          319.6978759765625
+        ],
+        [
+          206.73590087890625,
+          319.6978759765625
+        ],
+        [
+          206.73590087890625,
+          333.1978759765625
+        ],
+        [
+          71.12109375,
+          333.1978759765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          358
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          552
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          543
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          654
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          660
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          515
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          603
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          450
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 2000 Depositing Domestic Checks And Cash Received In Over The Counter (OTC) Collections _ TFX_ Treasury Financial Experience"
+}

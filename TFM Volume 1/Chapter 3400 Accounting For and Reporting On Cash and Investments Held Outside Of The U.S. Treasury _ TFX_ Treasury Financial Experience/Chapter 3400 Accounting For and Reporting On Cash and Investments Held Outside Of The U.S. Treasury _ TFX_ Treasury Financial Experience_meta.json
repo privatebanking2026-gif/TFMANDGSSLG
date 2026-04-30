@@ -1,0 +1,653 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 3400 Accounting For and\nReporting On Cash and Investments Held\nOutside Of The U.S. Treasury",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          559.059814453125,
+          50.39898681640625
+        ],
+        [
+          559.059814453125,
+          164.39898681640625
+        ],
+        [
+          33.75,
+          164.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Accounting For and Reporting On Cash and\nInvestments Held Outside Of The U.S. Treasury",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          200.70703125
+        ],
+        [
+          505.6617736816406,
+          200.70703125
+        ],
+        [
+          505.6617736816406,
+          251.30859375
+        ],
+        [
+          32.2734375,
+          251.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          284.4483642578125
+        ],
+        [
+          71.12109375,
+          284.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3410\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          374.34375
+        ],
+        [
+          320.5408020019531,
+          374.34375
+        ],
+        [
+          320.5408020019531,
+          387.9483642578125
+        ],
+        [
+          69.92578125,
+          387.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3415\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          477.1983642578125
+        ],
+        [
+          228.36289978027344,
+          477.1983642578125
+        ],
+        [
+          228.36289978027344,
+          492.6796875
+        ],
+        [
+          71.12109375,
+          492.6796875
+        ]
+      ]
+    },
+    {
+      "title": "Section 3420\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          702.9483642578125
+        ],
+        [
+          307.24334716796875,
+          702.9483642578125
+        ],
+        [
+          307.24334716796875,
+          716.4483642578125
+        ],
+        [
+          69.92578125,
+          716.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3425\u2014Background",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          36.73828125
+        ],
+        [
+          248.54086303710938,
+          36.73828125
+        ],
+        [
+          248.54086303710938,
+          50.4483642578125
+        ],
+        [
+          71.12109375,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3435\u2014Treasury's Policies on Entities' Requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.328125,
+          36.73828125
+        ],
+        [
+          459.38824462890625,
+          36.73828125
+        ],
+        [
+          459.38824462890625,
+          50.4483642578125
+        ],
+        [
+          69.328125,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 3440\u2014Entities' Reporting Responsibilities and Requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5234375,
+          263.4483642578125
+        ],
+        [
+          513.8876953125,
+          263.4483642578125
+        ],
+        [
+          513.8876953125,
+          276.9483642578125
+        ],
+        [
+          70.5234375,
+          276.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "3440.10\u2014Financial Accounting and Reporting Requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          412.62890625
+        ],
+        [
+          394.2056579589844,
+          412.62890625
+        ],
+        [
+          394.2056579589844,
+          425.17633056640625
+        ],
+        [
+          47.8125,
+          425.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3440.20\u2014Central Accounting and Reporting Requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.6171875,
+          560.9263305664062
+        ],
+        [
+          384.6777038574219,
+          560.9263305664062
+        ],
+        [
+          384.6777038574219,
+          572.9263153076172
+        ],
+        [
+          46.6171875,
+          572.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "3440.30\u2014Federal Account Symbols Requirements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          95.92657470703125
+        ],
+        [
+          336.0057373046875,
+          95.92657470703125
+        ],
+        [
+          336.0057373046875,
+          107.92657470703125
+        ],
+        [
+          47.8125,
+          107.92657470703125
+        ]
+      ]
+    },
+    {
+      "title": "Each entity must do the following:",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          630.6876831054688
+        ],
+        [
+          231.673828125,
+          630.6876831054688
+        ],
+        [
+          231.673828125,
+          642.6876831054688
+        ],
+        [
+          47.8125,
+          642.6876831054688
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.46875,
+          457.5585632324219
+        ],
+        [
+          239.29087829589844,
+          457.5585632324219
+        ],
+        [
+          239.29087829589844,
+          478.5585632324219
+        ],
+        [
+          33.46875,
+          478.5585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.2734375,
+          722.77734375
+        ],
+        [
+          155.69692993164062,
+          722.77734375
+        ],
+        [
+          155.69692993164062,
+          744.8085632324219
+        ],
+        [
+          32.2734375,
+          744.8085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Appendices Listing",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.12109375,
+          36.73828125
+        ],
+        [
+          196.95741271972656,
+          36.73828125
+        ],
+        [
+          196.95741271972656,
+          50.4483642578125
+        ],
+        [
+          71.12109375,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.46875,
+          204.05859375
+        ],
+        [
+          248.264892578125,
+          204.05859375
+        ],
+        [
+          248.264892578125,
+          225.45703125
+        ],
+        [
+          33.46875,
+          225.45703125
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.25,
+          244.6983642578125
+        ],
+        [
+          206.73590087890625,
+          244.6983642578125
+        ],
+        [
+          206.73590087890625,
+          258.71484375
+        ],
+        [
+          71.25,
+          258.71484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          418
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          596
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          542
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          645
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          391
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 3400 Accounting For and Reporting On Cash and Investments Held Outside Of The U.S. Treasury _ TFX_ Treasury Financial Experience"
+}

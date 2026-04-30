@@ -1,0 +1,290 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 2100 Fiscal Service Data Registry",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          567.269775390625,
+          50.39898681640625
+        ],
+        [
+          567.269775390625,
+          81.59765625
+        ],
+        [
+          33.75,
+          81.59765625
+        ]
+      ]
+    },
+    {
+      "title": "Fiscal Service Data Registry",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          117.05859375
+        ],
+        [
+          318.1318664550781,
+          117.05859375
+        ],
+        [
+          318.1318664550781,
+          138.4453125
+        ],
+        [
+          33.75,
+          138.4453125
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          171.1983642578125
+        ],
+        [
+          71.12109375,
+          171.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 2110 \u2014 Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          261.1983642578125
+        ],
+        [
+          328.0467834472656,
+          261.1983642578125
+        ],
+        [
+          328.0467834472656,
+          274.6983642578125
+        ],
+        [
+          69.92578125,
+          274.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 2115 \u2014 Standardization",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          427.6983642578125
+        ],
+        [
+          278.6998596191406,
+          427.6983642578125
+        ],
+        [
+          278.6998596191406,
+          441.1983642578125
+        ],
+        [
+          71.25,
+          441.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "2115.10 \u2014 Fiscal Service Data Registry",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.21484375,
+          524.1763305664062
+        ],
+        [
+          273.2937927246094,
+          524.1763305664062
+        ],
+        [
+          273.2937927246094,
+          536.1763153076172
+        ],
+        [
+          47.21484375,
+          536.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.87109375,
+          616.5585632324219
+        ],
+        [
+          239.29087829589844,
+          616.5585632324219
+        ],
+        [
+          239.29087829589844,
+          637.5585632324219
+        ],
+        [
+          32.87109375,
+          637.5585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter to:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.8125,
+          690.6763229370117
+        ],
+        [
+          294.2657470703125,
+          690.6763229370117
+        ],
+        [
+          294.2657470703125,
+          702.6763229370117
+        ],
+        [
+          47.8125,
+          702.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          136.55859375
+        ],
+        [
+          248.264892578125,
+          136.55859375
+        ],
+        [
+          248.264892578125,
+          158.94140625
+        ],
+        [
+          33.46875,
+          158.94140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          357
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 2100 Fiscal Service Data Registry _ TFX_ Treasury Financial Experience"
+}

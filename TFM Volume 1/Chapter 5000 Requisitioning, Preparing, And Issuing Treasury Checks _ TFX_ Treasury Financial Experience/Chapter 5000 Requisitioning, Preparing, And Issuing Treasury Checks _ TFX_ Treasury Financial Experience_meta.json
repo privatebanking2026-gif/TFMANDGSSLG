@@ -1,0 +1,2237 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 5000 Requisitioning, Preparing,\nAnd Issuing Treasury Checks",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.2734375
+        ],
+        [
+          534.4397583007812,
+          50.2734375
+        ],
+        [
+          534.4397583007812,
+          122.39898681640625
+        ],
+        [
+          33.46875,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Requisitioning, Preparing, And Issuing Treasury\nChecks",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          159.05859375
+        ],
+        [
+          510.5967712402344,
+          159.05859375
+        ],
+        [
+          510.5967712402344,
+          209.30859375
+        ],
+        [
+          32.2734375,
+          209.30859375
+        ]
+      ]
+    },
+    {
+      "title": "5025.10b\u2014Manual Signature Specimens for use under contingencies",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          236.17633056640625
+        ],
+        [
+          443.8016662597656,
+          236.17633056640625
+        ],
+        [
+          443.8016662597656,
+          248.66015625
+        ],
+        [
+          47.8125,
+          248.66015625
+        ]
+      ]
+    },
+    {
+      "title": "5025.20\u2014Facsimile Signatures and Submission of Specimens",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.75,
+          426.67633056640625
+        ],
+        [
+          401.2856750488281,
+          426.67633056640625
+        ],
+        [
+          401.2856750488281,
+          438.67633056640625
+        ],
+        [
+          48.75,
+          438.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5025.30\u2014Revocation of Designation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          459.67633056640625
+        ],
+        [
+          257.5818176269531,
+          459.67633056640625
+        ],
+        [
+          257.5818176269531,
+          471.67633056640625
+        ],
+        [
+          47.8125,
+          471.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5030.20\u2014Blank Check Formats",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.75,
+          172.08984375
+        ],
+        [
+          229.58985900878906,
+          172.08984375
+        ],
+        [
+          229.58985900878906,
+          184.42657470703125
+        ],
+        [
+          48.75,
+          184.42657470703125
+        ]
+      ]
+    },
+    {
+      "title": "5030.30\u2014Statement Printing Options",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.21484375,
+          32.09765625
+        ],
+        [
+          261.5818176269531,
+          32.09765625
+        ],
+        [
+          261.5818176269531,
+          44.17633056640625
+        ],
+        [
+          47.21484375,
+          44.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5030.40\u2014Check Symbol Numbers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          369.67633056640625
+        ],
+        [
+          244.46983337402344,
+          369.67633056640625
+        ],
+        [
+          244.46983337402344,
+          381.67633056640625
+        ],
+        [
+          47.8125,
+          381.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5030.50\u2014Check Serial Numbers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.21484375,
+          552.62109375
+        ],
+        [
+          234.24586486816406,
+          552.62109375
+        ],
+        [
+          234.24586486816406,
+          566.1763153076172
+        ],
+        [
+          47.21484375,
+          566.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "5030.60\u2014Emergency Check Stock",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.21484375,
+          114.67633056640625
+        ],
+        [
+          247.19786071777344,
+          114.67633056640625
+        ],
+        [
+          247.19786071777344,
+          127.23046875
+        ],
+        [
+          47.21484375,
+          127.23046875
+        ]
+      ]
+    },
+    {
+      "title": "5030.70\u2014Transit Number Symbol",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          46.6171875,
+          695.9263229370117
+        ],
+        [
+          238.90185546875,
+          695.9263229370117
+        ],
+        [
+          238.90185546875,
+          707.9263229370117
+        ],
+        [
+          46.6171875,
+          707.9263229370117
+        ]
+      ]
+    },
+    {
+      "title": "Section 5035\u2014Requisitioning Treasury Checks",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5234375,
+          140.4478759765625
+        ],
+        [
+          370.5043029785156,
+          140.4478759765625
+        ],
+        [
+          370.5043029785156,
+          153.9478759765625
+        ],
+        [
+          70.5234375,
+          153.9478759765625
+        ]
+      ]
+    },
+    {
+      "title": "5035.10\u2014Contract Information",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.41015625,
+          173.92584228515625
+        ],
+        [
+          226.23785400390625,
+          173.92584228515625
+        ],
+        [
+          226.23785400390625,
+          185.92584228515625
+        ],
+        [
+          48.41015625,
+          185.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5035.20\u2014Designation of Officials Authorized to Sign Check Requisitions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.6171875,
+          460.42584228515625
+        ],
+        [
+          462.47357177734375,
+          460.42584228515625
+        ],
+        [
+          462.47357177734375,
+          472.42584228515625
+        ],
+        [
+          46.6171875,
+          472.42584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5035.30\u2014Treasury Checks Order Form",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.6171875,
+          626.1758422851562
+        ],
+        [
+          272.44183349609375,
+          626.1758422851562
+        ],
+        [
+          272.44183349609375,
+          638.1758270263672
+        ],
+        [
+          46.6171875,
+          638.1758270263672
+        ]
+      ]
+    },
+    {
+      "title": "5035.40\u2014Check Proofs",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          48.111328125,
+          299.92633056640625
+        ],
+        [
+          183.8339080810547,
+          299.92633056640625
+        ],
+        [
+          183.8339080810547,
+          311.92633056640625
+        ],
+        [
+          48.111328125,
+          311.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5035.50\u2014Quantities of Checks",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          490.42633056640625
+        ],
+        [
+          225.8098602294922,
+          490.42633056640625
+        ],
+        [
+          225.8098602294922,
+          502.42633056640625
+        ],
+        [
+          47.8125,
+          502.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5035.60\u2014Check Numbers",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          636.15234375
+        ],
+        [
+          198.4858856201172,
+          636.15234375
+        ],
+        [
+          198.4858856201172,
+          648.6763153076172
+        ],
+        [
+          47.8125,
+          648.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "5035.70\u2014Shipping",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          744.6763229370117
+        ],
+        [
+          154.325927734375,
+          744.6763229370117
+        ],
+        [
+          154.325927734375,
+          756.6763229370117
+        ],
+        [
+          47.8125,
+          756.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "5035.80\u2014Cancellation of Orders",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.21484375,
+          159.67584228515625
+        ],
+        [
+          234.9058380126953,
+          159.67584228515625
+        ],
+        [
+          234.9058380126953,
+          171.67584228515625
+        ],
+        [
+          47.21484375,
+          171.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5040.10\u2014Safekeeping",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.41015625,
+          350.92584228515625
+        ],
+        [
+          177.66189575195312,
+          350.92584228515625
+        ],
+        [
+          177.66189575195312,
+          363.12890625
+        ],
+        [
+          48.41015625,
+          363.12890625
+        ]
+      ]
+    },
+    {
+      "title": "Note:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          114.46875
+        ],
+        [
+          80.5339584350586,
+          114.46875
+        ],
+        [
+          80.5339584350586,
+          126.67633056640625
+        ],
+        [
+          47.8125,
+          126.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5040.20\u2014Loss or Theft",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          46.916015625,
+          159.328125
+        ],
+        [
+          181.0899200439453,
+          159.328125
+        ],
+        [
+          181.0899200439453,
+          171.67584228515625
+        ],
+        [
+          46.916015625,
+          171.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5040.30\u2014Quality Control Inspections and Reporting Irregularities",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          460.42584228515625
+        ],
+        [
+          422.1776428222656,
+          460.42584228515625
+        ],
+        [
+          422.1776428222656,
+          472.42584228515625
+        ],
+        [
+          47.8125,
+          472.42584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5040.40\u2014Acquisition of Blank Check Stock",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.41015625,
+          746.75390625
+        ],
+        [
+          294.977783203125,
+          746.75390625
+        ],
+        [
+          294.977783203125,
+          759.6758346557617
+        ],
+        [
+          48.41015625,
+          759.6758346557617
+        ]
+      ]
+    },
+    {
+      "title": "5040.50\u2014Destruction of Blank Check Stock",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.21484375,
+          114.67633056640625
+        ],
+        [
+          300.2017517089844,
+          114.67633056640625
+        ],
+        [
+          300.2017517089844,
+          126.67633056640625
+        ],
+        [
+          47.21484375,
+          126.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5040.50a\u2014Destroying Checks",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.41015625,
+          222.67633056640625
+        ],
+        [
+          221.60986328125,
+          222.67633056640625
+        ],
+        [
+          221.60986328125,
+          234.73828125
+        ],
+        [
+          48.41015625,
+          234.73828125
+        ]
+      ]
+    },
+    {
+      "title": "5040.50b\u2014Certifying Check Destruction",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.8125,
+          388.42633056640625
+        ],
+        [
+          279.58978271484375,
+          388.42633056640625
+        ],
+        [
+          279.58978271484375,
+          400.42633056640625
+        ],
+        [
+          47.8125,
+          400.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5040.50c\u2014Reporting Destroyed Checks",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.8125,
+          685.4263229370117
+        ],
+        [
+          278.2738037109375,
+          685.4263229370117
+        ],
+        [
+          278.2738037109375,
+          697.4263229370117
+        ],
+        [
+          47.8125,
+          697.4263229370117
+        ]
+      ]
+    },
+    {
+      "title": "Chapter 6000, Section 6040.",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          31.7109375
+        ],
+        [
+          206.6049041748047,
+          31.7109375
+        ],
+        [
+          206.6049041748047,
+          44.18743896484375
+        ],
+        [
+          47.8125,
+          44.18743896484375
+        ]
+      ]
+    },
+    {
+      "title": "PM@fiscal.treasury.gov",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          96.6796875
+        ],
+        [
+          183.5618896484375,
+          96.6796875
+        ],
+        [
+          183.5618896484375,
+          109.42633056640625
+        ],
+        [
+          47.8125,
+          109.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 5045\u2014Drawing and Inscribing Treasury Checks",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.5234375,
+          128.4483642578125
+        ],
+        [
+          427.25823974609375,
+          128.4483642578125
+        ],
+        [
+          427.25823974609375,
+          141.9483642578125
+        ],
+        [
+          70.5234375,
+          141.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "5045.10\u2014Protection of Checks in Process of Preparation",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          46.6171875,
+          161.6484375
+        ],
+        [
+          375.3857421875,
+          161.6484375
+        ],
+        [
+          375.3857421875,
+          173.92633056640625
+        ],
+        [
+          46.6171875,
+          173.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.15\u2014Postprint Verification of Checks Without Preprinted Check Symbol and Serial\nNumbers",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          269.92633056640625
+        ],
+        [
+          544.00146484375,
+          269.92633056640625
+        ],
+        [
+          544.00146484375,
+          301.42633056640625
+        ],
+        [
+          47.8125,
+          301.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.20\u2014Mechanical Equipment for Drawing Checks",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          493.06640625
+        ],
+        [
+          353.98175048828125,
+          493.06640625
+        ],
+        [
+          353.98175048828125,
+          505.42633056640625
+        ],
+        [
+          47.8125,
+          505.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.20a\u2014Requirements Applicable to Check Signing Machines and Payment Systems",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          46.6171875,
+          703.0546875
+        ],
+        [
+          546.8574829101562,
+          703.0546875
+        ],
+        [
+          546.8574829101562,
+          715.4263229370117
+        ],
+        [
+          46.6171875,
+          715.4263229370117
+        ]
+      ]
+    },
+    {
+      "title": "5045.25\u2014Quality Standards of Printing",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.8125,
+          95.90625
+        ],
+        [
+          270.997802734375,
+          95.90625
+        ],
+        [
+          270.997802734375,
+          107.92633056640625
+        ],
+        [
+          47.8125,
+          107.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.30\u2014General Instructions for Inscribing and Positioning of Data Added to Checks",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          46.6171875,
+          261.67633056640625
+        ],
+        [
+          540.6294555664062,
+          261.67633056640625
+        ],
+        [
+          540.6294555664062,
+          273.67633056640625
+        ],
+        [
+          46.6171875,
+          273.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.35\u2014Inscription of Payee Name and Other Identification Data",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          46.6171875,
+          503.92633056640625
+        ],
+        [
+          425.91363525390625,
+          503.92633056640625
+        ],
+        [
+          425.91363525390625,
+          515.9263305664062
+        ],
+        [
+          46.6171875,
+          515.9263305664062
+        ]
+      ]
+    },
+    {
+      "title": "5045.35a\u2014Payee's Name",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.708984375,
+          572.9263305664062
+        ],
+        [
+          194.85391235351562,
+          572.9263305664062
+        ],
+        [
+          194.85391235351562,
+          584.9263153076172
+        ],
+        [
+          48.708984375,
+          584.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "5045.35b\u2014Address",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          48.111328125,
+          198.0
+        ],
+        [
+          160.70993041992188,
+          198.0
+        ],
+        [
+          160.70993041992188,
+          210.67633056640625
+        ],
+        [
+          48.111328125,
+          210.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.35c\u2014Other Identification Data",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          47.21484375,
+          287.17633056640625
+        ],
+        [
+          254.16983032226562,
+          287.17633056640625
+        ],
+        [
+          254.16983032226562,
+          299.17633056640625
+        ],
+        [
+          47.21484375,
+          299.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.40\u2014Position of Check Issue Date",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          47.21484375,
+          491.92633056640625
+        ],
+        [
+          271.72576904296875,
+          491.92633056640625
+        ],
+        [
+          271.72576904296875,
+          503.92633056640625
+        ],
+        [
+          47.21484375,
+          503.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.45\u2014Restriction on Postdating of Checks",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          47.8125,
+          586.4263305664062
+        ],
+        [
+          313.1337585449219,
+          586.4263305664062
+        ],
+        [
+          313.1337585449219,
+          598.640625
+        ],
+        [
+          47.8125,
+          598.640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.50\u2014Inscription of Check Amount",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          48.41015625,
+          713.9263229370117
+        ],
+        [
+          267.8577880859375,
+          713.9263229370117
+        ],
+        [
+          267.8577880859375,
+          725.9263229370117
+        ],
+        [
+          48.41015625,
+          725.9263229370117
+        ]
+      ]
+    },
+    {
+      "title": "5045.50a\u2014Printing of Dollar Sign",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.21484375,
+          210.67633056640625
+        ],
+        [
+          238.66983032226562,
+          210.67633056640625
+        ],
+        [
+          238.66983032226562,
+          222.67633056640625
+        ],
+        [
+          47.21484375,
+          222.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.50b\u2014Printing and Positioning of Marginal Amount",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.8125,
+          337.9921875
+        ],
+        [
+          365.5536804199219,
+          337.9921875
+        ],
+        [
+          365.5536804199219,
+          350.17633056640625
+        ],
+        [
+          47.8125,
+          350.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.50c\u2014Inscription of Medial Amount in Body of Checks",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.8125,
+          464.8359375
+        ],
+        [
+          385.74566650390625,
+          464.8359375
+        ],
+        [
+          385.74566650390625,
+          476.92633056640625
+        ],
+        [
+          47.8125,
+          476.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.50d\u2014Maximum Amount for Which Checks Can be Issued",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.8125,
+          674.9263229370117
+        ],
+        [
+          407.83367919921875,
+          674.9263229370117
+        ],
+        [
+          407.83367919921875,
+          686.9263229370117
+        ],
+        [
+          47.8125,
+          686.9263229370117
+        ]
+      ]
+    },
+    {
+      "title": "5045.55\u2014Signatures of Disbursing Officers",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          47.8125,
+          76.18359375
+        ],
+        [
+          295.4338073730469,
+          76.18359375
+        ],
+        [
+          295.4338073730469,
+          88.42633056640625
+        ],
+        [
+          47.8125,
+          88.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.55a\u2014Manual Signatures of Disbursing Officers",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          47.21484375,
+          180.59765625
+        ],
+        [
+          347.645751953125,
+          180.59765625
+        ],
+        [
+          347.645751953125,
+          192.67633056640625
+        ],
+        [
+          47.21484375,
+          192.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.55b\u2014Facsimile Signatures",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          47.21484375,
+          327.67633056640625
+        ],
+        [
+          232.66184997558594,
+          327.67633056640625
+        ],
+        [
+          232.66184997558594,
+          339.67633056640625
+        ],
+        [
+          47.21484375,
+          339.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.60\u2014Space Provided for Printing in Magnetic Ink",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          48.41015625,
+          435.67633056640625
+        ],
+        [
+          354.6097106933594,
+          435.67633056640625
+        ],
+        [
+          354.6097106933594,
+          447.67633056640625
+        ],
+        [
+          48.41015625,
+          447.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.65\u2014Controls to Prevent Release of Imperfect Checks",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          47.8125,
+          562.4263305664062
+        ],
+        [
+          386.03369140625,
+          562.4263305664062
+        ],
+        [
+          386.03369140625,
+          574.4263153076172
+        ],
+        [
+          47.8125,
+          574.4263153076172
+        ]
+      ]
+    },
+    {
+      "title": "5045.70\u2014Imperfect Checks Returned by Holders",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          47.8125,
+          710.015625
+        ],
+        [
+          327.1977233886719,
+          710.015625
+        ],
+        [
+          327.1977233886719,
+          722.1763229370117
+        ],
+        [
+          47.8125,
+          722.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "5045.70a\u2014No Apparent Evidence of Attempted Fraud",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          48.41015625,
+          210.67633056640625
+        ],
+        [
+          355.6817321777344,
+          210.67633056640625
+        ],
+        [
+          355.6817321777344,
+          222.67633056640625
+        ],
+        [
+          48.41015625,
+          222.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5045.70b\u2014Evidence of Possible Fraud",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          47.8125,
+          319.42633056640625
+        ],
+        [
+          269.2098083496094,
+          319.42633056640625
+        ],
+        [
+          269.2098083496094,
+          331.42633056640625
+        ],
+        [
+          47.8125,
+          331.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          33.75,
+          507.8085632324219
+        ],
+        [
+          239.29087829589844,
+          507.8085632324219
+        ],
+        [
+          239.29087829589844,
+          528.8085632324219
+        ],
+        [
+          33.75,
+          528.8085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Contacts",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          71.25,
+          548.4483642578125
+        ],
+        [
+          186.72889709472656,
+          548.4483642578125
+        ],
+        [
+          186.72889709472656,
+          561.9483642578125
+        ],
+        [
+          71.25,
+          561.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Printing@treasury.gov",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          72.31640625,
+          121.81640625
+        ],
+        [
+          200.09188842773438,
+          121.81640625
+        ],
+        [
+          200.09188842773438,
+          134.17633056640625
+        ],
+        [
+          72.31640625,
+          134.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "PFC-OSB-Accounting@fiscal.treasury.gov",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          71.71875,
+          510.46875
+        ],
+        [
+          314.103759765625,
+          510.46875
+        ],
+        [
+          314.103759765625,
+          523.4263305664062
+        ],
+        [
+          71.71875,
+          523.4263305664062
+        ]
+      ]
+    },
+    {
+      "title": "aps-team2@gpo.gov",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          73.5,
+          96.67633056640625
+        ],
+        [
+          192.50787353515625,
+          96.67633056640625
+        ],
+        [
+          192.50787353515625,
+          108.67633056640625
+        ],
+        [
+          73.5,
+          108.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          32.87109375,
+          666.8085632324219
+        ],
+        [
+          155.69692993164062,
+          666.8085632324219
+        ],
+        [
+          155.69692993164062,
+          687.8085632324219
+        ],
+        [
+          32.87109375,
+          687.8085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          32.87109375,
+          165.80859375
+        ],
+        [
+          248.264892578125,
+          165.80859375
+        ],
+        [
+          248.264892578125,
+          186.80859375
+        ],
+        [
+          32.87109375,
+          186.80859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          733
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          757
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          879
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          621
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          705
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          663
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          743
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          617
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          591
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          700
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          573
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          641
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          781
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          683
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          807
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          614
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          462
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 5000 Requisitioning, Preparing, And Issuing Treasury Checks _ TFX_ Treasury Financial Experience"
+}

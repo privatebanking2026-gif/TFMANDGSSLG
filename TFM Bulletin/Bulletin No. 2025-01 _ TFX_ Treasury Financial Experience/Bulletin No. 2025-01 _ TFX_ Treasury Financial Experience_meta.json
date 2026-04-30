@@ -1,0 +1,297 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Bulletin No. 2025-01",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          299.9198913574219,
+          50.39898681640625
+        ],
+        [
+          299.9198913574219,
+          80.39898681640625
+        ],
+        [
+          33.46875,
+          80.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "1. Purpose",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.158203125,
+          181.37109375
+        ],
+        [
+          100.50995635986328,
+          181.37109375
+        ],
+        [
+          100.50995635986328,
+          194.17633056640625
+        ],
+        [
+          36.158203125,
+          194.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2. Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          35.560546875,
+          289.65234375
+        ],
+        [
+          104.72993469238281,
+          289.65234375
+        ],
+        [
+          104.72993469238281,
+          302.17633056640625
+        ],
+        [
+          35.560546875,
+          302.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3. Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.45703125,
+          378.67633056640625
+        ],
+        [
+          122.66593933105469,
+          378.67633056640625
+        ],
+        [
+          122.66593933105469,
+          390.97265625
+        ],
+        [
+          36.45703125,
+          390.97265625
+        ]
+      ]
+    },
+    {
+      "title": "4. Treasury's Agency Priority Goal",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.859375,
+          170.17633056640625
+        ],
+        [
+          229.6858367919922,
+          170.17633056640625
+        ],
+        [
+          229.6858367919922,
+          182.17633056640625
+        ],
+        [
+          35.859375,
+          182.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5. Application",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          35.859375,
+          461.92633056640625
+        ],
+        [
+          117.42191314697266,
+          461.92633056640625
+        ],
+        [
+          117.42191314697266,
+          473.92633056640625
+        ],
+        [
+          35.859375,
+          473.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "6. Effective Date",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          36.158203125,
+          694.4263229370117
+        ],
+        [
+          132.58592224121094,
+          694.4263229370117
+        ],
+        [
+          132.58592224121094,
+          706.4263229370117
+        ],
+        [
+          36.158203125,
+          706.4263229370117
+        ]
+      ]
+    },
+    {
+      "title": "7. Inquiries",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          36.45703125,
+          32.09765625
+        ],
+        [
+          101.87393951416016,
+          32.09765625
+        ],
+        [
+          101.87393951416016,
+          44.17633056640625
+        ],
+        [
+          36.45703125,
+          44.17633056640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          533
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          561
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          13
+        ],
+        [
+          "Line",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Bulletin No. 2025-01 _ TFX_ Treasury Financial Experience"
+}

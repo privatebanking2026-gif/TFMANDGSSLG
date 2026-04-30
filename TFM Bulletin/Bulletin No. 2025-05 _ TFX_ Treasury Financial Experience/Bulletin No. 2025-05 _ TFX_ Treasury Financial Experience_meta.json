@@ -1,0 +1,786 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Bulletin No. 2025-05",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.87109375,
+          50.39898681640625
+        ],
+        [
+          299.9198913574219,
+          50.39898681640625
+        ],
+        [
+          299.9198913574219,
+          80.39898681640625
+        ],
+        [
+          32.87109375,
+          80.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "1. Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.169921875,
+          194.92633056640625
+        ],
+        [
+          119.32994079589844,
+          194.92633056640625
+        ],
+        [
+          119.32994079589844,
+          206.92633056640625
+        ],
+        [
+          33.169921875,
+          206.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "2. Authority",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.169921875,
+          114.67633056640625
+        ],
+        [
+          101.39393615722656,
+          114.67633056640625
+        ],
+        [
+          101.39393615722656,
+          126.67633056640625
+        ],
+        [
+          33.169921875,
+          126.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3. Federal Entity Relief Options",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          328.32421875
+        ],
+        [
+          212.2978057861328,
+          328.32421875
+        ],
+        [
+          212.2978057861328,
+          340.42633056640625
+        ],
+        [
+          33.46875,
+          340.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Legacy In-Flight Buy/Sell Activity Relief Options",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.75,
+          473.34375
+        ],
+        [
+          308.273681640625,
+          473.34375
+        ],
+        [
+          308.273681640625,
+          486.67633056640625
+        ],
+        [
+          33.75,
+          486.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Intra-Departmental Buy/Sell Relief Options",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.87109375,
+          134.17633056640625
+        ],
+        [
+          279.82171630859375,
+          134.17633056640625
+        ],
+        [
+          279.82171630859375,
+          146.17633056640625
+        ],
+        [
+          32.87109375,
+          146.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "G-Invoicing Non-Compliant Buy/Sell Relief Option",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.46875,
+          449.17633056640625
+        ],
+        [
+          320.4616394042969,
+          449.17633056640625
+        ],
+        [
+          320.4616394042969,
+          461.17633056640625
+        ],
+        [
+          33.46875,
+          461.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Federal Entity Relief Options Decision Matrix",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.46875,
+          649.4263305664062
+        ],
+        [
+          289.4337158203125,
+          649.4263305664062
+        ],
+        [
+          289.4337158203125,
+          661.4263153076172
+        ],
+        [
+          33.46875,
+          661.4263153076172
+        ]
+      ]
+    },
+    {
+      "title": "4. Streamlined Approach to Fund Settlement (7600EZ) Update",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.078125,
+          297.38671875
+        ],
+        [
+          386.94964599609375,
+          297.38671875
+        ],
+        [
+          386.94964599609375,
+          309.67657470703125
+        ],
+        [
+          31.078125,
+          309.67657470703125
+        ]
+      ]
+    },
+    {
+      "title": "5. Agency Activities Essential to Fulfill Statutory Purpose",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          32.2734375,
+          574.4265747070312
+        ],
+        [
+          359.3496398925781,
+          574.4265747070312
+        ],
+        [
+          359.3496398925781,
+          586.4265594482422
+        ],
+        [
+          32.2734375,
+          586.4265594482422
+        ]
+      ]
+    },
+    {
+      "title": "Treasury Financial Manual, Volume 1, Part 2, Chapter 4700, Section 4715",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          31.078125,
+          695.9265670776367
+        ],
+        [
+          446.9256591796875,
+          695.9265670776367
+        ],
+        [
+          446.9256591796875,
+          707.9265670776367
+        ],
+        [
+          31.078125,
+          707.9265670776367
+        ]
+      ]
+    },
+    {
+      "title": "Treasury Financial Manual, Volume 1, Part 2, Chapter 4700, Appendix 8 \u2013 Intra-governmental\nTransactions Buy/Sell",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          32.2734375,
+          114.46875
+        ],
+        [
+          559.0134887695312,
+          114.46875
+        ],
+        [
+          559.0134887695312,
+          146.17633056640625
+        ],
+        [
+          32.2734375,
+          146.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "6. References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.75,
+          222.67633056640625
+        ],
+        [
+          114.35393524169922,
+          222.67633056640625
+        ],
+        [
+          114.35393524169922,
+          234.67633056640625
+        ],
+        [
+          33.75,
+          234.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "7. Effective Date",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.169921875,
+          292.74609375
+        ],
+        [
+          129.2499237060547,
+          292.74609375
+        ],
+        [
+          129.2499237060547,
+          305.17633056640625
+        ],
+        [
+          33.169921875,
+          305.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "8. Inquiries",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.46875,
+          343.42633056640625
+        ],
+        [
+          98.5379409790039,
+          343.42633056640625
+        ],
+        [
+          98.5379409790039,
+          355.42633056640625
+        ],
+        [
+          33.46875,
+          355.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Appendix A",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          273.427734375,
+          543.6874389648438
+        ],
+        [
+          339.698974609375,
+          543.6874389648438
+        ],
+        [
+          339.698974609375,
+          556.1015625
+        ],
+        [
+          273.427734375,
+          556.1015625
+        ]
+      ]
+    },
+    {
+      "title": "Department of the Treasury's Statutory Responsibilities",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          31.078125,
+          571.4263305664062
+        ],
+        [
+          351.20965576171875,
+          571.4263305664062
+        ],
+        [
+          351.20965576171875,
+          583.55859375
+        ],
+        [
+          31.078125,
+          583.55859375
+        ]
+      ]
+    },
+    {
+      "title": "31 U.S.C. 331(e)(1)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          33.169921875,
+          601.4263305664062
+        ],
+        [
+          138.30194091796875,
+          601.4263305664062
+        ],
+        [
+          138.30194091796875,
+          614.49609375
+        ],
+        [
+          33.169921875,
+          614.49609375
+        ]
+      ]
+    },
+    {
+      "title": "31 U.S.C. 3512(b)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.87109375,
+          76.18359375
+        ],
+        [
+          131.64193725585938,
+          76.18359375
+        ],
+        [
+          131.64193725585938,
+          88.42633056640625
+        ],
+        [
+          32.87109375,
+          88.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "31 U.S.C 3513",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.2734375,
+          363.515625
+        ],
+        [
+          114.90995788574219,
+          363.515625
+        ],
+        [
+          114.90995788574219,
+          376.42633056640625
+        ],
+        [
+          32.2734375,
+          376.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Statutes Regarding the Executive Branch Agency Responsibilities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.2734375,
+          589.4263305664062
+        ],
+        [
+          412.4936218261719,
+          589.4263305664062
+        ],
+        [
+          412.4936218261719,
+          602.12109375
+        ],
+        [
+          32.2734375,
+          602.12109375
+        ]
+      ]
+    },
+    {
+      "title": "Chief Financial Officers Act of 1990 (Public Law 101-576)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.2734375,
+          678.6763229370117
+        ],
+        [
+          356.2093811035156,
+          678.6763229370117
+        ],
+        [
+          356.2093811035156,
+          690.6874465942383
+        ],
+        [
+          32.2734375,
+          690.6874465942383
+        ]
+      ]
+    },
+    {
+      "title": "Federal Financial Management Improvement Act of 1996 (FFMIA) Pub. L. 104-208 (31 U.S.C.\n3512 note)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          33.46875,
+          222.75
+        ],
+        [
+          556.0521850585938,
+          222.75
+        ],
+        [
+          556.0521850585938,
+          254.92584228515625
+        ],
+        [
+          33.46875,
+          254.92584228515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          643
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          552
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          450
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          355
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          512
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          7
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          696
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          625
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Bulletin No. 2025-05 _ TFX_ Treasury Financial Experience"
+}

@@ -1,0 +1,359 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 4500 Loans, Credits, And\nContingent Liabilities Involving Foreigners",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          543.9097290039062,
+          50.39898681640625
+        ],
+        [
+          543.9097290039062,
+          122.39898681640625
+        ],
+        [
+          33.75,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Loans, Credits, And Contingent Liabilities Involving\nForeigners",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          159.05859375
+        ],
+        [
+          547.3816528320312,
+          159.05859375
+        ],
+        [
+          547.3816528320312,
+          209.30859375
+        ],
+        [
+          32.2734375,
+          209.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          228.55078125
+        ],
+        [
+          152.40744018554688,
+          228.55078125
+        ],
+        [
+          152.40744018554688,
+          242.4483642578125
+        ],
+        [
+          71.25,
+          242.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4510\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          332.4483642578125
+        ],
+        [
+          320.5408020019531,
+          332.4483642578125
+        ],
+        [
+          320.5408020019531,
+          345.9483642578125
+        ],
+        [
+          70.5234375,
+          345.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          505.5585632324219
+        ],
+        [
+          239.29087829589844,
+          505.5585632324219
+        ],
+        [
+          239.29087829589844,
+          526.5585632324219
+        ],
+        [
+          33.46875,
+          526.5585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter to:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.75,
+          579.3046875
+        ],
+        [
+          294.2657470703125,
+          579.3046875
+        ],
+        [
+          294.2657470703125,
+          591.6763153076172
+        ],
+        [
+          48.75,
+          591.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.169921875,
+          33.05859375
+        ],
+        [
+          155.69692993164062,
+          33.05859375
+        ],
+        [
+          155.69692993164062,
+          54.52734375
+        ],
+        [
+          33.169921875,
+          54.52734375
+        ]
+      ]
+    },
+    {
+      "title": "Appendices Listing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.92578125,
+          73.6983642578125
+        ],
+        [
+          196.95741271972656,
+          73.6983642578125
+        ],
+        [
+          196.95741271972656,
+          87.3984375
+        ],
+        [
+          69.92578125,
+          87.3984375
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.46875,
+          221.30859375
+        ],
+        [
+          248.264892578125,
+          221.30859375
+        ],
+        [
+          248.264892578125,
+          242.47265625
+        ],
+        [
+          33.46875,
+          242.47265625
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.626953125,
+          261.9483642578125
+        ],
+        [
+          206.73590087890625,
+          261.9483642578125
+        ],
+        [
+          206.73590087890625,
+          275.73046875
+        ],
+        [
+          69.626953125,
+          275.73046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          339
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "TableCell",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 4500 Loans, Credits, And Contingent Liabilities Involving Foreigners _ TFX_ Treasury Financial Experience"
+}

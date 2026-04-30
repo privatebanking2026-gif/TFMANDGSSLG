@@ -1,0 +1,1782 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 1500 New Account Establishment,\nUpdating Accounts, and Description of\nAccounts Relating to Financial Operations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          50.39898681640625
+        ],
+        [
+          579.1097412109375,
+          50.39898681640625
+        ],
+        [
+          579.1097412109375,
+          165.12890625
+        ],
+        [
+          32.2734375,
+          165.12890625
+        ]
+      ]
+    },
+    {
+      "title": "New Account Establishment, Updating Accounts, and\nDescription of Accounts Relating to Financial\nOperations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          199.93359375
+        ],
+        [
+          573.4846801757812,
+          199.93359375
+        ],
+        [
+          573.4846801757812,
+          280.5585632324219
+        ],
+        [
+          33.75,
+          280.5585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          300.9483642578125
+        ],
+        [
+          152.40744018554688,
+          300.9483642578125
+        ],
+        [
+          152.40744018554688,
+          314.4483642578125
+        ],
+        [
+          70.5234375,
+          314.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1510\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          505.6983642578125
+        ],
+        [
+          320.5408020019531,
+          505.6983642578125
+        ],
+        [
+          320.5408020019531,
+          520.91015625
+        ],
+        [
+          71.25,
+          520.91015625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1515\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          589.359375
+        ],
+        [
+          228.36289978027344,
+          589.359375
+        ],
+        [
+          228.36289978027344,
+          604.828125
+        ],
+        [
+          71.12109375,
+          604.828125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1520\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          711.9483642578125
+        ],
+        [
+          307.24334716796875,
+          711.9483642578125
+        ],
+        [
+          307.24334716796875,
+          725.4483642578125
+        ],
+        [
+          70.5234375,
+          725.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1525\u2014Establishing New Treasury Appropriation Fund Symbols\n(TAFS)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.328125,
+          36.9483642578125
+        ],
+        [
+          526.6451416015625,
+          36.9483642578125
+        ],
+        [
+          526.6451416015625,
+          66.515625
+        ],
+        [
+          69.328125,
+          66.515625
+        ]
+      ]
+    },
+    {
+      "title": "1525.10\u2014Establishing a New Program/Fund (Main Account)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          392.90625
+        ],
+        [
+          389.9297180175781,
+          392.90625
+        ],
+        [
+          389.9297180175781,
+          405.67633056640625
+        ],
+        [
+          47.8125,
+          405.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1525.20\u2014Establishing a New Period of Availability for an Existing Program/Fund\nAccounts may be established either:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          507.375
+        ],
+        [
+          507.12158203125,
+          507.375
+        ],
+        [
+          507.12158203125,
+          545.1874389648438
+        ],
+        [
+          47.8125,
+          545.1874389648438
+        ]
+      ]
+    },
+    {
+      "title": "1525.30\u2014Establishing New Custodial Accounts",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.41015625,
+          76.5703125
+        ],
+        [
+          320.42974853515625,
+          76.5703125
+        ],
+        [
+          320.42974853515625,
+          89.17633056640625
+        ],
+        [
+          48.41015625,
+          89.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1530\u2014Additional TAFS Requests",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          525.1640625
+        ],
+        [
+          333.50079345703125,
+          525.1640625
+        ],
+        [
+          333.50079345703125,
+          539.0859375
+        ],
+        [
+          71.12109375,
+          539.0859375
+        ]
+      ]
+    },
+    {
+      "title": "1530.10\u2014Federal Appropriation Symbols and Titles (FAST Book)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.75,
+          32.09765625
+        ],
+        [
+          415.0216064453125,
+          32.09765625
+        ],
+        [
+          415.0216064453125,
+          44.17657470703125
+        ],
+        [
+          48.75,
+          44.17657470703125
+        ]
+      ]
+    },
+    {
+      "title": "1530.20\u2014Amending Accounts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.41015625,
+          185.92657470703125
+        ],
+        [
+          221.80186462402344,
+          185.92657470703125
+        ],
+        [
+          221.80186462402344,
+          197.92657470703125
+        ],
+        [
+          48.41015625,
+          197.92657470703125
+        ]
+      ]
+    },
+    {
+      "title": "1530.30\u2014Requesting additional BETCs for Reporting",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.75,
+          417.67657470703125
+        ],
+        [
+          352.9457092285156,
+          417.67657470703125
+        ],
+        [
+          352.9457092285156,
+          429.67657470703125
+        ],
+        [
+          48.75,
+          429.67657470703125
+        ]
+      ]
+    },
+    {
+      "title": "1530.40\u2014Suspending Accounts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          635.1765747070312
+        ],
+        [
+          231.38983154296875,
+          635.1765747070312
+        ],
+        [
+          231.38983154296875,
+          647.1765594482422
+        ],
+        [
+          47.8125,
+          647.1765594482422
+        ]
+      ]
+    },
+    {
+      "title": "1530.50 \u2013 Closing Accounts",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.41015625,
+          247.88671875
+        ],
+        [
+          207.8098602294922,
+          247.88671875
+        ],
+        [
+          207.8098602294922,
+          260.17633056640625
+        ],
+        [
+          48.41015625,
+          260.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1530.60\u2013Closing a Zero Balance No Year TAFS with an Indefinite Period of\nAvailability",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          402.1875
+        ],
+        [
+          516.74951171875,
+          402.1875
+        ],
+        [
+          516.74951171875,
+          433.42633056640625
+        ],
+        [
+          47.8125,
+          433.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1530.70-Closing a Zero Balance Annual or Multi-Year TAFS with a Definite Period\nof Availability",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          643.4263305664062
+        ],
+        [
+          557.83349609375,
+          643.4263305664062
+        ],
+        [
+          557.83349609375,
+          674.1763229370117
+        ],
+        [
+          47.8125,
+          674.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "1530.80\u2014Re-Activating Closed Accounts",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.41015625,
+          76.95703125
+        ],
+        [
+          284.9097900390625,
+          76.95703125
+        ],
+        [
+          284.9097900390625,
+          89.92633056640625
+        ],
+        [
+          48.41015625,
+          89.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1535\u2014Fund Account Descriptions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.25,
+          395.61328125
+        ],
+        [
+          342.27581787109375,
+          395.61328125
+        ],
+        [
+          342.27581787109375,
+          410.4483642578125
+        ],
+        [
+          71.25,
+          410.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "1535.10\u2014Clearing, Default, and Custodial Accounts",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.41015625,
+          699.6763229370117
+        ],
+        [
+          345.34173583984375,
+          699.6763229370117
+        ],
+        [
+          345.34173583984375,
+          711.6763229370117
+        ],
+        [
+          48.41015625,
+          711.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "1535.20\u2014Consolidated Working Fund Accounts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.41015625,
+          557.1758422851562
+        ],
+        [
+          322.2297668457031,
+          557.1758422851562
+        ],
+        [
+          322.2297668457031,
+          569.1758270263672
+        ],
+        [
+          48.41015625,
+          569.1758270263672
+        ]
+      ]
+    },
+    {
+      "title": "1535.30\u2014Management Fund Accounts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          626.9258422851562
+        ],
+        [
+          270.9418029785156,
+          626.9258422851562
+        ],
+        [
+          270.9418029785156,
+          638.9258270263672
+        ],
+        [
+          47.8125,
+          638.9258270263672
+        ]
+      ]
+    },
+    {
+      "title": "1535.40\u2014Revolving Fund Accounts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.41015625,
+          715.4258346557617
+        ],
+        [
+          249.70181274414062,
+          715.4258346557617
+        ],
+        [
+          249.70181274414062,
+          727.4258346557617
+        ],
+        [
+          48.41015625,
+          727.4258346557617
+        ]
+      ]
+    },
+    {
+      "title": "1535.50\u2014Special Fund Expenditure Accounts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.21484375,
+          204.57421875
+        ],
+        [
+          309.8218078613281,
+          204.57421875
+        ],
+        [
+          309.8218078613281,
+          216.67633056640625
+        ],
+        [
+          47.21484375,
+          216.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1535.60\u2014Trust Fund Expenditure Accounts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.21484375,
+          274.18359375
+        ],
+        [
+          296.52581787109375,
+          274.18359375
+        ],
+        [
+          296.52581787109375,
+          286.42633056640625
+        ],
+        [
+          47.21484375,
+          286.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1535.70\u2014Trust Revolving Fund/Trust Non-Revolving Fund",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          48.75,
+          363.67633056640625
+        ],
+        [
+          379.3096923828125,
+          363.67633056640625
+        ],
+        [
+          379.3096923828125,
+          375.67633056640625
+        ],
+        [
+          48.75,
+          375.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1535.80\u2014Allocation Accounts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          48.41015625,
+          432.67633056640625
+        ],
+        [
+          221.1178436279297,
+          432.67633056640625
+        ],
+        [
+          221.1178436279297,
+          444.67633056640625
+        ],
+        [
+          48.41015625,
+          444.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1540\u2014Receipt Account Classification",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.25,
+          624.1983642578125
+        ],
+        [
+          365.765625,
+          624.1983642578125
+        ],
+        [
+          365.765625,
+          637.69921875
+        ],
+        [
+          71.25,
+          637.69921875
+        ]
+      ]
+    },
+    {
+      "title": "1540.10\u2014Fund Groups and Major Classes of Receipt Account",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.75,
+          271.08984375
+        ],
+        [
+          401.97369384765625,
+          271.08984375
+        ],
+        [
+          401.97369384765625,
+          284.17584228515625
+        ],
+        [
+          48.75,
+          284.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "1540.20\u2014General Fund Receipt Accounts",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          477.59765625
+        ],
+        [
+          287.81378173828125,
+          477.59765625
+        ],
+        [
+          287.81378173828125,
+          490.42633056640625
+        ],
+        [
+          47.8125,
+          490.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1540.30\u2014Special Fund Receipt Accounts",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          605.9263305664062
+        ],
+        [
+          285.1377868652344,
+          605.9263305664062
+        ],
+        [
+          285.1377868652344,
+          617.9765625
+        ],
+        [
+          47.8125,
+          617.9765625
+        ]
+      ]
+    },
+    {
+      "title": "1540.40\u2014Trust Fund Receipt Accounts",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          694.4263229370117
+        ],
+        [
+          271.8418273925781,
+          694.4263229370117
+        ],
+        [
+          271.8418273925781,
+          706.4263229370117
+        ],
+        [
+          47.8125,
+          706.4263229370117
+        ]
+      ]
+    },
+    {
+      "title": "1540.50\u2014Available Receipts",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.75,
+          95.92584228515625
+        ],
+        [
+          211.55384826660156,
+          95.92584228515625
+        ],
+        [
+          211.55384826660156,
+          107.92584228515625
+        ],
+        [
+          48.75,
+          107.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "1540.60\u2014Unavailable Receipts",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.21484375,
+          383.17584228515625
+        ],
+        [
+          226.44583129882812,
+          383.17584228515625
+        ],
+        [
+          226.44583129882812,
+          396.0
+        ],
+        [
+          47.21484375,
+          396.0
+        ]
+      ]
+    },
+    {
+      "title": "Section 1545\u2014Expenditure Account Classification",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.25,
+          521.68359375
+        ],
+        [
+          393.2382507324219,
+          521.68359375
+        ],
+        [
+          393.2382507324219,
+          536.4478759765625
+        ],
+        [
+          71.25,
+          536.4478759765625
+        ]
+      ]
+    },
+    {
+      "title": "1545.10\u2014Fund Groups for Expenditure Accounts",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          48.75,
+          653.1758422851562
+        ],
+        [
+          328.9617919921875,
+          653.1758422851562
+        ],
+        [
+          328.9617919921875,
+          665.1758346557617
+        ],
+        [
+          48.75,
+          665.1758346557617
+        ]
+      ]
+    },
+    {
+      "title": "1545.20\u2014Identifying the Period of Availability",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.41015625,
+          433.8984375
+        ],
+        [
+          307.6617126464844,
+          433.8984375
+        ],
+        [
+          307.6617126464844,
+          446.17633056640625
+        ],
+        [
+          48.41015625,
+          446.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1545.30\u2014General Fund Expenditure Accounts",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          301.42633056640625
+        ],
+        [
+          312.4977722167969,
+          301.42633056640625
+        ],
+        [
+          312.4977722167969,
+          313.62890625
+        ],
+        [
+          47.8125,
+          313.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1550\u2014Deposit Fund Accounts",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.12109375,
+          377.05078125
+        ],
+        [
+          317.7868347167969,
+          377.05078125
+        ],
+        [
+          317.7868347167969,
+          390.9483642578125
+        ],
+        [
+          71.12109375,
+          390.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "1550.10\u2014Proper Classification and Reporting",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.21484375,
+          220.42633056640625
+        ],
+        [
+          310.9697570800781,
+          220.42633056640625
+        ],
+        [
+          310.9697570800781,
+          232.42633056640625
+        ],
+        [
+          47.21484375,
+          232.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1550.20\u2014Need for Regular Periodic Reviews",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.41015625,
+          347.92633056640625
+        ],
+        [
+          305.5497741699219,
+          347.92633056640625
+        ],
+        [
+          305.5497741699219,
+          359.92633056640625
+        ],
+        [
+          48.41015625,
+          359.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1550.30\u2014Deposit Funds Available to All Entities",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          48.41015625,
+          533.9263305664062
+        ],
+        [
+          322.63775634765625,
+          533.9263305664062
+        ],
+        [
+          322.63775634765625,
+          546.046875
+        ],
+        [
+          48.41015625,
+          546.046875
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          33.46875,
+          33.05859375
+        ],
+        [
+          239.29087829589844,
+          33.05859375
+        ],
+        [
+          239.29087829589844,
+          54.05859375
+        ],
+        [
+          33.46875,
+          54.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter to:",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          47.8125,
+          107.17633056640625
+        ],
+        [
+          294.2657470703125,
+          107.17633056640625
+        ],
+        [
+          294.2657470703125,
+          119.49609375
+        ],
+        [
+          47.8125,
+          119.49609375
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          33.75,
+          229.32421875
+        ],
+        [
+          155.69692993164062,
+          229.32421875
+        ],
+        [
+          155.69692993164062,
+          258.05859375
+        ],
+        [
+          33.75,
+          258.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Appendices Listing",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          69.626953125,
+          277.6983642578125
+        ],
+        [
+          196.95741271972656,
+          277.6983642578125
+        ],
+        [
+          196.95741271972656,
+          291.19921875
+        ],
+        [
+          69.626953125,
+          291.19921875
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          31.67578125,
+          500.02734375
+        ],
+        [
+          248.264892578125,
+          500.02734375
+        ],
+        [
+          248.264892578125,
+          522.0585632324219
+        ],
+        [
+          31.67578125,
+          522.0585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          70.822265625,
+          541.6983642578125
+        ],
+        [
+          206.73590087890625,
+          541.6983642578125
+        ],
+        [
+          206.73590087890625,
+          558.03515625
+        ],
+        [
+          70.822265625,
+          558.03515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          341
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          472
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          590
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          525
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          554
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          473
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          628
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          521
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          353
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          383
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          415
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          549
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          661
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 1500 New Account Establishment, Updating Accounts, and Description of Accounts Relating to Financial Operations _ TFX_ Treasury Financial Experience"
+}

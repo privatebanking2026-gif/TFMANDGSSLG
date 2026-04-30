@@ -1,0 +1,1965 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Responsibilities Relating To Government Investment\nAccounts And Investment In Government Account\nSeries Securities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          242.47265625
+        ],
+        [
+          559.0927124023438,
+          242.47265625
+        ],
+        [
+          559.0927124023438,
+          322.5585632324219
+        ],
+        [
+          33.75,
+          322.5585632324219
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.822265625,
+          342.9483642578125
+        ],
+        [
+          152.40744018554688,
+          342.9483642578125
+        ],
+        [
+          152.40744018554688,
+          356.4483642578125
+        ],
+        [
+          70.822265625,
+          356.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4310\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          444.7265625
+        ],
+        [
+          318.2052917480469,
+          444.7265625
+        ],
+        [
+          318.2052917480469,
+          459.1983642578125
+        ],
+        [
+          71.12109375,
+          459.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4315\u2014Authority",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.25,
+          675.1983642578125
+        ],
+        [
+          226.02740478515625,
+          675.1983642578125
+        ],
+        [
+          226.02740478515625,
+          690.6796875
+        ],
+        [
+          71.25,
+          690.6796875
+        ]
+      ]
+    },
+    {
+      "title": "Section 4320\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.25,
+          424.6983642578125
+        ],
+        [
+          309.65985107421875,
+          424.6983642578125
+        ],
+        [
+          309.65985107421875,
+          438.1983642578125
+        ],
+        [
+          71.25,
+          438.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "4325.10\u2014Investment Authority",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.6171875,
+          629.1763305664062
+        ],
+        [
+          225.30584716796875,
+          629.1763305664062
+        ],
+        [
+          225.30584716796875,
+          641.1763153076172
+        ],
+        [
+          46.6171875,
+          641.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "4325.20\u2014Obtaining an account identification code from OMB for each Government\nInvestment Account",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.6171875,
+          293.51953125
+        ],
+        [
+          524.37353515625,
+          293.51953125
+        ],
+        [
+          524.37353515625,
+          324.67657470703125
+        ],
+        [
+          46.6171875,
+          324.67657470703125
+        ]
+      ]
+    },
+    {
+      "title": "4325.30\u2014Establishing each Government Investment Account within CARS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          517.4265747070312
+        ],
+        [
+          474.4535827636719,
+          517.4265747070312
+        ],
+        [
+          474.4535827636719,
+          529.4265747070312
+        ],
+        [
+          47.8125,
+          529.4265747070312
+        ]
+      ]
+    },
+    {
+      "title": "4325.40\u2014Establishing each Government Investment Account within FedInvest",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.6171875,
+          314.17633056640625
+        ],
+        [
+          495.48956298828125,
+          314.17633056640625
+        ],
+        [
+          495.48956298828125,
+          326.17633056640625
+        ],
+        [
+          46.6171875,
+          326.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4330.10\u2014Funding Government Investment Accounts from Receipts from the Public",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          46.6171875,
+          171.67633056640625
+        ],
+        [
+          525.2615356445312,
+          171.67633056640625
+        ],
+        [
+          525.2615356445312,
+          183.67633056640625
+        ],
+        [
+          46.6171875,
+          183.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4330.20\u2014Funding Government Investment Accounts from Congressional Appropriations\nof General Revenues",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.8125,
+          598.25390625
+        ],
+        [
+          554.8975219726562,
+          598.25390625
+        ],
+        [
+          554.8975219726562,
+          629.9263153076172
+        ],
+        [
+          47.8125,
+          629.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "4330.30\u2014Funding Government Investment Accounts from Advances",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          698.9258346557617
+        ],
+        [
+          440.2856750488281,
+          698.9258346557617
+        ],
+        [
+          440.2856750488281,
+          710.9258346557617
+        ],
+        [
+          47.8125,
+          710.9258346557617
+        ]
+      ]
+    },
+    {
+      "title": "4335.10\u2014Description of Government Account Series (GAS) Securities",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.6171875,
+          208.42633056640625
+        ],
+        [
+          447.1256408691406,
+          208.42633056640625
+        ],
+        [
+          447.1256408691406,
+          220.81640625
+        ],
+        [
+          46.6171875,
+          220.81640625
+        ]
+      ]
+    },
+    {
+      "title": "4335.20\u2014Description of Market-Based GAS Securities",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          316.42633056640625
+        ],
+        [
+          360.4497375488281,
+          316.42633056640625
+        ],
+        [
+          360.4497375488281,
+          328.7109375
+        ],
+        [
+          47.8125,
+          328.7109375
+        ]
+      ]
+    },
+    {
+      "title": "4335.30\u2014Description of Par-Value GAS Securities",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.21484375,
+          512.9258422851562
+        ],
+        [
+          333.7977600097656,
+          512.9258422851562
+        ],
+        [
+          333.7977600097656,
+          524.9258422851562
+        ],
+        [
+          47.21484375,
+          524.9258422851562
+        ]
+      ]
+    },
+    {
+      "title": "4335.50\u2014Responsibilities Relating to the Determination of Amounts Available for\nInvestment and Amounts to be Invested",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          210.67633056640625
+        ],
+        [
+          511.5135192871094,
+          210.67633056640625
+        ],
+        [
+          511.5135192871094,
+          242.17633056640625
+        ],
+        [
+          47.8125,
+          242.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4335.60\u2014Responsibilities and Limitations Relating to the Selection of the Investment\nSecurities",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          31.32421875
+        ],
+        [
+          534.489501953125,
+          31.32421875
+        ],
+        [
+          534.489501953125,
+          63.67584228515625
+        ],
+        [
+          47.8125,
+          63.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "4335.70\u2014Responsibilities and Procedures Relating to Investment Instructions",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          46.6171875,
+          376.27734375
+        ],
+        [
+          494.62158203125,
+          376.27734375
+        ],
+        [
+          494.62158203125,
+          388.42633056640625
+        ],
+        [
+          46.6171875,
+          388.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4335.80\u2014Pricing Investments in GAS Securities",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          657.421875
+        ],
+        [
+          322.2297668457031,
+          657.421875
+        ],
+        [
+          322.2297668457031,
+          669.6763229370117
+        ],
+        [
+          47.8125,
+          669.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "4335.90\u2014Investment Confirmations",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          47.21484375,
+          434.17633056640625
+        ],
+        [
+          254.46580505371094,
+          434.17633056640625
+        ],
+        [
+          254.46580505371094,
+          446.17633056640625
+        ],
+        [
+          47.21484375,
+          446.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4335.95\u2014Policies Governing Investment of Monies in Government Investment Accounts",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          46.6171875,
+          580.4263305664062
+        ],
+        [
+          552.2095336914062,
+          580.4263305664062
+        ],
+        [
+          552.2095336914062,
+          592.4263153076172
+        ],
+        [
+          46.6171875,
+          592.4263153076172
+        ]
+      ]
+    },
+    {
+      "title": "4340.10\u2014Maturity Dates of GAS Securities",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          46.6171875,
+          570.0234375
+        ],
+        [
+          293.8138122558594,
+          570.0234375
+        ],
+        [
+          293.8138122558594,
+          582.6763153076172
+        ],
+        [
+          46.6171875,
+          582.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "4340.20\u2014Responsibilities Relating to Early Redemption Amounts",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          47.8125,
+          76.18359375
+        ],
+        [
+          422.1176452636719,
+          76.18359375
+        ],
+        [
+          422.1176452636719,
+          88.42633056640625
+        ],
+        [
+          47.8125,
+          88.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4340.30\u2014Responsibilities and Limitations Relating to Early Redemption Security\nSelection",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          45.421875,
+          401.92633056640625
+        ],
+        [
+          509.1294860839844,
+          401.92633056640625
+        ],
+        [
+          509.1294860839844,
+          432.67633056640625
+        ],
+        [
+          45.421875,
+          432.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4340.40\u2014Responsibilities and Procedures Relating to Redemption Instructions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          47.8125,
+          554.9263305664062
+        ],
+        [
+          500.8135681152344,
+          554.9263305664062
+        ],
+        [
+          500.8135681152344,
+          566.9263153076172
+        ],
+        [
+          47.8125,
+          566.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "4340.50\u2014Pricing Redemptions Before the Maturity Dates of GAS Securities",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          46.6171875,
+          255.62109375
+        ],
+        [
+          479.777587890625,
+          255.62109375
+        ],
+        [
+          479.777587890625,
+          267.67633056640625
+        ],
+        [
+          46.6171875,
+          267.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4340.60\u2014Redemption Confirmations",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          46.6171875,
+          548.1763305664062
+        ],
+        [
+          260.6578063964844,
+          548.1763305664062
+        ],
+        [
+          260.6578063964844,
+          560.1763153076172
+        ],
+        [
+          46.6171875,
+          560.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "4345.10\u2014Policy Governing Disbursement of Monies from Government Investment\nAccounts",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          48.75,
+          32.09765625
+        ],
+        [
+          516.5736083984375,
+          32.09765625
+        ],
+        [
+          516.5736083984375,
+          63.67633056640625
+        ],
+        [
+          48.75,
+          63.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4345.20\u2014Guidance on Disbursement Requirements",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          47.8125,
+          158.94140625
+        ],
+        [
+          345.11376953125,
+          158.94140625
+        ],
+        [
+          345.11376953125,
+          171.67633056640625
+        ],
+        [
+          47.8125,
+          171.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4350.10\u2014Accounting Requirements",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          47.8125,
+          344.17633056640625
+        ],
+        [
+          254.90982055664062,
+          344.17633056640625
+        ],
+        [
+          254.90982055664062,
+          356.17633056640625
+        ],
+        [
+          47.8125,
+          356.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4350.20\u2014Fiscal Service Published Reporting",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          47.21484375,
+          567.6763305664062
+        ],
+        [
+          305.6297607421875,
+          567.6763305664062
+        ],
+        [
+          305.6297607421875,
+          579.6763153076172
+        ],
+        [
+          47.21484375,
+          579.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "4350.30\u2014Federal Program Agency Classification Transactions and Accountability (CTA)\nSubmissions",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          47.8125,
+          31.7109375
+        ],
+        [
+          548.3414916992188,
+          31.7109375
+        ],
+        [
+          548.3414916992188,
+          63.67633056640625
+        ],
+        [
+          47.8125,
+          63.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4350.40\u2014Federal Program Agency Reconciliation Responsibilities",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          46.6171875,
+          398.17633056640625
+        ],
+        [
+          427.0136413574219,
+          398.17633056640625
+        ],
+        [
+          427.0136413574219,
+          411.08203125
+        ],
+        [
+          46.6171875,
+          411.08203125
+        ]
+      ]
+    },
+    {
+      "title": "4350.50\u2014Intra-governmental Eliminations",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          47.21484375,
+          690.6763229370117
+        ],
+        [
+          289.94976806640625,
+          690.6763229370117
+        ],
+        [
+          289.94976806640625,
+          702.6763229370117
+        ],
+        [
+          47.21484375,
+          702.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "4355.10\u2014Treasury's General Reports",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          47.21484375,
+          451.42633056640625
+        ],
+        [
+          260.94586181640625,
+          451.42633056640625
+        ],
+        [
+          260.94586181640625,
+          463.42633056640625
+        ],
+        [
+          47.21484375,
+          463.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4355.20\u2014Responsibilities Relating to Specific Reporting Requirements",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          47.8125,
+          635.765625
+        ],
+        [
+          455.2375793457031,
+          635.765625
+        ],
+        [
+          455.2375793457031,
+          647.9263153076172
+        ],
+        [
+          47.8125,
+          647.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 4360\u2014Marketable Securities and Reporting Requirements for\nMarketable Securities Statutory Authority",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          69.328125,
+          281.4483642578125
+        ],
+        [
+          520.4576416015625,
+          281.4483642578125
+        ],
+        [
+          520.4576416015625,
+          310.6983642578125
+        ],
+        [
+          69.328125,
+          310.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4360.10\u2014Reporting Requirements for Investments in Marketable Securities",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          47.8125,
+          489.5859375
+        ],
+        [
+          527.5255126953125,
+          489.5859375
+        ],
+        [
+          527.5255126953125,
+          501.67633056640625
+        ],
+        [
+          47.8125,
+          501.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          33.46875,
+          98.30859375
+        ],
+        [
+          239.29087829589844,
+          98.30859375
+        ],
+        [
+          239.29087829589844,
+          119.30859375
+        ],
+        [
+          33.46875,
+          119.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Contacts",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          69.92578125,
+          138.9483642578125
+        ],
+        [
+          186.72889709472656,
+          138.9483642578125
+        ],
+        [
+          186.72889709472656,
+          152.4483642578125
+        ],
+        [
+          69.92578125,
+          152.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "For investment and redemption of GAS Securities, and associated accruals:",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          48.75,
+          171.31640625
+        ],
+        [
+          481.8255615234375,
+          171.31640625
+        ],
+        [
+          481.8255615234375,
+          184.42633056640625
+        ],
+        [
+          48.75,
+          184.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "FedInvestor@fiscal.treasury.gov",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          48.75,
+          312.67633056640625
+        ],
+        [
+          232.46182250976562,
+          312.67633056640625
+        ],
+        [
+          232.46182250976562,
+          324.67633056640625
+        ],
+        [
+          48.75,
+          324.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "For guidance concerning the establishment of Government Investment Accounts and\naccounting responsibilities:",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          48.75,
+          358.42633056640625
+        ],
+        [
+          537.6134643554688,
+          358.42633056640625
+        ],
+        [
+          537.6134643554688,
+          389.92633056640625
+        ],
+        [
+          48.75,
+          389.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "baasgroup@fiscal.treasury.gov",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          47.8125,
+          518.1763305664062
+        ],
+        [
+          225.78982543945312,
+          518.1763305664062
+        ],
+        [
+          225.78982543945312,
+          530.19140625
+        ],
+        [
+          47.8125,
+          530.19140625
+        ]
+      ]
+    },
+    {
+      "title": "Direct questions concerning investments in Marketable Securities to:",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          48.75,
+          543.6763305664062
+        ],
+        [
+          444.69757080078125,
+          543.6763305664062
+        ],
+        [
+          444.69757080078125,
+          555.6763153076172
+        ],
+        [
+          48.75,
+          555.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "frst@fiscal.treasury.gov",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          46.6171875,
+          722.1763229370117
+        ],
+        [
+          184.005859375,
+          722.1763229370117
+        ],
+        [
+          184.005859375,
+          734.1763229370117
+        ],
+        [
+          46.6171875,
+          734.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          32.87109375,
+          33.056640625
+        ],
+        [
+          155.69692993164062,
+          33.056640625
+        ],
+        [
+          155.69692993164062,
+          54.056640625
+        ],
+        [
+          32.87109375,
+          54.056640625
+        ]
+      ]
+    },
+    {
+      "title": "Appendices Listing",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          70.822265625,
+          73.6964111328125
+        ],
+        [
+          196.95741271972656,
+          73.6964111328125
+        ],
+        [
+          196.95741271972656,
+          87.3984375
+        ],
+        [
+          70.822265625,
+          87.3984375
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          33.46875,
+          271.08984375
+        ],
+        [
+          248.264892578125,
+          271.08984375
+        ],
+        [
+          248.264892578125,
+          292.5566101074219
+        ],
+        [
+          33.46875,
+          292.5566101074219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          71.25,
+          312.08203125
+        ],
+        [
+          206.73590087890625,
+          312.08203125
+        ],
+        [
+          206.73590087890625,
+          325.6964111328125
+        ],
+        [
+          71.25,
+          325.6964111328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          359
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          685
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          597
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          792
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          745
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          623
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          808
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          650
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          629
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          809
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          702
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          782
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          733
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          743
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          672
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          729
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          773
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          727
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          574
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          633
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          564
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          712
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 4300 Responsibilities Relating To Government Investment Accounts And Investment In Government Account Series Securities _ TFX_ Treasury Financial Experience"
+}

@@ -1,0 +1,363 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 2000 CASH TRACK Transmittals",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          551.229736328125,
+          50.39898681640625
+        ],
+        [
+          551.229736328125,
+          80.82421875
+        ],
+        [
+          33.46875,
+          80.82421875
+        ]
+      ]
+    },
+    {
+      "title": "CASH TRACK Transmittals",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          117.05859375
+        ],
+        [
+          304.2508544921875,
+          117.05859375
+        ],
+        [
+          304.2508544921875,
+          138.05859375
+        ],
+        [
+          33.46875,
+          138.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.822265625,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          171.1983642578125
+        ],
+        [
+          70.822265625,
+          171.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 2010\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          305.4483642578125
+        ],
+        [
+          320.5408020019531,
+          305.4483642578125
+        ],
+        [
+          320.5408020019531,
+          319.04296875
+        ],
+        [
+          71.25,
+          319.04296875
+        ]
+      ]
+    },
+    {
+      "title": "Section 2030\u2014Reporting Requirement",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          112.6983642578125
+        ],
+        [
+          319.0738220214844,
+          112.6983642578125
+        ],
+        [
+          319.0738220214844,
+          126.1983642578125
+        ],
+        [
+          70.5234375,
+          126.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          494.3085632324219
+        ],
+        [
+          239.29087829589844,
+          494.3085632324219
+        ],
+        [
+          239.29087829589844,
+          515.3085632324219
+        ],
+        [
+          33.46875,
+          515.3085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.169921875,
+          176.30859375
+        ],
+        [
+          155.69692993164062,
+          176.30859375
+        ],
+        [
+          155.69692993164062,
+          197.30859375
+        ],
+        [
+          33.169921875,
+          197.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Appendices Listing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.224609375,
+          216.9483642578125
+        ],
+        [
+          196.95741271972656,
+          216.9483642578125
+        ],
+        [
+          196.95741271972656,
+          230.87109375
+        ],
+        [
+          70.224609375,
+          230.87109375
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.87109375,
+          362.3085632324219
+        ],
+        [
+          248.264892578125,
+          362.3085632324219
+        ],
+        [
+          248.264892578125,
+          383.3085632324219
+        ],
+        [
+          32.87109375,
+          383.3085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.822265625,
+          401.4140625
+        ],
+        [
+          206.73590087890625,
+          401.4140625
+        ],
+        [
+          206.73590087890625,
+          416.4483642578125
+        ],
+        [
+          70.822265625,
+          416.4483642578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          356
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          345
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 2000 CASH TRACK Transmittals _ TFX_ Treasury Financial Experience"
+}

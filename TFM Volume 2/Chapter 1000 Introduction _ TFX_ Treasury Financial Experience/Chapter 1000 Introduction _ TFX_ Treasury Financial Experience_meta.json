@@ -1,0 +1,159 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 1000 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          366.80987548828125,
+          50.39898681640625
+        ],
+        [
+          366.80987548828125,
+          80.39898681640625
+        ],
+        [
+          33.46875,
+          80.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          117.05859375
+        ],
+        [
+          159.9949188232422,
+          117.05859375
+        ],
+        [
+          159.9949188232422,
+          138.05859375
+        ],
+        [
+          33.75,
+          138.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          171.1983642578125
+        ],
+        [
+          71.12109375,
+          171.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.87109375,
+          463.5585632324219
+        ],
+        [
+          239.29087829589844,
+          463.5585632324219
+        ],
+        [
+          239.29087829589844,
+          484.5585632324219
+        ],
+        [
+          32.87109375,
+          484.5585632324219
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Form",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 1000 Introduction _ TFX_ Treasury Financial Experience"
+}

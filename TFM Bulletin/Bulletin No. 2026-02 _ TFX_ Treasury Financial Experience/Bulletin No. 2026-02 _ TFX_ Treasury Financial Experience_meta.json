@@ -1,0 +1,607 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Bulletin No. 2026-02",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          299.9198913574219,
+          50.39898681640625
+        ],
+        [
+          299.9198913574219,
+          80.39898681640625
+        ],
+        [
+          33.75,
+          80.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "2. Rescission",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.572265625,
+          182.17633056640625
+        ],
+        [
+          111.87793731689453,
+          182.17633056640625
+        ],
+        [
+          111.87793731689453,
+          194.17633056640625
+        ],
+        [
+          32.572265625,
+          194.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "3. Explanation of Updates",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.974609375,
+          322.42633056640625
+        ],
+        [
+          182.54983520507812,
+          322.42633056640625
+        ],
+        [
+          182.54983520507812,
+          334.42633056640625
+        ],
+        [
+          31.974609375,
+          334.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4. Overall Changes to the USSGL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          426.67633056640625
+        ],
+        [
+          224.173828125,
+          426.67633056640625
+        ],
+        [
+          224.173828125,
+          438.67633056640625
+        ],
+        [
+          32.2734375,
+          438.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5. Changes by Part/Section",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          542.1763305664062
+        ],
+        [
+          191.9418487548828,
+          542.1763305664062
+        ],
+        [
+          191.9418487548828,
+          554.1763153076172
+        ],
+        [
+          33.46875,
+          554.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section IV: Account Attributes for USSGL Proprietary Account and Budgetary Account\nReporting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.2734375,
+          30.9375
+        ],
+        [
+          526.4495239257812,
+          30.9375
+        ],
+        [
+          526.4495239257812,
+          63.67633056640625
+        ],
+        [
+          32.2734375,
+          63.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section V: Crosswalks to Standard External Reports for FY 2026 GTAS Reporting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.2734375,
+          130.32421875
+        ],
+        [
+          495.45758056640625,
+          130.32421875
+        ],
+        [
+          495.45758056640625,
+          142.42633056640625
+        ],
+        [
+          32.2734375,
+          142.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "OMB Form and Content:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          155.18743896484375
+        ],
+        [
+          167.1378936767578,
+          155.18743896484375
+        ],
+        [
+          167.1378936767578,
+          167.18743896484375
+        ],
+        [
+          33.46875,
+          167.18743896484375
+        ]
+      ]
+    },
+    {
+      "title": "Section VI: Crosswalks to Reclassified Statements for FY 2026 Reporting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          31.078125,
+          323.68359375
+        ],
+        [
+          452.16156005859375,
+          323.68359375
+        ],
+        [
+          452.16156005859375,
+          336.67633056640625
+        ],
+        [
+          31.078125,
+          336.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section VII: GTAS Validations and Edits for FY 2026 Reporting.",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.2734375,
+          404.17633056640625
+        ],
+        [
+          387.9496154785156,
+          404.17633056640625
+        ],
+        [
+          387.9496154785156,
+          416.8828125
+        ],
+        [
+          32.2734375,
+          416.8828125
+        ]
+      ]
+    },
+    {
+      "title": "Part 2 - FY 2027 Reporting includes Sections I through VII:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.2734375,
+          537.6763305664062
+        ],
+        [
+          365.9776611328125,
+          537.6763305664062
+        ],
+        [
+          365.9776611328125,
+          549.6763153076172
+        ],
+        [
+          32.2734375,
+          549.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section III: Account Transactions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          612.6763305664062
+        ],
+        [
+          224.3097686767578,
+          612.6763305664062
+        ],
+        [
+          224.3097686767578,
+          624.6763153076172
+        ],
+        [
+          33.46875,
+          624.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section IV: Account Attributes for USSGL Proprietary Account and Budgetary Account\nReporting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          726.64453125
+        ],
+        [
+          526.4495239257812,
+          726.64453125
+        ],
+        [
+          526.4495239257812,
+          759.6763229370117
+        ],
+        [
+          33.46875,
+          759.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "Section V: Crosswalks to Standard External Reports for FY 2027 GTAS Reporting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.2734375,
+          80.17633056640625
+        ],
+        [
+          495.45758056640625,
+          80.17633056640625
+        ],
+        [
+          495.45758056640625,
+          92.42578125
+        ],
+        [
+          32.2734375,
+          92.42578125
+        ]
+      ]
+    },
+    {
+      "title": "OMB Form and Content:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.46875,
+          104.93743896484375
+        ],
+        [
+          167.1378936767578,
+          104.93743896484375
+        ],
+        [
+          167.1378936767578,
+          116.93743896484375
+        ],
+        [
+          33.46875,
+          116.93743896484375
+        ]
+      ]
+    },
+    {
+      "title": "Section VI: Crosswalks to Reclassified Statements for FY 2027 Reporting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.46875,
+          274.18359375
+        ],
+        [
+          452.16156005859375,
+          274.18359375
+        ],
+        [
+          452.16156005859375,
+          286.42633056640625
+        ],
+        [
+          33.46875,
+          286.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section VII: GTAS Validations and Edits for FY 2027 Reporting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.46875,
+          353.07421875
+        ],
+        [
+          385.94561767578125,
+          353.07421875
+        ],
+        [
+          385.94561767578125,
+          365.92633056640625
+        ],
+        [
+          33.46875,
+          365.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "6. Effective Date",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.87109375,
+          486.67633056640625
+        ],
+        [
+          129.2499237060547,
+          486.67633056640625
+        ],
+        [
+          129.2499237060547,
+          498.67633056640625
+        ],
+        [
+          32.87109375,
+          498.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "7. References",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          32.87109375,
+          566.1763305664062
+        ],
+        [
+          114.35393524169922,
+          566.1763305664062
+        ],
+        [
+          114.35393524169922,
+          578.1763153076172
+        ],
+        [
+          32.87109375,
+          578.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "8. Inquiries",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          33.169921875,
+          717.6763229370117
+        ],
+        [
+          98.5379409790039,
+          717.6763229370117
+        ],
+        [
+          98.5379409790039,
+          729.6763229370117
+        ],
+        [
+          33.169921875,
+          729.6763229370117
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          303
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListGroup",
+          5
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          362
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          6
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Line",
+          8
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Bulletin No. 2026-02 _ TFX_ Treasury Financial Experience"
+}

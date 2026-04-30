@@ -1,0 +1,1409 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 5000 Collecting Delinquent Nontax\nDebt Through The Treasury Cross-\nServicing Program",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          581.3397827148438,
+          50.39898681640625
+        ],
+        [
+          581.3397827148438,
+          164.39898681640625
+        ],
+        [
+          33.46875,
+          164.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Collecting Delinquent Nontax Debt Through The\nTreasury Cross-Servicing Program",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          200.70703125
+        ],
+        [
+          516.8616943359375,
+          200.70703125
+        ],
+        [
+          516.8616943359375,
+          251.30859375
+        ],
+        [
+          32.2734375,
+          251.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          284.4483642578125
+        ],
+        [
+          71.12109375,
+          284.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 5010\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.328125,
+          479.14453125
+        ],
+        [
+          318.2052917480469,
+          479.14453125
+        ],
+        [
+          318.2052917480469,
+          494.4483642578125
+        ],
+        [
+          69.328125,
+          494.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 5015\u2014Authority",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          36.9483642578125
+        ],
+        [
+          226.02740478515625,
+          36.9483642578125
+        ],
+        [
+          226.02740478515625,
+          50.4483642578125
+        ],
+        [
+          70.5234375,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "5015.10\u2014Authority to Promulgate Regulations and Service Debts",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          69.22265625
+        ],
+        [
+          422.03363037109375,
+          69.22265625
+        ],
+        [
+          422.03363037109375,
+          82.42633056640625
+        ],
+        [
+          47.8125,
+          82.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5015.20\u2014Authority to Charge Fees",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          222.67633056640625
+        ],
+        [
+          248.8378143310547,
+          222.67633056640625
+        ],
+        [
+          248.8378143310547,
+          234.67633056640625
+        ],
+        [
+          47.8125,
+          234.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5015.30\u2014Authority to Collect and Compromise",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          330.67633056640625
+        ],
+        [
+          318.8017272949219,
+          330.67633056640625
+        ],
+        [
+          318.8017272949219,
+          342.67633056640625
+        ],
+        [
+          47.8125,
+          342.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5015.40\u2014Authority to Suspend and/or Terminate Collection Action",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          559.4263305664062
+        ],
+        [
+          429.5655822753906,
+          559.4263305664062
+        ],
+        [
+          429.5655822753906,
+          571.4263153076172
+        ],
+        [
+          47.8125,
+          571.4263153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 5020\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.92578125,
+          36.9483642578125
+        ],
+        [
+          309.65985107421875,
+          36.9483642578125
+        ],
+        [
+          309.65985107421875,
+          50.4483642578125
+        ],
+        [
+          69.92578125,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 5025\u2014Background",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          660.1983642578125
+        ],
+        [
+          245.79136657714844,
+          660.1983642578125
+        ],
+        [
+          245.79136657714844,
+          675.59765625
+        ],
+        [
+          71.12109375,
+          675.59765625
+        ]
+      ]
+    },
+    {
+      "title": "Section 5030\u2014Creditor Agency Responsibilities",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          120.26953125
+        ],
+        [
+          377.4432678222656,
+          120.26953125
+        ],
+        [
+          377.4432678222656,
+          134.4486083984375
+        ],
+        [
+          71.12109375,
+          134.4486083984375
+        ]
+      ]
+    },
+    {
+      "title": "5030.10\u2014Complete an Agency Profile Form",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.41015625,
+          154.42657470703125
+        ],
+        [
+          300.3777770996094,
+          154.42657470703125
+        ],
+        [
+          300.3777770996094,
+          166.67578125
+        ],
+        [
+          48.41015625,
+          166.67578125
+        ]
+      ]
+    },
+    {
+      "title": "5030.20\u2014Certify Debt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.513671875,
+          614.9265747070312
+        ],
+        [
+          174.1898956298828,
+          614.9265747070312
+        ],
+        [
+          174.1898956298828,
+          626.9265594482422
+        ],
+        [
+          47.513671875,
+          626.9265594482422
+        ]
+      ]
+    },
+    {
+      "title": "5030.30\u2014Comply with Relevant Laws and Authorize Use of All Appropriate Debt\nCollection Tools",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          76.42633056640625
+        ],
+        [
+          506.34954833984375,
+          76.42633056640625
+        ],
+        [
+          506.34954833984375,
+          107.92633056640625
+        ],
+        [
+          47.8125,
+          107.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5030.40\u2014Transfer Eligible Debts to the Cross-Servicing Program; Provide Debt and\nDebtor Information to Fiscal Service",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.75,
+          604.44140625
+        ],
+        [
+          525.2175903320312,
+          604.44140625
+        ],
+        [
+          525.2175903320312,
+          636.6763153076172
+        ],
+        [
+          48.75,
+          636.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "5030.40a\u2014Transfer Eligible Debts",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.21484375,
+          650.1763305664062
+        ],
+        [
+          242.21383666992188,
+          650.1763305664062
+        ],
+        [
+          242.21383666992188,
+          662.1763153076172
+        ],
+        [
+          47.21484375,
+          662.1763153076172
+        ]
+      ]
+    },
+    {
+      "title": "5030.40b\u2014Prerequisites to Transfer",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.21484375,
+          261.67633056640625
+        ],
+        [
+          253.45382690429688,
+          261.67633056640625
+        ],
+        [
+          253.45382690429688,
+          273.67633056640625
+        ],
+        [
+          47.21484375,
+          273.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5030.40c\u2014Coordination",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.513671875,
+          134.17584228515625
+        ],
+        [
+          187.5858917236328,
+          134.17584228515625
+        ],
+        [
+          187.5858917236328,
+          146.17584228515625
+        ],
+        [
+          47.513671875,
+          146.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5030.50\u2014Post-Transfer Responsibilities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.21484375,
+          363.67584228515625
+        ],
+        [
+          277.9737854003906,
+          363.67584228515625
+        ],
+        [
+          277.9737854003906,
+          375.67584228515625
+        ],
+        [
+          47.21484375,
+          375.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5030.50a\u2014Continued Validity and Enforceability of the Debt",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          388.42584228515625
+        ],
+        [
+          389.0376281738281,
+          388.42584228515625
+        ],
+        [
+          389.0376281738281,
+          400.42584228515625
+        ],
+        [
+          47.8125,
+          400.42584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5030.50b\u2014Assist with Responding to Debtors and Defending Litigation; Notify Fiscal\nService of Updates about Debt or Debtor",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.6171875,
+          458.17584228515625
+        ],
+        [
+          531.7134399414062,
+          458.17584228515625
+        ],
+        [
+          531.7134399414062,
+          488.92584228515625
+        ],
+        [
+          46.6171875,
+          488.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5030.50c\u2014Maintain Records",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          48.41015625,
+          303.1875
+        ],
+        [
+          213.79786682128906,
+          303.1875
+        ],
+        [
+          213.79786682128906,
+          316.42633056640625
+        ],
+        [
+          48.41015625,
+          316.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5030.50d\u2014Recall Transferred Debt",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.21484375,
+          475.27734375
+        ],
+        [
+          247.95382690429688,
+          475.27734375
+        ],
+        [
+          247.95382690429688,
+          488.17633056640625
+        ],
+        [
+          47.21484375,
+          488.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 5035\u2014Fiscal Service Responsibilities",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.12109375,
+          146.4478759765625
+        ],
+        [
+          362.1748046875,
+          146.4478759765625
+        ],
+        [
+          362.1748046875,
+          159.9478759765625
+        ],
+        [
+          71.12109375,
+          159.9478759765625
+        ]
+      ]
+    },
+    {
+      "title": "5035.10\u2014Collect and Compromise Transferred Debt",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          47.21484375,
+          179.4375
+        ],
+        [
+          347.0377197265625,
+          179.4375
+        ],
+        [
+          347.0377197265625,
+          191.92584228515625
+        ],
+        [
+          47.21484375,
+          191.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5035.20\u2014Maintain and Update Records",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          46.6171875,
+          97.83984375
+        ],
+        [
+          276.4737854003906,
+          97.83984375
+        ],
+        [
+          276.4737854003906,
+          110.17633056640625
+        ],
+        [
+          46.6171875,
+          110.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5035.30\u2014Modify Records",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          269.92633056640625
+        ],
+        [
+          196.46987915039062,
+          269.92633056640625
+        ],
+        [
+          196.46987915039062,
+          282.69140625
+        ],
+        [
+          47.8125,
+          282.69140625
+        ]
+      ]
+    },
+    {
+      "title": "5035.40\u2014Respond to Disputes and Inquiries",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          46.6171875,
+          415.72265625
+        ],
+        [
+          303.3417663574219,
+          415.72265625
+        ],
+        [
+          303.3417663574219,
+          428.17633056640625
+        ],
+        [
+          46.6171875,
+          428.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5035.50\u2014Return Transferred Debt",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          31.7109375
+        ],
+        [
+          243.9938507080078,
+          31.7109375
+        ],
+        [
+          243.9938507080078,
+          44.17584228515625
+        ],
+        [
+          47.8125,
+          44.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "5035.60\u2014Suspend and/or Terminate Collection Action",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          514.4258422851562
+        ],
+        [
+          359.11370849609375,
+          514.4258422851562
+        ],
+        [
+          359.11370849609375,
+          526.4258422851562
+        ],
+        [
+          47.8125,
+          526.4258422851562
+        ]
+      ]
+    },
+    {
+      "title": "5035.70\u2014Credit Collections to the Creditor Agency",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.41015625,
+          243.24609375
+        ],
+        [
+          341.5016784667969,
+          243.24609375
+        ],
+        [
+          341.5016784667969,
+          255.67633056640625
+        ],
+        [
+          48.41015625,
+          255.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5040.10\u2014Fees Charged to the Federal Entity",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.21484375,
+          473.92633056640625
+        ],
+        [
+          304.3137512207031,
+          473.92633056640625
+        ],
+        [
+          304.3137512207031,
+          485.92633056640625
+        ],
+        [
+          47.21484375,
+          485.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5040.10a\u2014Fiscal Service Fees",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.41015625,
+          498.67633056640625
+        ],
+        [
+          223.14585876464844,
+          498.67633056640625
+        ],
+        [
+          223.14585876464844,
+          510.67633056640625
+        ],
+        [
+          48.41015625,
+          510.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "5040.10b\u2014Refund of Fees",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          48.111328125,
+          728.1763229370117
+        ],
+        [
+          200.04586791992188,
+          728.1763229370117
+        ],
+        [
+          200.04586791992188,
+          740.1763229370117
+        ],
+        [
+          48.111328125,
+          740.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "5040.20\u2014Costs Charged to the Debtor",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          328.42633056640625
+        ],
+        [
+          270.2537841796875,
+          328.42633056640625
+        ],
+        [
+          270.2537841796875,
+          340.42633056640625
+        ],
+        [
+          47.8125,
+          340.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          33.75,
+          483.8085632324219
+        ],
+        [
+          239.29087829589844,
+          483.8085632324219
+        ],
+        [
+          239.29087829589844,
+          504.8085632324219
+        ],
+        [
+          33.75,
+          504.8085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Contacts",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          70.5234375,
+          524.4483642578125
+        ],
+        [
+          186.72889709472656,
+          524.4483642578125
+        ],
+        [
+          186.72889709472656,
+          537.9483642578125
+        ],
+        [
+          70.5234375,
+          537.9483642578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          394
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          637
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          671
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          632
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          583
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          617
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          651
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          551
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          540
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          645
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          581
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          631
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          481
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Text",
+          1
+        ],
+        [
+          "Line",
+          1
+        ],
+        [
+          "Span",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 5000 Collecting Delinquent Nontax Debt Through The Treasury Cross-Servicing Program _ TFX_ Treasury Financial Experience"
+}

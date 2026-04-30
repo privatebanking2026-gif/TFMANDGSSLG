@@ -1,0 +1,159 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 1000 Processing Deposits To\nTreasury's General Account: Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          541.7998046875,
+          50.39898681640625
+        ],
+        [
+          541.7998046875,
+          122.39898681640625
+        ],
+        [
+          33.46875,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Processing Deposits To Treasury's General Account:\nIntroduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          159.05859375
+        ],
+        [
+          559.1627197265625,
+          159.05859375
+        ],
+        [
+          559.1627197265625,
+          209.30859375
+        ],
+        [
+          33.46875,
+          209.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Section 1015\u2014Background and Concepts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          435.05859375
+        ],
+        [
+          341.7222900390625,
+          435.05859375
+        ],
+        [
+          341.7222900390625,
+          449.75390625
+        ],
+        [
+          70.5234375,
+          449.75390625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.87109375,
+          612.0585632324219
+        ],
+        [
+          239.29087829589844,
+          612.0585632324219
+        ],
+        [
+          239.29087829589844,
+          633.0585632324219
+        ],
+        [
+          32.87109375,
+          633.0585632324219
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          371
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 1000 Processing Deposits To Treasury's General Account_ Introduction _ TFX_ Treasury Financial Experience"
+}

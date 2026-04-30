@@ -1,0 +1,1017 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 7000 Procedures For Processing\nPostal Money Orders",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          558.3897705078125,
+          50.39898681640625
+        ],
+        [
+          558.3897705078125,
+          122.39898681640625
+        ],
+        [
+          33.75,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Procedures For Processing Postal Money Orders",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          158.94140625
+        ],
+        [
+          526.0107421875,
+          158.94140625
+        ],
+        [
+          526.0107421875,
+          180.05859375
+        ],
+        [
+          33.75,
+          180.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Section 7010\u2014Scope And Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          199.16015625
+        ],
+        [
+          322.039306640625,
+          199.16015625
+        ],
+        [
+          322.039306640625,
+          213.1983642578125
+        ],
+        [
+          70.5234375,
+          213.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 7015\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          321.9483642578125
+        ],
+        [
+          228.36289978027344,
+          321.9483642578125
+        ],
+        [
+          228.36289978027344,
+          336.05859375
+        ],
+        [
+          71.25,
+          336.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Section 7020\u2014General Information And Format",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          425.4483642578125
+        ],
+        [
+          374.95928955078125,
+          425.4483642578125
+        ],
+        [
+          374.95928955078125,
+          438.9483642578125
+        ],
+        [
+          69.92578125,
+          438.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 7030\u2014Definitions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          305.89453125
+        ],
+        [
+          236.50340270996094,
+          305.89453125
+        ],
+        [
+          236.50340270996094,
+          319.6983642578125
+        ],
+        [
+          70.5234375,
+          319.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 7035\u2014Charges For Postal Money Orders",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.25,
+          276.1986083984375
+        ],
+        [
+          385.42181396484375,
+          276.1986083984375
+        ],
+        [
+          385.42181396484375,
+          289.6986083984375
+        ],
+        [
+          71.25,
+          289.6986083984375
+        ]
+      ]
+    },
+    {
+      "title": "Section 7040\u2014Processing Fit Money Orders",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.25,
+          248.4483642578125
+        ],
+        [
+          354.0343322753906,
+          248.4483642578125
+        ],
+        [
+          354.0343322753906,
+          261.9483642578125
+        ],
+        [
+          71.25,
+          261.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 7065\u2014Adjustment of Errors",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.25,
+          102.1983642578125
+        ],
+        [
+          303.69287109375,
+          102.1983642578125
+        ],
+        [
+          303.69287109375,
+          115.6983642578125
+        ],
+        [
+          71.25,
+          115.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 7070\u2014Processing Old Style Money Orders",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.5234375,
+          224.4483642578125
+        ],
+        [
+          397.94976806640625,
+          224.4483642578125
+        ],
+        [
+          397.94976806640625,
+          238.60546875
+        ],
+        [
+          70.5234375,
+          238.60546875
+        ]
+      ]
+    },
+    {
+      "title": "Section 7075\u2014Processing Domestic International Money Orders (Semi-\nDomestic)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          68.1328125,
+          327.1640625
+        ],
+        [
+          529.939208984375,
+          327.1640625
+        ],
+        [
+          529.939208984375,
+          356.5546875
+        ],
+        [
+          68.1328125,
+          356.5546875
+        ]
+      ]
+    },
+    {
+      "title": "Section 7080\u2014Other Procedural Matters",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.5234375,
+          503.4483642578125
+        ],
+        [
+          331.28680419921875,
+          503.4483642578125
+        ],
+        [
+          331.28680419921875,
+          516.9483642578125
+        ],
+        [
+          70.5234375,
+          516.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          33.46875,
+          711.8080749511719
+        ],
+        [
+          239.29087829589844,
+          711.8080749511719
+        ],
+        [
+          239.29087829589844,
+          732.8080749511719
+        ],
+        [
+          33.46875,
+          732.8080749511719
+        ]
+      ]
+    },
+    {
+      "title": "Contact Details",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.25,
+          36.73828125
+        ],
+        [
+          170.9296875,
+          36.73828125
+        ],
+        [
+          170.9296875,
+          50.4483642578125
+        ],
+        [
+          71.25,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Questions concerning the processing of Postal money orders may be directed to:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          47.8125,
+          70.3828125
+        ],
+        [
+          513.8295288085938,
+          70.3828125
+        ],
+        [
+          513.8295288085938,
+          82.7578125
+        ],
+        [
+          47.8125,
+          82.7578125
+        ]
+      ]
+    },
+    {
+      "title": "APPENDIX NO. 1 LISTING",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          32.87109375,
+          33.05810546875
+        ],
+        [
+          296.1239013671875,
+          33.05810546875
+        ],
+        [
+          296.1239013671875,
+          54.05810546875
+        ],
+        [
+          32.87109375,
+          54.05810546875
+        ]
+      ]
+    },
+    {
+      "title": "Forms Prescribed For Processing Postal Money Orders",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          70.5234375,
+          73.08984375
+        ],
+        [
+          428.16278076171875,
+          73.08984375
+        ],
+        [
+          428.16278076171875,
+          87.1978759765625
+        ],
+        [
+          70.5234375,
+          87.1978759765625
+        ]
+      ]
+    },
+    {
+      "title": "Countries where money order service is available on domestic basis are:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.8125,
+          632.1758422851562
+        ],
+        [
+          463.5736083984375,
+          632.1758422851562
+        ],
+        [
+          463.5736083984375,
+          644.1758270263672
+        ],
+        [
+          47.8125,
+          644.1758270263672
+        ]
+      ]
+    },
+    {
+      "title": "Canada (U.S. Currency Only) Saint Vincent\nCanal Zone Trinidad & Tobago",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          47.21484375,
+          30.9375
+        ],
+        [
+          278.0578308105469,
+          30.9375
+        ],
+        [
+          278.0578308105469,
+          62.93743896484375
+        ],
+        [
+          47.21484375,
+          62.93743896484375
+        ]
+      ]
+    },
+    {
+      "title": "Bank No. or FRB Code",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          71.12109375,
+          82.6983642578125
+        ],
+        [
+          216.94921875,
+          82.6983642578125
+        ],
+        [
+          216.94921875,
+          96.1983642578125
+        ],
+        [
+          71.12109375,
+          96.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Instructions for Preparing SF 5515 for Charging U.S. Postal Money Orders",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.25,
+          101.70703125
+        ],
+        [
+          545.0625,
+          101.70703125
+        ],
+        [
+          545.0625,
+          115.6983642578125
+        ],
+        [
+          71.25,
+          115.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Block Number",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          47.8125,
+          134.92633056640625
+        ],
+        [
+          132.06192016601562,
+          134.92633056640625
+        ],
+        [
+          132.06192016601562,
+          146.92633056640625
+        ],
+        [
+          47.8125,
+          146.92633056640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          531
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          635
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          797
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          816
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          707
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          499
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          389
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          686
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          449
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          185
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          247
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          335
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          25
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Line",
+          6
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 7000 Procedures For Processing Postal Money Orders _ TFX_ Treasury Financial Experience"
+}

@@ -1,0 +1,982 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 4600 Treasury Lockbox Network",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          550.4498291015625,
+          50.39898681640625
+        ],
+        [
+          550.4498291015625,
+          81.2109375
+        ],
+        [
+          33.75,
+          81.2109375
+        ]
+      ]
+    },
+    {
+      "title": "Treasury Lockbox Network",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          31.67578125,
+          117.05859375
+        ],
+        [
+          306.5258483886719,
+          117.05859375
+        ],
+        [
+          306.5258483886719,
+          138.05859375
+        ],
+        [
+          31.67578125,
+          138.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.822265625,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          157.6983642578125
+        ],
+        [
+          152.40744018554688,
+          171.1983642578125
+        ],
+        [
+          70.822265625,
+          171.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4610 - Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          241.3125
+        ],
+        [
+          320.0412902832031,
+          241.3125
+        ],
+        [
+          320.0412902832031,
+          255.1983642578125
+        ],
+        [
+          69.92578125,
+          255.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4615 - Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          344.953125
+        ],
+        [
+          227.86338806152344,
+          344.953125
+        ],
+        [
+          227.86338806152344,
+          358.6983642578125
+        ],
+        [
+          70.5234375,
+          358.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4620 - Terms and Definitions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          509.4483642578125
+        ],
+        [
+          309.16033935546875,
+          509.4483642578125
+        ],
+        [
+          309.16033935546875,
+          522.9483642578125
+        ],
+        [
+          71.25,
+          522.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4625 - Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          574.6983642578125
+        ],
+        [
+          245.29185485839844,
+          574.6983642578125
+        ],
+        [
+          245.29185485839844,
+          588.1983642578125
+        ],
+        [
+          71.12109375,
+          588.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "4625.10\u2014Types of Lockbox Activity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.21484375,
+          132.64453125
+        ],
+        [
+          251.96981811523438,
+          132.64453125
+        ],
+        [
+          251.96981811523438,
+          144.67633056640625
+        ],
+        [
+          47.21484375,
+          144.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4625.20\u2014IRS Lockbox Network",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          524.77734375
+        ],
+        [
+          231.06983947753906,
+          524.77734375
+        ],
+        [
+          231.06983947753906,
+          536.9263153076172
+        ],
+        [
+          47.8125,
+          536.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "4625.30\u2014Electronic Check Processing (ECP)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          650.84765625
+        ],
+        [
+          305.5097961425781,
+          650.84765625
+        ],
+        [
+          305.5097961425781,
+          663.6763153076172
+        ],
+        [
+          47.8125,
+          663.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "4625.40\u2014Credit Card Settlement",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.41015625,
+          172.42633056640625
+        ],
+        [
+          236.8538360595703,
+          172.42633056640625
+        ],
+        [
+          236.8538360595703,
+          184.42633056640625
+        ],
+        [
+          48.41015625,
+          184.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4630\u2014Lockbox Implementation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          268.6983642578125
+        ],
+        [
+          327.1963195800781,
+          268.6983642578125
+        ],
+        [
+          327.1963195800781,
+          282.1983642578125
+        ],
+        [
+          71.12109375,
+          282.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "4630.10\u2014Determining if a Paper Lockbox is Suitable",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.41015625,
+          301.42633056640625
+        ],
+        [
+          349.6777038574219,
+          301.42633056640625
+        ],
+        [
+          349.6777038574219,
+          313.42633056640625
+        ],
+        [
+          48.41015625,
+          313.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4630.20\u2014Requesting Lockbox Services",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.75,
+          467.17633056640625
+        ],
+        [
+          276.2698059082031,
+          467.17633056640625
+        ],
+        [
+          276.2698059082031,
+          479.17633056640625
+        ],
+        [
+          48.75,
+          479.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4630.30\u2014Standard Lockbox Services",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          671.1763229370117
+        ],
+        [
+          263.1898193359375,
+          671.1763229370117
+        ],
+        [
+          263.1898193359375,
+          683.1763229370117
+        ],
+        [
+          47.8125,
+          683.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "4630.40\u2014Reimbursable Services",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          114.67657470703125
+        ],
+        [
+          237.7858428955078,
+          114.67657470703125
+        ],
+        [
+          237.7858428955078,
+          126.67657470703125
+        ],
+        [
+          47.8125,
+          126.67657470703125
+        ]
+      ]
+    },
+    {
+      "title": "4630.50\u2014Interagency Agreement (IAA)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          46.6171875,
+          359.17657470703125
+        ],
+        [
+          269.71380615234375,
+          359.17657470703125
+        ],
+        [
+          269.71380615234375,
+          371.17657470703125
+        ],
+        [
+          46.6171875,
+          371.17657470703125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4635\u2014Obtaining Lockbox Services",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.73046875,
+          472.95703125
+        ],
+        [
+          350.186767578125,
+          472.95703125
+        ],
+        [
+          350.186767578125,
+          487.6986083984375
+        ],
+        [
+          68.73046875,
+          487.6986083984375
+        ]
+      ]
+    },
+    {
+      "title": "Section 4640\u2014Financial Agent Roles and Agreements",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5234375,
+          595.93359375
+        ],
+        [
+          416.47174072265625,
+          595.93359375
+        ],
+        [
+          416.47174072265625,
+          610.6986083984375
+        ],
+        [
+          70.5234375,
+          610.6986083984375
+        ]
+      ]
+    },
+    {
+      "title": "4640.10\u2014Financial Agency Agreement (FAA)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.21484375,
+          629.9265747070312
+        ],
+        [
+          302.1617736816406,
+          629.9265747070312
+        ],
+        [
+          302.1617736816406,
+          643.5
+        ],
+        [
+          47.21484375,
+          643.5
+        ]
+      ]
+    },
+    {
+      "title": "4640.20\u2014Service Level Agreement (SLA)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.41015625,
+          32.09765625
+        ],
+        [
+          281.1017761230469,
+          32.09765625
+        ],
+        [
+          281.1017761230469,
+          44.17633056640625
+        ],
+        [
+          48.41015625,
+          44.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4645\u2014Federal Entity Monitoring Requirements",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5234375,
+          184.6983642578125
+        ],
+        [
+          423.46478271484375,
+          184.6983642578125
+        ],
+        [
+          423.46478271484375,
+          198.1983642578125
+        ],
+        [
+          70.5234375,
+          198.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "4645.10\u2014General Accountability of Funds and Performance",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.6171875,
+          218.17633056640625
+        ],
+        [
+          391.4856872558594,
+          218.17633056640625
+        ],
+        [
+          391.4856872558594,
+          230.17633056640625
+        ],
+        [
+          46.6171875,
+          230.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4645.20\u2014Changes to the SRS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.41015625,
+          344.1796875
+        ],
+        [
+          221.421875,
+          344.1796875
+        ],
+        [
+          221.421875,
+          356.92633056640625
+        ],
+        [
+          48.41015625,
+          356.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4645.30\u2014Reconciliation Inquiries",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          471.796875
+        ],
+        [
+          240.6177978515625,
+          471.796875
+        ],
+        [
+          240.6177978515625,
+          484.42633056640625
+        ],
+        [
+          47.8125,
+          484.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4645.40\u2014Required Services",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.21484375,
+          560.9263305664062
+        ],
+        [
+          210.26988220214844,
+          560.9263305664062
+        ],
+        [
+          210.26988220214844,
+          572.9263153076172
+        ],
+        [
+          47.21484375,
+          572.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "4645.50\u2014Evaluation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.513671875,
+          630.6763305664062
+        ],
+        [
+          166.26193237304688,
+          630.6763305664062
+        ],
+        [
+          166.26193237304688,
+          642.6763153076172
+        ],
+        [
+          47.513671875,
+          642.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "4645.60\u2014Escalation of Issues",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.21484375,
+          700.4263229370117
+        ],
+        [
+          220.8898468017578,
+          700.4263229370117
+        ],
+        [
+          220.8898468017578,
+          712.4263229370117
+        ],
+        [
+          47.21484375,
+          712.4263229370117
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.87109375,
+          117.80859375
+        ],
+        [
+          239.29087829589844,
+          117.80859375
+        ],
+        [
+          239.29087829589844,
+          138.80859375
+        ],
+        [
+          32.87109375,
+          138.80859375
+        ]
+      ]
+    },
+    {
+      "title": "Detailed Contacts",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.328125,
+          158.4483642578125
+        ],
+        [
+          189.14540100097656,
+          158.4483642578125
+        ],
+        [
+          189.14540100097656,
+          171.9483642578125
+        ],
+        [
+          69.328125,
+          171.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter to:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.21484375,
+          191.0390625
+        ],
+        [
+          294.2657470703125,
+          191.0390625
+        ],
+        [
+          294.2657470703125,
+          203.92633056640625
+        ],
+        [
+          47.21484375,
+          203.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          32.87109375,
+          360.8085632324219
+        ],
+        [
+          248.264892578125,
+          360.8085632324219
+        ],
+        [
+          248.264892578125,
+          381.8085632324219
+        ],
+        [
+          32.87109375,
+          381.8085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Updates",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.822265625,
+          401.4140625
+        ],
+        [
+          206.73590087890625,
+          401.4140625
+        ],
+        [
+          206.73590087890625,
+          415.3359375
+        ],
+        [
+          70.822265625,
+          415.3359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          419
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          785
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          680
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          706
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          589
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          271
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 4600 Treasury Lockbox Network _ TFX_ Treasury Financial Experience"
+}
