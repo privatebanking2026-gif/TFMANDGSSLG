@@ -1,0 +1,278 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Federal Trust Fund & Accounting Guide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          37.247314453125
+        ],
+        [
+          535.8723754882812,
+          37.247314453125
+        ],
+        [
+          535.8723754882812,
+          65.43975830078125
+        ],
+        [
+          33.75,
+          65.43975830078125
+        ]
+      ]
+    },
+    {
+      "title": "(Released June 2001)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          87.52264404296875
+        ],
+        [
+          189.54061889648438,
+          87.52264404296875
+        ],
+        [
+          189.54061889648438,
+          103.6026611328125
+        ],
+        [
+          33.75,
+          103.6026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Official Cover Letter",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.87109375,
+          149.66015625
+        ],
+        [
+          141.0419921875,
+          149.66015625
+        ],
+        [
+          141.0419921875,
+          162.500732421875
+        ],
+        [
+          32.87109375,
+          162.500732421875
+        ]
+      ]
+    },
+    {
+      "title": "Expand All",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.111328125,
+          96.6796875
+        ],
+        [
+          114.07950592041016,
+          96.6796875
+        ],
+        [
+          114.07950592041016,
+          109.5555419921875
+        ],
+        [
+          48.111328125,
+          109.5555419921875
+        ]
+      ]
+    },
+    {
+      "title": "Download Guide Dividers & Flow Charts",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          135.093017578125
+        ],
+        [
+          292.98236083984375,
+          135.093017578125
+        ],
+        [
+          292.98236083984375,
+          147.8055419921875
+        ],
+        [
+          47.8125,
+          147.8055419921875
+        ]
+      ]
+    },
+    {
+      "title": "Introduction & Individual Scenarios",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          294.0930480957031
+        ],
+        [
+          262.8537902832031,
+          294.0930480957031
+        ],
+        [
+          262.8537902832031,
+          306.8055419921875
+        ],
+        [
+          47.8125,
+          306.8055419921875
+        ]
+      ]
+    },
+    {
+      "title": "Download PDF | Download Doc",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.29296875,
+          30.55078125
+        ],
+        [
+          262.9535217285156,
+          30.55078125
+        ],
+        [
+          262.9535217285156,
+          44.1640625
+        ],
+        [
+          78.29296875,
+          44.1640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Federal Trust Fund & Accounting Guide _ Bureau of the Fiscal Service"
+}

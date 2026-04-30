@@ -1,0 +1,3206 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ECONOMY ACT \nREIMBURSABLE BUY/SELL ACTIVITY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          266.04681396484375,
+          210.076171875
+        ],
+        [
+          525.9385375976562,
+          210.076171875
+        ],
+        [
+          525.9385375976562,
+          241.63479614257812
+        ],
+        [
+          266.04681396484375,
+          241.63479614257812
+        ]
+      ]
+    },
+    {
+      "title": "EFFECTIVE FISCAL 2022",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.71575927734375,
+          291.357421875
+        ],
+        [
+          479.34527587890625,
+          291.357421875
+        ],
+        [
+          479.34527587890625,
+          306.0643615722656
+        ],
+        [
+          312.71575927734375,
+          306.0643615722656
+        ]
+      ]
+    },
+    {
+      "title": "PREPARED BY:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          342.6328125,
+          422.244140625
+        ],
+        [
+          447.9626770019531,
+          422.244140625
+        ],
+        [
+          447.9626770019531,
+          437.1273956298828
+        ],
+        [
+          342.6328125,
+          437.1273956298828
+        ]
+      ]
+    },
+    {
+      "title": "Version Control",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.54296875,
+          117.439453125
+        ],
+        [
+          146.88670349121094,
+          117.439453125
+        ],
+        [
+          146.88670349121094,
+          128.52175903320312
+        ],
+        [
+          71.54296875,
+          128.52175903320312
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.54296875,
+          361.05316162109375
+        ],
+        [
+          142.01303100585938,
+          361.05316162109375
+        ],
+        [
+          142.01303100585938,
+          375.0931701660156
+        ],
+        [
+          71.54296875,
+          375.0931701660156
+        ]
+      ]
+    },
+    {
+      "title": "Circulars | The White House",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.54296875,
+          266.5546875
+        ],
+        [
+          205.34765625,
+          266.5546875
+        ],
+        [
+          205.34765625,
+          277.89520263671875
+        ],
+        [
+          71.54296875,
+          277.89520263671875
+        ]
+      ]
+    },
+    {
+      "title": "The U.S. Standard General Ledger - USSGL Implementation Guidance (treasury.gov)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.15625,
+          355.0078125
+        ],
+        [
+          471.9018859863281,
+          355.0078125
+        ],
+        [
+          471.9018859863281,
+          366.9609375
+        ],
+        [
+          71.15625,
+          366.9609375
+        ]
+      ]
+    },
+    {
+      "title": "Listing of USSGL Accounts Used in This Scenario",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.609375,
+          88.6439208984375
+        ],
+        [
+          331.3199157714844,
+          88.6439208984375
+        ],
+        [
+          331.3199157714844,
+          100.6439208984375
+        ],
+        [
+          69.609375,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.15625,
+          134.60391235351562
+        ],
+        [
+          290.1600036621094,
+          134.60391235351562
+        ],
+        [
+          290.1600036621094,
+          146.60391235351562
+        ],
+        [
+          71.15625,
+          146.60391235351562
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          71.15625,
+          88.453125
+        ],
+        [
+          290.1600036621094,
+          88.453125
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          71.15625,
+          88.6439208984375
+        ],
+        [
+          290.1600036621094,
+          88.6439208984375
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          71.9296875,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.9296875,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          71.15625,
+          87.85546875
+        ],
+        [
+          290.1600036621094,
+          87.85546875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          71.9296875,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.9296875,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          70.3828125,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          70.3828125,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          88.154296875
+        ],
+        [
+          290.1600036621094,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "PRE-CLOSING ADJUSTING ENTRIES",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          69.99609375,
+          113.6004638671875
+        ],
+        [
+          248.06394958496094,
+          113.6004638671875
+        ],
+        [
+          248.06394958496094,
+          123.56048583984375
+        ],
+        [
+          69.99609375,
+          123.56048583984375
+        ]
+      ]
+    },
+    {
+      "title": "The following Trial Balance and Financial Statements are presented for the Performing Fund only.",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          69.609375,
+          88.6439208984375
+        ],
+        [
+          578.7601318359375,
+          88.6439208984375
+        ],
+        [
+          578.7601318359375,
+          100.6439208984375
+        ],
+        [
+          69.609375,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act \nPre-Closing Trial Balance \n Year 1 (Without Advances)",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          324.2399597167969,
+          102.44390869140625
+        ],
+        [
+          468.31640625,
+          102.44390869140625
+        ],
+        [
+          468.31640625,
+          142.04391479492188
+        ],
+        [
+          324.2399597167969,
+          142.04391479492188
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances) Financial Statements - Year 1",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          70.3828125,
+          88.154296875
+        ],
+        [
+          401.8800048828125,
+          88.154296875
+        ],
+        [
+          401.8800048828125,
+          100.6439208984375
+        ],
+        [
+          70.3828125,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances) Financial Statements - Year 1",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          69.609375,
+          88.154296875
+        ],
+        [
+          401.8800048828125,
+          88.154296875
+        ],
+        [
+          401.8800048828125,
+          100.6439208984375
+        ],
+        [
+          69.609375,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances) Closing Entries\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          69.609375,
+          88.154296875
+        ],
+        [
+          372.2400207519531,
+          88.154296875
+        ],
+        [
+          372.2400207519531,
+          100.6439208984375
+        ],
+        [
+          69.609375,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances) Closing Entries\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          372.2400207519531,
+          88.154296875
+        ],
+        [
+          372.2400207519531,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (Without Advances) Closing Entries\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          69.609375,
+          88.154296875
+        ],
+        [
+          372.2400207519531,
+          88.154296875
+        ],
+        [
+          372.2400207519531,
+          100.6439208984375
+        ],
+        [
+          69.609375,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act \nPost-Closing Trial Balance",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          324.45703125,
+          88.154296875
+        ],
+        [
+          464.68798828125,
+          88.154296875
+        ],
+        [
+          464.68798828125,
+          114.44390869140625
+        ],
+        [
+          324.45703125,
+          114.44390869140625
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) \u2013 Year 1",
+      "heading_level": null,
+      "page_id": 31,
+      "polygon": [
+        [
+          71.15625,
+          88.6439208984375
+        ],
+        [
+          276.6000061035156,
+          88.6439208984375
+        ],
+        [
+          276.6000061035156,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 32,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          273.6000061035156,
+          88.154296875
+        ],
+        [
+          273.6000061035156,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          71.9296875,
+          88.154296875
+        ],
+        [
+          273.6000061035156,
+          88.154296875
+        ],
+        [
+          273.6000061035156,
+          100.6439208984375
+        ],
+        [
+          71.9296875,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances)\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          273.6000061035156,
+          88.154296875
+        ],
+        [
+          273.6000061035156,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) \u2013 Year 1",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          71.9296875,
+          88.453125
+        ],
+        [
+          276.6000061035156,
+          88.453125
+        ],
+        [
+          276.6000061035156,
+          100.6439208984375
+        ],
+        [
+          71.9296875,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) \u2013 Year 1",
+      "heading_level": null,
+      "page_id": 36,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          276.6000061035156,
+          88.154296875
+        ],
+        [
+          276.6000061035156,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) \u2013 Year 1",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          71.15625,
+          88.154296875
+        ],
+        [
+          276.6000061035156,
+          88.154296875
+        ],
+        [
+          276.6000061035156,
+          100.6439208984375
+        ],
+        [
+          71.15625,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "PRE-CLOSING ADJUSTING ENTRIES",
+      "heading_level": null,
+      "page_id": 37,
+      "polygon": [
+        [
+          72.0,
+          242.6484375
+        ],
+        [
+          249.046875,
+          242.6484375
+        ],
+        [
+          249.046875,
+          253.04049682617188
+        ],
+        [
+          72.0,
+          253.04049682617188
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act\nPre-Closing Trial Balance\nYear 1 (With Advances)",
+      "heading_level": null,
+      "page_id": 38,
+      "polygon": [
+        [
+          328.7109375,
+          88.6439208984375
+        ],
+        [
+          463.2890625,
+          88.6439208984375
+        ],
+        [
+          463.2890625,
+          128.24392700195312
+        ],
+        [
+          328.7109375,
+          128.24392700195312
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) Financial Statements - Year 1",
+      "heading_level": null,
+      "page_id": 40,
+      "polygon": [
+        [
+          69.609375,
+          88.154296875
+        ],
+        [
+          385.20001220703125,
+          88.154296875
+        ],
+        [
+          385.20001220703125,
+          100.6439208984375
+        ],
+        [
+          69.609375,
+          100.6439208984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) Reclassified Financial Statements \u2013 Year 1:",
+      "heading_level": null,
+      "page_id": 44,
+      "polygon": [
+        [
+          70.3828125,
+          140.72393798828125
+        ],
+        [
+          454.9560241699219,
+          140.72393798828125
+        ],
+        [
+          454.9560241699219,
+          152.72393798828125
+        ],
+        [
+          70.3828125,
+          152.72393798828125
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) Closing Entries\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 45,
+      "polygon": [
+        [
+          71.9296875,
+          138.05859375
+        ],
+        [
+          355.5600280761719,
+          138.05859375
+        ],
+        [
+          355.5600280761719,
+          150.68392944335938
+        ],
+        [
+          71.9296875,
+          150.68392944335938
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) Closing Entries\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          70.3828125,
+          122.220703125
+        ],
+        [
+          355.5600280761719,
+          122.220703125
+        ],
+        [
+          355.5600280761719,
+          135.08392333984375
+        ],
+        [
+          70.3828125,
+          135.08392333984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act (With Advances) Closing Entries\u2013 Year 1",
+      "heading_level": null,
+      "page_id": 47,
+      "polygon": [
+        [
+          71.15625,
+          121.623046875
+        ],
+        [
+          355.5600280761719,
+          121.623046875
+        ],
+        [
+          355.5600280761719,
+          135.08392333984375
+        ],
+        [
+          71.15625,
+          135.08392333984375
+        ]
+      ]
+    },
+    {
+      "title": "Economy Act \nPost-Closing Trial Balance",
+      "heading_level": null,
+      "page_id": 48,
+      "polygon": [
+        [
+          326.00390625,
+          116.24392700195312
+        ],
+        [
+          465.99609375,
+          116.24392700195312
+        ],
+        [
+          465.99609375,
+          142.04391479492188
+        ],
+        [
+          326.00390625,
+          142.04391479492188
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "TableCell",
+          98
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "TableCell",
+          65
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "TableCell",
+          100
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "TableCell",
+          73
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "TableCell",
+          132
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "TableCell",
+          108
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "TableCell",
+          83
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          161
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "TableCell",
+          67
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          187
+        ],
+        [
+          "TableCell",
+          112
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          71
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "TableCell",
+          122
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "TableCell",
+          113
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          137
+        ],
+        [
+          "TableCell",
+          75
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 46,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 47,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          103
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 48,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/economy-act"
+}

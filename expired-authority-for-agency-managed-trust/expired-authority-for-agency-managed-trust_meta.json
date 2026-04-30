@@ -1,0 +1,1865 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GUIDE FOR BASIC ACCOUNTING AND REPORTING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          187.8583984375,
+          144.9769287109375
+        ],
+        [
+          484.171875,
+          144.9769287109375
+        ],
+        [
+          484.171875,
+          156.86410522460938
+        ],
+        [
+          187.8583984375,
+          156.86410522460938
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELLED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.97172546386719,
+          172.1986083984375
+        ],
+        [
+          583.5272827148438,
+          172.1986083984375
+        ],
+        [
+          583.5272827148438,
+          197.69662475585938
+        ],
+        [
+          86.97172546386719,
+          197.69662475585938
+        ]
+      ]
+    },
+    {
+      "title": "PREPARED BY:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          300.8671875,
+          419.853515625
+        ],
+        [
+          366.64166259765625,
+          419.853515625
+        ],
+        [
+          366.64166259765625,
+          429.37254333496094
+        ],
+        [
+          300.8671875,
+          429.37254333496094
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.189453125
+        ],
+        [
+          580.078125,
+          79.189453125
+        ],
+        [
+          580.078125,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Version History",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          298.93359375,
+          132.08203125
+        ],
+        [
+          369.8229675292969,
+          132.08203125
+        ],
+        [
+          369.8229675292969,
+          143.15673828125
+        ],
+        [
+          298.93359375,
+          143.15673828125
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.71875,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          89.71875,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.78125,
+          120.94012451171875
+        ],
+        [
+          101.11231994628906,
+          120.94012451171875
+        ],
+        [
+          101.11231994628906,
+          131.10012817382812
+        ],
+        [
+          58.78125,
+          131.10012817382812
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.71875,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          89.71875,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Year 1",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.5546875,
+          120.427734375
+        ],
+        [
+          90.01760864257812,
+          120.427734375
+        ],
+        [
+          90.01760864257812,
+          131.47274780273438
+        ],
+        [
+          59.5546875,
+          131.47274780273438
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.44488525390625
+        ],
+        [
+          579.552978515625,
+          79.44488525390625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "6. To record a disbursement. (TC B110)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.328125,
+          120.90631103515625
+        ],
+        [
+          221.7523651123047,
+          120.90631103515625
+        ],
+        [
+          221.7523651123047,
+          131.10012817382812
+        ],
+        [
+          60.328125,
+          131.10012817382812
+        ]
+      ]
+    },
+    {
+      "title": "Preclosing Adjusted Trial Balance",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.16796875,
+          269.0391540527344
+        ],
+        [
+          209.7451629638672,
+          269.0391540527344
+        ],
+        [
+          209.7451629638672,
+          279.19915771484375
+        ],
+        [
+          59.16796875,
+          279.19915771484375
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          90.93199920654297,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Closing Entries",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          60.328125,
+          109.62872314453125
+        ],
+        [
+          128.390625,
+          109.62872314453125
+        ],
+        [
+          128.390625,
+          119.78872680664062
+        ],
+        [
+          60.328125,
+          119.78872680664062
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          89.71875,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          89.71875,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Post-Closing Trial Balance",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          59.94140625,
+          241.81033325195312
+        ],
+        [
+          179.8330535888672,
+          241.81033325195312
+        ],
+        [
+          179.8330535888672,
+          251.9703369140625
+        ],
+        [
+          59.94140625,
+          251.9703369140625
+        ]
+      ]
+    },
+    {
+      "title": "USSGL 2108 YEAR-END CLOSING STATEMENT (YEAR 1)\nExpenditure Account",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          197.2265625,
+          403.119140625
+        ],
+        [
+          474.1171875,
+          403.119140625
+        ],
+        [
+          474.1171875,
+          424.9951171875
+        ],
+        [
+          197.2265625,
+          424.9951171875
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "SF 133: REPORT ON BUDGET EXECUTION AND BUDGETARY RESOURCES AND BUDGET PROGRAM AND \nFINANCING (P&F) SCHEDULE PRIOR YEAR ACTUAL COLUMN \u2013 YEAR 1\nExpenditure Account",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          77.34375,
+          119.232421875
+        ],
+        [
+          594.1589965820312,
+          119.232421875
+        ],
+        [
+          594.1589965820312,
+          154.84072875976562
+        ],
+        [
+          77.34375,
+          154.84072875976562
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          89.71875,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          89.71875,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "SF-133 AND P&F CONTINUED\u2026",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          58.78125,
+          109.62872314453125
+        ],
+        [
+          214.17282104492188,
+          109.62872314453125
+        ],
+        [
+          214.17282104492188,
+          119.78872680664062
+        ],
+        [
+          58.78125,
+          119.78872680664062
+        ]
+      ]
+    },
+    {
+      "title": "STATEMENT OF BUDGETARY RESOURCES (YEAR 1)\nExpenditure Account",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          200.3203125,
+          227.408203125
+        ],
+        [
+          467.9296875,
+          227.408203125
+        ],
+        [
+          467.9296875,
+          250.24313354492188
+        ],
+        [
+          200.3203125,
+          250.24313354492188
+        ]
+      ]
+    },
+    {
+      "title": "BUDGETARY RESOURCES\n3. Budget authority\nA. Appropriation actual (4114E) 6,000\n7. Total budgetary resources 6,000\nSTATUS OF BUDGETARY RESOURCES\n8. Obligations incurred:\nA. Direct (4902E) 5,500\n9. Unobligated balance:\nA. Apportioned (4610E) 500\n11. Total status of budgetary resources 6,000\nCHANGE IN OBLIGATED BALANCE\n13. Obligations incurred (+) (4902E) 5,500\n14. Gross outlays (-) (4902E) (5,500)\nNET OUTLAYS\n19. Net Outlays:\nA. Gross outlays (+) (4902E) 5,500",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          57.234375,
+          256.9921875
+        ],
+        [
+          550.9853515625,
+          256.9921875
+        ],
+        [
+          550.9853515625,
+          464.2598571777344
+        ],
+        [
+          57.234375,
+          464.2598571777344
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.44488525390625
+        ],
+        [
+          580.078125,
+          79.44488525390625
+        ],
+        [
+          580.078125,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "BALANCE SHEET",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          291.97265625,
+          141.345703125
+        ],
+        [
+          376.27734375,
+          141.345703125
+        ],
+        [
+          376.27734375,
+          150.89151000976562
+        ],
+        [
+          291.97265625,
+          150.89151000976562
+        ]
+      ]
+    },
+    {
+      "title": "As of September 30, YEAR 1",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          277.27734375,
+          151.505859375
+        ],
+        [
+          394.06640625,
+          151.505859375
+        ],
+        [
+          394.06640625,
+          161.666015625
+        ],
+        [
+          277.27734375,
+          161.666015625
+        ]
+      ]
+    },
+    {
+      "title": "STATEMENT OF NET COST",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          251.3671875,
+          366.4895324707031
+        ],
+        [
+          398.3203125,
+          366.4895324707031
+        ],
+        [
+          398.3203125,
+          375.83673095703125
+        ],
+        [
+          251.3671875,
+          375.83673095703125
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          89.71875,
+          79.44488525390625
+        ],
+        [
+          579.552978515625,
+          79.44488525390625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          89.71875,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "STATEMENT OF CHANGES IN NET POSITION",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          232.03125,
+          141.046875
+        ],
+        [
+          439.3125,
+          141.046875
+        ],
+        [
+          439.3125,
+          150.88824462890625
+        ],
+        [
+          232.03125,
+          150.88824462890625
+        ]
+      ]
+    },
+    {
+      "title": "Year 5 (year of cancellation)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.5546875,
+          299.5191345214844
+        ],
+        [
+          184.8515625,
+          299.5191345214844
+        ],
+        [
+          184.8515625,
+          309.67913818359375
+        ],
+        [
+          59.5546875,
+          309.67913818359375
+        ]
+      ]
+    },
+    {
+      "title": "Beginning Trial Balance",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          60.96000289916992,
+          380.70703125
+        ],
+        [
+          169.16400146484375,
+          380.70703125
+        ],
+        [
+          169.16400146484375,
+          391.4671173095703
+        ],
+        [
+          60.96000289916992,
+          391.4671173095703
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          79.189453125
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Preclosing Adjusted Trial Balance",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          60.71484375,
+          305.701171875
+        ],
+        [
+          212.34400939941406,
+          305.701171875
+        ],
+        [
+          212.34400939941406,
+          316.1815490722656
+        ],
+        [
+          60.71484375,
+          316.1815490722656
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          89.71875,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          89.71875,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Closing Entries",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          60.328125,
+          131.484375
+        ],
+        [
+          128.390625,
+          131.484375
+        ],
+        [
+          128.390625,
+          142.14071655273438
+        ],
+        [
+          60.328125,
+          142.14071655273438
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          90.93199920654297,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "Post-Closing Trial Balance",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          59.94140625,
+          132.99673461914062
+        ],
+        [
+          179.8330535888672,
+          132.99673461914062
+        ],
+        [
+          179.8330535888672,
+          143.15673828125
+        ],
+        [
+          59.94140625,
+          143.15673828125
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.44488525390625
+        ],
+        [
+          580.078125,
+          79.44488525390625
+        ],
+        [
+          580.078125,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "SF 133: REPORT ON BUDGET EXECUTION AND BUDGETARY RESOURCES AND BUDGET PROGRAM AND \nFINANCING (P&F) SCHEDULE PRIOR YEAR ACTUAL COLUMN \u2013 YEAR 1",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          77.34375,
+          143.4375
+        ],
+        [
+          594.1558227539062,
+          143.4375
+        ],
+        [
+          594.1558227539062,
+          166.52471923828125
+        ],
+        [
+          77.34375,
+          166.52471923828125
+        ]
+      ]
+    },
+    {
+      "title": "Expenditure Account",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          287.71875,
+          167.94140625
+        ],
+        [
+          383.625,
+          167.94140625
+        ],
+        [
+          383.625,
+          178.208740234375
+        ],
+        [
+          287.71875,
+          178.208740234375
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.44488525390625
+        ],
+        [
+          580.078125,
+          79.44488525390625
+        ],
+        [
+          580.078125,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "STATEMENT OF BUDGETARY RESOURCES (YEAR 1)\nExpenditure Account",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          206.14639282226562,
+          141.046875
+        ],
+        [
+          467.9296875,
+          141.046875
+        ],
+        [
+          467.9296875,
+          163.57830810546875
+        ],
+        [
+          206.14639282226562,
+          163.57830810546875
+        ]
+      ]
+    },
+    {
+      "title": "NET COST",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          60.71484375,
+          421.95823669433594
+        ],
+        [
+          107.92967987060547,
+          421.95823669433594
+        ],
+        [
+          107.92967987060547,
+          431.30543518066406
+        ],
+        [
+          60.71484375,
+          431.30543518066406
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          90.93199920654297,
+          79.189453125
+        ],
+        [
+          580.078125,
+          79.189453125
+        ],
+        [
+          580.078125,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    },
+    {
+      "title": "BALANCE SHEET",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          290.0390625,
+          140.748046875
+        ],
+        [
+          378.2109375,
+          140.748046875
+        ],
+        [
+          378.2109375,
+          150.88946533203125
+        ],
+        [
+          290.0390625,
+          150.88946533203125
+        ]
+      ]
+    },
+    {
+      "title": "STATEMENT OF CHANGES IN NET POSITION",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          231.2578125,
+          343.353515625
+        ],
+        [
+          440.0859375,
+          343.353515625
+        ],
+        [
+          440.0859375,
+          353.3815002441406
+        ],
+        [
+          231.2578125,
+          353.3815002441406
+        ]
+      ]
+    },
+    {
+      "title": "ACCOUNTING FOR EXPIRED AND CANCELED AUTHORITY FOR AGENCY MANAGED\nTRUST OR SPECIAL FUNDS (UNAVAILABLE RECEIPTS)",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          90.93199920654297,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          78.890625
+        ],
+        [
+          579.552978515625,
+          104.94290161132812
+        ],
+        [
+          90.93199920654297,
+          104.94290161132812
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          17
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          55
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          173
+        ],
+        [
+          "TableCell",
+          90
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "TableCell",
+          120
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "TableCell",
+          90
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "TableCell",
+          105
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          150
+        ],
+        [
+          "Span",
+          147
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "TableCell",
+          114
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "TableCell",
+          138
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "TableCell",
+          90
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "TableCell",
+          102
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/expired-authority-for-agency-managed-trust"
+}

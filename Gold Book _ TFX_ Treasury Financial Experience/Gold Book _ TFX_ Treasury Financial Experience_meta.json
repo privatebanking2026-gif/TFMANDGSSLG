@@ -1,0 +1,259 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Gold Book",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          50.39898681640625
+        ],
+        [
+          171.7899627685547,
+          50.39898681640625
+        ],
+        [
+          171.7899627685547,
+          80.39898681640625
+        ],
+        [
+          33.46875,
+          80.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Table of Contents",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          57.375,
+          136.125
+        ],
+        [
+          160.33787536621094,
+          136.125
+        ],
+        [
+          160.33787536621094,
+          148.42633056640625
+        ],
+        [
+          57.375,
+          148.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 3: Information Requests",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.51171875,
+          286.43743896484375
+        ],
+        [
+          271.0098571777344,
+          286.43743896484375
+        ],
+        [
+          271.0098571777344,
+          298.43743896484375
+        ],
+        [
+          73.51171875,
+          298.43743896484375
+        ]
+      ]
+    },
+    {
+      "title": "Section 4: Protests",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.810546875,
+          371.93743896484375
+        ],
+        [
+          200.54592895507812,
+          371.93743896484375
+        ],
+        [
+          200.54592895507812,
+          383.93743896484375
+        ],
+        [
+          73.810546875,
+          383.93743896484375
+        ]
+      ]
+    },
+    {
+      "title": "Section 7: Legal Basis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.51171875,
+          540.6874389648438
+        ],
+        [
+          217.8739013671875,
+          540.6874389648438
+        ],
+        [
+          217.8739013671875,
+          552.6874389648438
+        ],
+        [
+          73.51171875,
+          552.6874389648438
+        ]
+      ]
+    },
+    {
+      "title": "Section 8: Contacts",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.51171875,
+          582.6874389648438
+        ],
+        [
+          204.76992797851562,
+          582.6874389648438
+        ],
+        [
+          204.76992797851562,
+          594.6874389648438
+        ],
+        [
+          73.51171875,
+          594.6874389648438
+        ]
+      ]
+    },
+    {
+      "title": "Section 9: Glossary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.212890625,
+          624.6874389648438
+        ],
+        [
+          203.1979217529297,
+          624.6874389648438
+        ],
+        [
+          203.1979217529297,
+          636.6874389648438
+        ],
+        [
+          73.212890625,
+          636.6874389648438
+        ]
+      ]
+    },
+    {
+      "title": "Full Gold Book",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          73.212890625,
+          666.6874465942383
+        ],
+        [
+          178.38592529296875,
+          666.6874465942383
+        ],
+        [
+          178.38592529296875,
+          678.6874465942383
+        ],
+        [
+          73.212890625,
+          678.6874465942383
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Text",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Gold Book _ TFX_ Treasury Financial Experience"
+}

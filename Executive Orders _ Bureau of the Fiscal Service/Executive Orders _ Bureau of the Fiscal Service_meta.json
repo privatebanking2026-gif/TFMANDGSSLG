@@ -1,0 +1,129 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Executive Orders",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          37.247314453125
+        ],
+        [
+          251.60374450683594,
+          37.247314453125
+        ],
+        [
+          251.60374450683594,
+          65.43975830078125
+        ],
+        [
+          33.75,
+          65.43975830078125
+        ]
+      ]
+    },
+    {
+      "title": "Executive Order 13019",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          87.3984375
+        ],
+        [
+          197.29661560058594,
+          87.3984375
+        ],
+        [
+          197.29661560058594,
+          103.6026611328125
+        ],
+        [
+          33.46875,
+          103.6026611328125
+        ]
+      ]
+    },
+    {
+      "title": "Download PDF",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          63.75,
+          251.3671875
+        ],
+        [
+          146.8419952392578,
+          251.3671875
+        ],
+        [
+          146.8419952392578,
+          264.500732421875
+        ],
+        [
+          63.75,
+          264.500732421875
+        ]
+      ]
+    },
+    {
+      "title": "Memorandum from the Attorney General",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          281.53125
+        ],
+        [
+          249.34066772460938,
+          281.53125
+        ],
+        [
+          249.34066772460938,
+          294.5007629394531
+        ],
+        [
+          32.2734375,
+          294.5007629394531
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          37
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Executive Orders _ Bureau of the Fiscal Service"
+}
