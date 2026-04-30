@@ -1,0 +1,778 @@
+{
+  "table_of_contents": [
+    {
+      "title": "6 Notification of Change",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.25,
+          106.5
+        ],
+        [
+          405.75,
+          106.5
+        ],
+        [
+          405.75,
+          204.9609375
+        ],
+        [
+          68.25,
+          204.9609375
+        ]
+      ]
+    },
+    {
+      "title": "In this chapter...",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          80.25,
+          240.75
+        ],
+        [
+          186.75,
+          240.75
+        ],
+        [
+          186.75,
+          255.75
+        ],
+        [
+          80.25,
+          255.75
+        ]
+      ]
+    },
+    {
+      "title": "A: Introduction to Notification of Change",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          73.95477294921875
+        ],
+        [
+          366.36328125,
+          73.95477294921875
+        ],
+        [
+          366.36328125,
+          89.9747314453125
+        ],
+        [
+          71.12109375,
+          89.9747314453125
+        ]
+      ]
+    },
+    {
+      "title": "When to use NOCs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          187.55859375
+        ],
+        [
+          186.35508728027344,
+          187.55859375
+        ],
+        [
+          186.35508728027344,
+          201.72845458984375
+        ],
+        [
+          70.5234375,
+          201.72845458984375
+        ]
+      ]
+    },
+    {
+      "title": "Benefit Payments",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          247.11328125
+        ],
+        [
+          156.8370819091797,
+          247.11328125
+        ],
+        [
+          156.8370819091797,
+          258.46038818359375
+        ],
+        [
+          71.12109375,
+          258.46038818359375
+        ]
+      ]
+    },
+    {
+      "title": "Other Payment Types",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.0000991821289,
+          368.9296875
+        ],
+        [
+          175.83905029296875,
+          368.9296875
+        ],
+        [
+          175.83905029296875,
+          380.9206237792969
+        ],
+        [
+          72.0000991821289,
+          380.9206237792969
+        ]
+      ]
+    },
+    {
+      "title": "When to use CORs, ENRs, or Other Ways to Change Recipient Information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          465.99609375
+        ],
+        [
+          532.6871948242188,
+          465.99609375
+        ],
+        [
+          532.6871948242188,
+          480.69140625
+        ],
+        [
+          70.5234375,
+          480.69140625
+        ]
+      ]
+    },
+    {
+      "title": "Processing Timeframes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.419921875,
+          73.08984375
+        ],
+        [
+          221.3666229248047,
+          73.08984375
+        ],
+        [
+          221.3666229248047,
+          87.66827392578125
+        ],
+        [
+          71.419921875,
+          87.66827392578125
+        ]
+      ]
+    },
+    {
+      "title": "What to do if an agency does not respond to a COR within two payment \ncycles:",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.71875,
+          146.70843505859375
+        ],
+        [
+          524.7537841796875,
+          146.70843505859375
+        ],
+        [
+          524.7537841796875,
+          177.12890625
+        ],
+        [
+          71.71875,
+          177.12890625
+        ]
+      ]
+    },
+    {
+      "title": "Change Reason Codes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.0000991821289,
+          318.26953125
+        ],
+        [
+          208.98731994628906,
+          318.26953125
+        ],
+        [
+          208.98731994628906,
+          332.7087097167969
+        ],
+        [
+          72.0000991821289,
+          332.7087097167969
+        ]
+      ]
+    },
+    {
+      "title": "Claim Number Structure",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.71875,
+          73.68829345703125
+        ],
+        [
+          226.43016052246094,
+          73.68829345703125
+        ],
+        [
+          226.43016052246094,
+          87.66827392578125
+        ],
+        [
+          71.71875,
+          87.66827392578125
+        ]
+      ]
+    },
+    {
+      "title": "Claim Number Structure Table",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.12109375,
+          236.1685791015625
+        ],
+        [
+          265.46368408203125,
+          236.1685791015625
+        ],
+        [
+          265.46368408203125,
+          250.1485595703125
+        ],
+        [
+          71.12109375,
+          250.1485595703125
+        ]
+      ]
+    },
+    {
+      "title": "B: Other Change Methods",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.5234375,
+          542.3156127929688
+        ],
+        [
+          255.98822021484375,
+          542.3156127929688
+        ],
+        [
+          255.98822021484375,
+          558.3356018066406
+        ],
+        [
+          70.5234375,
+          558.3356018066406
+        ]
+      ]
+    },
+    {
+      "title": "Financial Institution Actions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.71875,
+          73.4765625
+        ],
+        [
+          251.9870147705078,
+          73.4765625
+        ],
+        [
+          251.9870147705078,
+          87.66827392578125
+        ],
+        [
+          71.71875,
+          87.66827392578125
+        ]
+      ]
+    },
+    {
+      "title": "Green Book 6. Notification of Change",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          73.14009857177734,
+          40.21875
+        ],
+        [
+          527.4871215820312,
+          40.21875
+        ],
+        [
+          527.4871215820312,
+          54.3345947265625
+        ],
+        [
+          73.14009857177734,
+          54.3345947265625
+        ]
+      ]
+    },
+    {
+      "title": "C: Refused Notification of Change",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.71875,
+          72.57470703125
+        ],
+        [
+          312.4603576660156,
+          72.57470703125
+        ],
+        [
+          312.4603576660156,
+          88.59466552734375
+        ],
+        [
+          71.71875,
+          88.59466552734375
+        ]
+      ]
+    },
+    {
+      "title": "Federal Agencies Using Refused CORs",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.12109375,
+          141.7283935546875
+        ],
+        [
+          308.98828125,
+          141.7283935546875
+        ],
+        [
+          308.98828125,
+          155.7083740234375
+        ],
+        [
+          71.12109375,
+          155.7083740234375
+        ]
+      ]
+    },
+    {
+      "title": "Processing Timeframes",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          72.0000991821289,
+          208.86846923828125
+        ],
+        [
+          221.3666229248047,
+          208.86846923828125
+        ],
+        [
+          221.3666229248047,
+          223.13671875
+        ],
+        [
+          72.0000991821289,
+          223.13671875
+        ]
+      ]
+    },
+    {
+      "title": "Refused COR Codes",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          71.419921875,
+          275.94866943359375
+        ],
+        [
+          193.8497772216797,
+          275.94866943359375
+        ],
+        [
+          193.8497772216797,
+          289.9286804199219
+        ],
+        [
+          71.419921875,
+          289.9286804199219
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          27
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          45
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/greenbook-chapter6"
+}

@@ -1,0 +1,2847 @@
+{
+  "table_of_contents": [
+    {
+      "title": "GENERAL FUND RECEIPT ACCOUNT (GFR) GUIDE: SCENARIO 7: NON-CUSTODIAL \nSTATEMENT COLLECTIONS: SEIGNORAGE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          114.36000061035156,
+          227.408203125
+        ],
+        [
+          681.1295166015625,
+          227.408203125
+        ],
+        [
+          681.1295166015625,
+          260.0029602050781
+        ],
+        [
+          114.36000061035156,
+          260.0029602050781
+        ]
+      ]
+    },
+    {
+      "title": "EFFECTIVE FISCAL YEAR 2021",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          291.1375732421875,
+          322.03167724609375
+        ],
+        [
+          500.85308837890625,
+          322.03167724609375
+        ],
+        [
+          500.85308837890625,
+          336.0716552734375
+        ],
+        [
+          291.1375732421875,
+          336.0716552734375
+        ]
+      ]
+    },
+    {
+      "title": "PREPARED BY:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          341.859375,
+          422.244140625
+        ],
+        [
+          447.9756164550781,
+          422.244140625
+        ],
+        [
+          447.9756164550781,
+          437.5808563232422
+        ],
+        [
+          341.859375,
+          437.5808563232422
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.15625,
+          93.0714111328125
+        ],
+        [
+          140.52989196777344,
+          93.0714111328125
+        ],
+        [
+          140.52989196777344,
+          106.03143310546875
+        ],
+        [
+          71.15625,
+          106.03143310546875
+        ]
+      ]
+    },
+    {
+      "title": "Definition of a General Fund Receipt (GFR) Account",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          69.609375,
+          112.26519775390625
+        ],
+        [
+          366.1985168457031,
+          112.26519775390625
+        ],
+        [
+          366.1985168457031,
+          125.22518920898438
+        ],
+        [
+          69.609375,
+          125.22518920898438
+        ]
+      ]
+    },
+    {
+      "title": "Purpose",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.9296875,
+          196.991455078125
+        ],
+        [
+          117.36000061035156,
+          196.991455078125
+        ],
+        [
+          117.36000061035156,
+          209.95144653320312
+        ],
+        [
+          71.9296875,
+          209.95144653320312
+        ]
+      ]
+    },
+    {
+      "title": "Federal Account Symbols (FAS), Treasury Account Symbols (TAS), and Collections",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.15625,
+          281.7114562988281
+        ],
+        [
+          538.3125,
+          281.7114562988281
+        ],
+        [
+          538.3125,
+          294.67144775390625
+        ],
+        [
+          71.15625,
+          294.67144775390625
+        ]
+      ]
+    },
+    {
+      "title": "GFR Account Categories in the FAST Book",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.15625,
+          92.63671875
+        ],
+        [
+          314.60345458984375,
+          92.63671875
+        ],
+        [
+          314.60345458984375,
+          106.03143310546875
+        ],
+        [
+          71.15625,
+          106.03143310546875
+        ]
+      ]
+    },
+    {
+      "title": "GFR Account Reporting Responsibility",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.9296875,
+          321.5390625
+        ],
+        [
+          290.3902893066406,
+          321.5390625
+        ],
+        [
+          290.3902893066406,
+          335.2314453125
+        ],
+        [
+          71.9296875,
+          335.2314453125
+        ]
+      ]
+    },
+    {
+      "title": "FLOWCHART - GFR COLLECTIONS TO COLLECTING AGENCY'S FINANCIAL STATEMENTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          69.609375,
+          92.935546875
+        ],
+        [
+          648.9779052734375,
+          92.935546875
+        ],
+        [
+          648.9779052734375,
+          106.03143310546875
+        ],
+        [
+          69.609375,
+          106.03143310546875
+        ]
+      ]
+    },
+    {
+      "title": "Listing of USSGL Accounts Used in This Scenario",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.9296875,
+          92.63671875
+        ],
+        [
+          349.5682373046875,
+          92.63671875
+        ],
+        [
+          349.5682373046875,
+          106.03143310546875
+        ],
+        [
+          71.9296875,
+          106.03143310546875
+        ]
+      ]
+    },
+    {
+      "title": "Scenario 7 Non-Custodial Statement Collections: Seigniorage",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          69.609375,
+          92.935546875
+        ],
+        [
+          431.41058349609375,
+          92.935546875
+        ],
+        [
+          431.41058349609375,
+          106.07894897460938
+        ],
+        [
+          69.609375,
+          106.07894897460938
+        ]
+      ]
+    },
+    {
+      "title": "Beginning Trial Balance",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          72.0,
+          227.70703125
+        ],
+        [
+          196.83984375,
+          227.70703125
+        ],
+        [
+          196.83984375,
+          240.08392333984375
+        ],
+        [
+          72.0,
+          240.08392333984375
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          98.63999938964844,
+          35.859375
+        ],
+        [
+          723.001220703125,
+          35.859375
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Year 2 1st Quarter",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.15625,
+          114.345458984375
+        ],
+        [
+          166.00799560546875,
+          114.345458984375
+        ],
+        [
+          166.00799560546875,
+          127.283935546875
+        ],
+        [
+          71.15625,
+          127.283935546875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Also Post:",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          70.3828125,
+          92.63616943359375
+        ],
+        [
+          117.66475677490234,
+          92.63616943359375
+        ],
+        [
+          117.66475677490234,
+          103.67617797851562
+        ],
+        [
+          70.3828125,
+          103.67617797851562
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          98.63999938964844,
+          36.755859375
+        ],
+        [
+          723.001220703125,
+          36.755859375
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "1st Quarter Preclosing Trial Balance",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          71.9296875,
+          91.9053955078125
+        ],
+        [
+          257.8067626953125,
+          91.9053955078125
+        ],
+        [
+          257.8067626953125,
+          104.84393310546875
+        ],
+        [
+          71.9296875,
+          104.84393310546875
+        ]
+      ]
+    },
+    {
+      "title": "Financial Statements Quarter 1 Year 2",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          71.54296875,
+          92.0390625
+        ],
+        [
+          270.8388671875,
+          92.0390625
+        ],
+        [
+          270.8388671875,
+          104.84390258789062
+        ],
+        [
+          71.54296875,
+          104.84390258789062
+        ]
+      ]
+    },
+    {
+      "title": "Year 2 4th Quarter Entries",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          70.76953125,
+          91.9053955078125
+        ],
+        [
+          207.70797729492188,
+          91.9053955078125
+        ],
+        [
+          207.70797729492188,
+          104.84393310546875
+        ],
+        [
+          70.76953125,
+          104.84393310546875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Also Post:",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          70.76953125,
+          115.048828125
+        ],
+        [
+          117.6691665649414,
+          115.048828125
+        ],
+        [
+          117.6691665649414,
+          126.11904907226562
+        ],
+        [
+          70.76953125,
+          126.11904907226562
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          37.353515625
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          98.63999938964844,
+          36.158203125
+        ],
+        [
+          723.001220703125,
+          36.158203125
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 29,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.65234375
+        ],
+        [
+          723.001220703125,
+          37.65234375
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Year 2 \u2013 Preclosing Adjusting Entries",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          70.76953125,
+          92.63671875
+        ],
+        [
+          265.7879943847656,
+          92.63671875
+        ],
+        [
+          265.7879943847656,
+          104.84390258789062
+        ],
+        [
+          70.76953125,
+          104.84390258789062
+        ]
+      ]
+    },
+    {
+      "title": "Financial Statements",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          71.9296875,
+          136.564453125
+        ],
+        [
+          179.74801635742188,
+          136.564453125
+        ],
+        [
+          179.74801635742188,
+          149.84393310546875
+        ],
+        [
+          71.9296875,
+          149.84393310546875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 34,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Reclassified Statements:",
+      "heading_level": null,
+      "page_id": 39,
+      "polygon": [
+        [
+          71.15625,
+          92.8438720703125
+        ],
+        [
+          196.35482788085938,
+          92.8438720703125
+        ],
+        [
+          196.35482788085938,
+          104.84390258789062
+        ],
+        [
+          71.15625,
+          104.84390258789062
+        ]
+      ]
+    },
+    {
+      "title": "Closing Entries",
+      "heading_level": null,
+      "page_id": 41,
+      "polygon": [
+        [
+          71.15625,
+          136.86328125
+        ],
+        [
+          151.06797790527344,
+          136.86328125
+        ],
+        [
+          151.06797790527344,
+          149.84393310546875
+        ],
+        [
+          71.15625,
+          149.84393310546875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 43,
+      "polygon": [
+        [
+          98.63999938964844,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          37.0546875
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "GENERAL FUND RECEIPT (GFR) ACCOUNT GUIDE: SCENARIO 7: NON-CUSTODIAL STATEMENT COLLECTIONS: \nSEIGNORAGE\nEffective Fiscal 2021",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          98.63999938964844,
+          36.755859375
+        ],
+        [
+          723.001220703125,
+          36.755859375
+        ],
+        [
+          723.001220703125,
+          77.4949951171875
+        ],
+        [
+          98.63999938964844,
+          77.4949951171875
+        ]
+      ]
+    },
+    {
+      "title": "Post-Closing Trial Balance",
+      "heading_level": null,
+      "page_id": 46,
+      "polygon": [
+        [
+          72.0,
+          159.57421875
+        ],
+        [
+          209.32797241210938,
+          159.57421875
+        ],
+        [
+          209.32797241210938,
+          172.283935546875
+        ],
+        [
+          72.0,
+          172.283935546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          30
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          147
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          143
+        ],
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          126
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          80
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "TableCell",
+          149
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "TableCell",
+          75
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          88
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          84
+        ],
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          169
+        ],
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          120
+        ],
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          144
+        ],
+        [
+          "Span",
+          91
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          152
+        ],
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "TableCell",
+          81
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          290
+        ],
+        [
+          "TableCell",
+          149
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          39
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          254
+        ],
+        [
+          "TableCell",
+          137
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "TableCell",
+          125
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "TableCell",
+          97
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 39,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 40,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "TableCell",
+          67
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 41,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 42,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          77
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 43,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 44,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 45,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 46,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/general-fund-receipt-account-scenario-7"
+}
