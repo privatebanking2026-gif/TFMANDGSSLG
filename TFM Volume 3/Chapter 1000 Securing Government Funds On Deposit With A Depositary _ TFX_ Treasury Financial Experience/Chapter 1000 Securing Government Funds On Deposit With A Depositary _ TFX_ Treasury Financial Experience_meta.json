@@ -1,0 +1,874 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 1000 Securing Government Funds\nOn Deposit With A Depositary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          50.39898681640625
+        ],
+        [
+          579.81982421875,
+          50.39898681640625
+        ],
+        [
+          579.81982421875,
+          122.58984375
+        ],
+        [
+          33.75,
+          122.58984375
+        ]
+      ]
+    },
+    {
+      "title": "Securing Government Funds On Deposit With A\nDepositary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          158.94140625
+        ],
+        [
+          513.3967895507812,
+          158.94140625
+        ],
+        [
+          513.3967895507812,
+          209.30859375
+        ],
+        [
+          33.46875,
+          209.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          228.55078125
+        ],
+        [
+          152.40744018554688,
+          228.55078125
+        ],
+        [
+          152.40744018554688,
+          242.4483642578125
+        ],
+        [
+          71.25,
+          242.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1010\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          293.90625
+        ],
+        [
+          320.5408020019531,
+          293.90625
+        ],
+        [
+          320.5408020019531,
+          307.6983642578125
+        ],
+        [
+          71.25,
+          307.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1015\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          416.4483642578125
+        ],
+        [
+          228.36289978027344,
+          416.4483642578125
+        ],
+        [
+          228.36289978027344,
+          430.8046875
+        ],
+        [
+          71.25,
+          430.8046875
+        ]
+      ]
+    },
+    {
+      "title": "Section 1020\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          500.4483642578125
+        ],
+        [
+          309.65985107421875,
+          500.4483642578125
+        ],
+        [
+          309.65985107421875,
+          513.9483642578125
+        ],
+        [
+          70.5234375,
+          513.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1025\u2014Responsibilities for Public Money",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          565.6983642578125
+        ],
+        [
+          381.66876220703125,
+          565.6983642578125
+        ],
+        [
+          381.66876220703125,
+          579.1983642578125
+        ],
+        [
+          70.5234375,
+          579.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "1025.10\u2014Depositaries",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.41015625,
+          140.17633056640625
+        ],
+        [
+          178.45790100097656,
+          140.17633056640625
+        ],
+        [
+          178.45790100097656,
+          152.17633056640625
+        ],
+        [
+          48.41015625,
+          152.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Depositaries must:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.41015625,
+          164.7421875
+        ],
+        [
+          150.10992431640625,
+          164.7421875
+        ],
+        [
+          150.10992431640625,
+          176.93743896484375
+        ],
+        [
+          48.41015625,
+          176.93743896484375
+        ]
+      ]
+    },
+    {
+      "title": "1025.20\u2014FRBs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.111328125,
+          352.42633056640625
+        ],
+        [
+          136.93795776367188,
+          352.42633056640625
+        ],
+        [
+          136.93795776367188,
+          364.42633056640625
+        ],
+        [
+          48.111328125,
+          364.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1025.30\u2014TCMM Operations Team",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.75,
+          402.67633056640625
+        ],
+        [
+          246.37786865234375,
+          402.67633056640625
+        ],
+        [
+          246.37786865234375,
+          414.67633056640625
+        ],
+        [
+          48.75,
+          414.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1025.40\u2014Agencies",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.75,
+          651.6763305664062
+        ],
+        [
+          159.13792419433594,
+          651.6763305664062
+        ],
+        [
+          159.13792419433594,
+          663.99609375
+        ],
+        [
+          48.75,
+          663.99609375
+        ]
+      ]
+    },
+    {
+      "title": "1025.50\u2014Fiscal Service",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.75,
+          314.015625
+        ],
+        [
+          185.73390197753906,
+          314.015625
+        ],
+        [
+          185.73390197753906,
+          326.17633056640625
+        ],
+        [
+          48.75,
+          326.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1030\u2014Financial Institution Agreement",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.25,
+          512.40234375
+        ],
+        [
+          368.15625,
+          512.40234375
+        ],
+        [
+          368.15625,
+          527.09765625
+        ],
+        [
+          71.25,
+          527.09765625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1035\u2014Acceptable Collateral",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.25,
+          140.37890625
+        ],
+        [
+          306.8653259277344,
+          140.37890625
+        ],
+        [
+          306.8653259277344,
+          153.9486083984375
+        ],
+        [
+          71.25,
+          153.9486083984375
+        ]
+      ]
+    },
+    {
+      "title": "Section 1040\u2014Receiving Collateral",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.25,
+          327.1986083984375
+        ],
+        [
+          297.37481689453125,
+          327.1986083984375
+        ],
+        [
+          297.37481689453125,
+          340.6986083984375
+        ],
+        [
+          71.25,
+          340.6986083984375
+        ]
+      ]
+    },
+    {
+      "title": "Section 1045\u2014Excess Collateral",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.25,
+          711.1986083984375
+        ],
+        [
+          278.974365234375,
+          711.1986083984375
+        ],
+        [
+          278.974365234375,
+          724.6986083984375
+        ],
+        [
+          71.25,
+          724.6986083984375
+        ]
+      ]
+    },
+    {
+      "title": "Section 1050\u2014Maturing Securities",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          70.5234375,
+          178.27734375
+        ],
+        [
+          295.4173583984375,
+          178.27734375
+        ],
+        [
+          295.4173583984375,
+          192.1983642578125
+        ],
+        [
+          70.5234375,
+          192.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "1050.10\u2014Substitution Required",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          332.92633056640625
+        ],
+        [
+          230.77383422851562,
+          332.92633056640625
+        ],
+        [
+          230.77383422851562,
+          344.92633056640625
+        ],
+        [
+          47.8125,
+          344.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1050.20\u2014Substitution Not Required",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.75,
+          479.92633056640625
+        ],
+        [
+          254.55780029296875,
+          479.92633056640625
+        ],
+        [
+          254.55780029296875,
+          491.92633056640625
+        ],
+        [
+          48.75,
+          491.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1050.30\u2014Substitution Required but Not Received",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.75,
+          548.9263305664062
+        ],
+        [
+          332.78570556640625,
+          548.9263305664062
+        ],
+        [
+          332.78570556640625,
+          560.9263153076172
+        ],
+        [
+          48.75,
+          560.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "Section 1055\u2014Depositary Mergers",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.12109375,
+          682.6983642578125
+        ],
+        [
+          294.1348571777344,
+          682.6983642578125
+        ],
+        [
+          294.1348571777344,
+          696.48046875
+        ],
+        [
+          71.12109375,
+          696.48046875
+        ]
+      ]
+    },
+    {
+      "title": "Section 1060\u2014Availability of Monthly Reports",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.25,
+          120.9483642578125
+        ],
+        [
+          365.63079833984375,
+          120.9483642578125
+        ],
+        [
+          365.63079833984375,
+          134.4483642578125
+        ],
+        [
+          71.25,
+          134.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1065\u2014Handling Collateral Pledged by an Insolvent Depositary",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.5234375,
+          242.859375
+        ],
+        [
+          523.2836303710938,
+          242.859375
+        ],
+        [
+          523.2836303710938,
+          256.6983642578125
+        ],
+        [
+          70.5234375,
+          256.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.46875,
+          401.3085632324219
+        ],
+        [
+          239.29087829589844,
+          401.3085632324219
+        ],
+        [
+          239.29087829589844,
+          422.3085632324219
+        ],
+        [
+          33.46875,
+          422.3085632324219
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter to:",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.75,
+          475.42633056640625
+        ],
+        [
+          294.2657470703125,
+          475.42633056640625
+        ],
+        [
+          294.2657470703125,
+          488.42578125
+        ],
+        [
+          48.75,
+          488.42578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact the TCMM Operations Team at:",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.41015625,
+          32.09765625
+        ],
+        [
+          276.7457580566406,
+          32.09765625
+        ],
+        [
+          276.7457580566406,
+          44.17584228515625
+        ],
+        [
+          48.41015625,
+          44.17584228515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          374
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          455
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          13
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          577
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          629
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          607
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          341
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 1000 Securing Government Funds On Deposit With A Depositary _ TFX_ Treasury Financial Experience"
+}

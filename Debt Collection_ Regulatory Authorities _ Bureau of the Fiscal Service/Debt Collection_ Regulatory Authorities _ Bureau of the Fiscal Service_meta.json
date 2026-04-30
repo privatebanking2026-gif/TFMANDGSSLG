@@ -1,0 +1,472 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Debt Collection: Regulatory Authorities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          37.247314453125
+        ],
+        [
+          529.6879272460938,
+          37.247314453125
+        ],
+        [
+          529.6879272460938,
+          65.7421875
+        ],
+        [
+          33.75,
+          65.7421875
+        ]
+      ]
+    },
+    {
+      "title": "Collapse All",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.21484375,
+          100.546875
+        ],
+        [
+          121.5798568725586,
+          100.546875
+        ],
+        [
+          121.5798568725586,
+          113.3055419921875
+        ],
+        [
+          47.21484375,
+          113.3055419921875
+        ]
+      ]
+    },
+    {
+      "title": "31 CFR Part 285, Subpart A: Disbursing Official Offset",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.8125,
+          138.4453125
+        ],
+        [
+          373.1770324707031,
+          138.4453125
+        ],
+        [
+          373.1770324707031,
+          151.5555419921875
+        ],
+        [
+          47.8125,
+          151.5555419921875
+        ]
+      ]
+    },
+    {
+      "title": "History of Rulemakings: Part 285, Subpart A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.21484375,
+          430.03125
+        ],
+        [
+          302.1577453613281,
+          430.03125
+        ],
+        [
+          302.1577453613281,
+          443.17633056640625
+        ],
+        [
+          47.21484375,
+          443.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "31 CFR Part 285, Subpart B: Authorities Other than Offset",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.421875,
+          287.71875
+        ],
+        [
+          396.4790344238281,
+          287.71875
+        ],
+        [
+          396.4790344238281,
+          300.8057861328125
+        ],
+        [
+          45.421875,
+          300.8057861328125
+        ]
+      ]
+    },
+    {
+      "title": "History of Rulemakings: Part 285, Subpart B",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.21484375,
+          419.92657470703125
+        ],
+        [
+          302.4617614746094,
+          419.92657470703125
+        ],
+        [
+          302.4617614746094,
+          432.73828125
+        ],
+        [
+          47.21484375,
+          432.73828125
+        ]
+      ]
+    },
+    {
+      "title": "History of Rulemakings: Parts 900-004",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.21484375,
+          139.60546875
+        ],
+        [
+          269.4097900390625,
+          139.60546875
+        ],
+        [
+          269.4097900390625,
+          152.17633056640625
+        ],
+        [
+          47.21484375,
+          152.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "OPM Regulations",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.169921875,
+          488.77264404296875
+        ],
+        [
+          161.2015838623047,
+          488.77264404296875
+        ],
+        [
+          161.2015838623047,
+          505.828125
+        ],
+        [
+          33.169921875,
+          505.828125
+        ]
+      ]
+    },
+    {
+      "title": "5 CFR Part 550, Subpart K: Collection by Offset from Indebted Government\nEmployees",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.8125,
+          541.5930480957031
+        ],
+        [
+          502.1071472167969,
+          541.5930480957031
+        ],
+        [
+          502.1071472167969,
+          566.3055419921875
+        ],
+        [
+          47.8125,
+          566.3055419921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          399
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          349
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          309
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          327
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          41
+        ],
+        [
+          "Line",
+          4
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Debt Collection_ Regulatory Authorities _ Bureau of the Fiscal Service"
+}

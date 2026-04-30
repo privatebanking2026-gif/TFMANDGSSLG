@@ -1,0 +1,359 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.3359375,
+          57.16943359375
+        ],
+        [
+          49.09562587738037,
+          57.16943359375
+        ],
+        [
+          49.09562587738037,
+          64.19801044464111
+        ],
+        [
+          19.3359375,
+          64.19801044464111
+        ]
+      ]
+    },
+    {
+      "title": "Agency Question",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          18.5625,
+          75.83802509307861
+        ],
+        [
+          70.28320598602295,
+          75.83802509307861
+        ],
+        [
+          70.28320598602295,
+          82.67799091339111
+        ],
+        [
+          18.5625,
+          82.67799091339111
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Response",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          18.94921875,
+          103.56055927276611
+        ],
+        [
+          72.26545238494873,
+          103.56055927276611
+        ],
+        [
+          72.26545238494873,
+          110.40052509307861
+        ],
+        [
+          18.94921875,
+          110.40052509307861
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          19.3359375,
+          221.19482421875
+        ],
+        [
+          52.70253276824951,
+          221.19482421875
+        ],
+        [
+          52.70253276824951,
+          229.19636249542236
+        ],
+        [
+          19.3359375,
+          229.19636249542236
+        ]
+      ]
+    },
+    {
+      "title": "Acronyms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          18.94921875,
+          279.5980348587036
+        ],
+        [
+          50.89522838592529,
+          279.5980348587036
+        ],
+        [
+          50.89522838592529,
+          286.43803119659424
+        ],
+        [
+          18.94921875,
+          286.43803119659424
+        ]
+      ]
+    },
+    {
+      "title": "BETC Acronyms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          18.5625,
+          427.4450044631958
+        ],
+        [
+          71.29826259613037,
+          427.4450044631958
+        ],
+        [
+          71.29826259613037,
+          434.30810546875
+        ],
+        [
+          18.5625,
+          434.30810546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          55
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          275
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          193
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          377
+        ],
+        [
+          "Line",
+          167
+        ],
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/cancellation-quick-reference-guide-(FY2025)"
+}

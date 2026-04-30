@@ -1,0 +1,623 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Actuarial Liabilities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          244.13999938964844,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          51.8077392578125
+        ],
+        [
+          244.13999938964844,
+          51.8077392578125
+        ]
+      ]
+    },
+    {
+      "title": "Background",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.419921875,
+          83.52154541015625
+        ],
+        [
+          138.33599853515625,
+          83.52154541015625
+        ],
+        [
+          138.33599853515625,
+          95.52154541015625
+        ],
+        [
+          71.419921875,
+          95.52154541015625
+        ]
+      ]
+    },
+    {
+      "title": "Proposal",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.419921875,
+          552.62109375
+        ],
+        [
+          120.36482238769531,
+          552.62109375
+        ],
+        [
+          120.36482238769531,
+          564.6617431640625
+        ],
+        [
+          71.419921875,
+          564.6617431640625
+        ]
+      ]
+    },
+    {
+      "title": "Actuarial Liabilities",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          244.13999938964844,
+          37.51171875
+        ],
+        [
+          371.21539306640625,
+          37.51171875
+        ],
+        [
+          371.21539306640625,
+          51.8077392578125
+        ],
+        [
+          244.13999938964844,
+          51.8077392578125
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Accounts:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.419921875,
+          83.521484375
+        ],
+        [
+          165.66000366210938,
+          83.521484375
+        ],
+        [
+          165.66000366210938,
+          95.521484375
+        ],
+        [
+          71.419921875,
+          95.521484375
+        ]
+      ]
+    },
+    {
+      "title": "The following USSGL accounts are used in this scenario:",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          304.2616271972656
+        ],
+        [
+          365.6112060546875,
+          304.2616271972656
+        ],
+        [
+          365.6112060546875,
+          316.3359375
+        ],
+        [
+          71.12109375,
+          316.3359375
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          71.12109375,
+          414.54144287109375
+        ],
+        [
+          129.05999755859375,
+          414.54144287109375
+        ],
+        [
+          129.05999755859375,
+          426.5414733886719
+        ],
+        [
+          71.12109375,
+          426.5414733886719
+        ]
+      ]
+    },
+    {
+      "title": "Actuarial Liabilities",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          244.13999938964844,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          51.8077392578125
+        ],
+        [
+          244.13999938964844,
+          51.8077392578125
+        ]
+      ]
+    },
+    {
+      "title": "Actuarial Liabilities",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          244.13999938964844,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          51.8077392578125
+        ],
+        [
+          244.13999938964844,
+          51.8077392578125
+        ]
+      ]
+    },
+    {
+      "title": "Existing USSGL transactions for actuarial liabilities will include changes for the proposed \nUSSGL accounts.",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          69.328125,
+          106.50152587890625
+        ],
+        [
+          535.427978515625,
+          106.50152587890625
+        ],
+        [
+          535.427978515625,
+          132.301513671875
+        ],
+        [
+          69.328125,
+          132.301513671875
+        ]
+      ]
+    },
+    {
+      "title": "Actuarial Liabilities",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          244.13999938964844,
+          37.125
+        ],
+        [
+          371.21539306640625,
+          37.125
+        ],
+        [
+          371.21539306640625,
+          51.8077392578125
+        ],
+        [
+          244.13999938964844,
+          51.8077392578125
+        ]
+      ]
+    },
+    {
+      "title": "Pre-closing Adjusted Trial Balance",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.71875,
+          83.14453125
+        ],
+        [
+          254.70953369140625,
+          83.14453125
+        ],
+        [
+          254.70953369140625,
+          95.521484375
+        ],
+        [
+          71.71875,
+          95.521484375
+        ]
+      ]
+    },
+    {
+      "title": "Closing Entries",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.71875,
+          311.2814636230469
+        ],
+        [
+          154.07521057128906,
+          311.2814636230469
+        ],
+        [
+          154.07521057128906,
+          324.0703125
+        ],
+        [
+          71.71875,
+          324.0703125
+        ]
+      ]
+    },
+    {
+      "title": "Actuarial Liabilities",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          244.13999938964844,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          37.8277587890625
+        ],
+        [
+          371.21539306640625,
+          51.8077392578125
+        ],
+        [
+          244.13999938964844,
+          51.8077392578125
+        ]
+      ]
+    },
+    {
+      "title": "Post-closing Trial Balance",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          71.419921875,
+          69.609375
+        ],
+        [
+          209.02560424804688,
+          69.609375
+        ],
+        [
+          209.02560424804688,
+          81.72149658203125
+        ],
+        [
+          71.419921875,
+          81.72149658203125
+        ]
+      ]
+    },
+    {
+      "title": "BALANCE SHEET",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          253.40625,
+          297.4814758300781
+        ],
+        [
+          359.8247985839844,
+          297.4814758300781
+        ],
+        [
+          359.8247985839844,
+          309.4814758300781
+        ],
+        [
+          253.40625,
+          309.4814758300781
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "TableCell",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          156
+        ],
+        [
+          "TableCell",
+          113
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          105
+        ],
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          43
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          96
+        ],
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/actuarial-liabilities"
+}

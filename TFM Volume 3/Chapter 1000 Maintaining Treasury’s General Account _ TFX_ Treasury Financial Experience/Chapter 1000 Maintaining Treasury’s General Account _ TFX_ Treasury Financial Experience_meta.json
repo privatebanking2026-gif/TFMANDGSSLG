@@ -1,0 +1,1374 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 1000 Maintaining Treasury's\nGeneral Account",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.75,
+          49.5
+        ],
+        [
+          492.4598693847656,
+          49.5
+        ],
+        [
+          492.4598693847656,
+          122.39898681640625
+        ],
+        [
+          33.75,
+          122.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Maintaining Treasury's General Account",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          32.2734375,
+          158.5546875
+        ],
+        [
+          433.6387634277344,
+          158.5546875
+        ],
+        [
+          433.6387634277344,
+          180.05859375
+        ],
+        [
+          32.2734375,
+          180.05859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          199.16015625
+        ],
+        [
+          152.40744018554688,
+          199.16015625
+        ],
+        [
+          152.40744018554688,
+          213.1983642578125
+        ],
+        [
+          69.92578125,
+          213.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1010\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          283.6983642578125
+        ],
+        [
+          320.5408020019531,
+          283.6983642578125
+        ],
+        [
+          320.5408020019531,
+          297.1983642578125
+        ],
+        [
+          70.5234375,
+          297.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1015\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          386.71875
+        ],
+        [
+          228.36289978027344,
+          386.71875
+        ],
+        [
+          228.36289978027344,
+          400.6983642578125
+        ],
+        [
+          71.12109375,
+          400.6983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1020\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          509.4483642578125
+        ],
+        [
+          309.65985107421875,
+          509.4483642578125
+        ],
+        [
+          309.65985107421875,
+          522.9483642578125
+        ],
+        [
+          71.12109375,
+          522.9483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1025\u2014Prescribed Forms",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          574.6983642578125
+        ],
+        [
+          281.75537109375,
+          574.6983642578125
+        ],
+        [
+          281.75537109375,
+          588.1983642578125
+        ],
+        [
+          70.5234375,
+          588.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "1025.10\u2014TFS Form 17 \"Transcript of the General Account of the United States Treasury\"\n(Daily Transcript)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.8125,
+          671.1763229370117
+        ],
+        [
+          554.6975708007812,
+          671.1763229370117
+        ],
+        [
+          554.6975708007812,
+          702.6763229370117
+        ],
+        [
+          47.8125,
+          702.6763229370117
+        ]
+      ]
+    },
+    {
+      "title": "1025.20\u2014TFS Form 17C \"Transcript of the General Account of the United States Treasury,\nAbstract of Receipts (Continued)\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          57.67633056640625
+        ],
+        [
+          559.7415161132812,
+          57.67633056640625
+        ],
+        [
+          559.7415161132812,
+          88.9453125
+        ],
+        [
+          47.8125,
+          88.9453125
+        ]
+      ]
+    },
+    {
+      "title": "1025.30\u2014TFS Form 17M \"Transcript of the General Account of the United States Treasury,\nAbstract of Charges (Continued)\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          146.17633056640625
+        ],
+        [
+          561.7335205078125,
+          146.17633056640625
+        ],
+        [
+          561.7335205078125,
+          177.67633056640625
+        ],
+        [
+          47.8125,
+          177.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1025.40\u2014SF 215 \"Deposit Ticket\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          233.96484375
+        ],
+        [
+          241.53384399414062,
+          233.96484375
+        ],
+        [
+          241.53384399414062,
+          246.67633056640625
+        ],
+        [
+          47.8125,
+          246.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1025.50\u2014SF 5515 \"Debit Voucher\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.41015625,
+          322.91015625
+        ],
+        [
+          246.0218505859375,
+          322.91015625
+        ],
+        [
+          246.0218505859375,
+          335.92633056640625
+        ],
+        [
+          48.41015625,
+          335.92633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1025.60\u2014TFS Form 5208 \"Transfer Voucher\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          412.42633056640625
+        ],
+        [
+          303.14178466796875,
+          412.42633056640625
+        ],
+        [
+          303.14178466796875,
+          424.42633056640625
+        ],
+        [
+          47.8125,
+          424.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1025.70\u2014TFS Form 5209 \"Transfer Voucher\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          48.41015625,
+          481.46484375
+        ],
+        [
+          303.14178466796875,
+          481.46484375
+        ],
+        [
+          303.14178466796875,
+          494.17633056640625
+        ],
+        [
+          48.41015625,
+          494.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1025.80\u2014TFS Form 12 \"Transfer of Funds\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.21484375,
+          570.6763305664062
+        ],
+        [
+          292.67779541015625,
+          570.6763305664062
+        ],
+        [
+          292.67779541015625,
+          582.6763153076172
+        ],
+        [
+          47.21484375,
+          582.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "1025.90\u2014TFS Form 5907 \"Analysis of Activity in the Treasury's General Account\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          640.4263305664062
+        ],
+        [
+          509.10955810546875,
+          640.4263305664062
+        ],
+        [
+          509.10955810546875,
+          652.4263153076172
+        ],
+        [
+          47.8125,
+          652.4263153076172
+        ]
+      ]
+    },
+    {
+      "title": "1025.100\u2014TFS Form 6521 \"Request for Check Information\"",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          47.8125,
+          710.1763229370117
+        ],
+        [
+          387.28125,
+          710.1763229370117
+        ],
+        [
+          387.28125,
+          722.390625
+        ],
+        [
+          47.8125,
+          722.390625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1030\u2014Reporting Requirements",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          82.6983642578125
+        ],
+        [
+          324.73931884765625,
+          82.6983642578125
+        ],
+        [
+          324.73931884765625,
+          96.1983642578125
+        ],
+        [
+          71.12109375,
+          96.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "1030.10\u2014Deposits",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.75,
+          116.17633056640625
+        ],
+        [
+          156.9179229736328,
+          116.17633056640625
+        ],
+        [
+          156.9179229736328,
+          128.17633056640625
+        ],
+        [
+          48.75,
+          128.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1030.20\u2014Correction of Errors on the SF 215",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.21484375,
+          300.67633056640625
+        ],
+        [
+          301.5097961425781,
+          300.67633056640625
+        ],
+        [
+          301.5097961425781,
+          312.67633056640625
+        ],
+        [
+          47.21484375,
+          312.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1030.20a\u2014Positive Adjustments",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          408.67633056640625
+        ],
+        [
+          234.02984619140625,
+          408.67633056640625
+        ],
+        [
+          234.02984619140625,
+          420.67633056640625
+        ],
+        [
+          47.8125,
+          420.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1030.20b\u2014Negative Adjustments",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          48.41015625,
+          554.9263305664062
+        ],
+        [
+          239.5978240966797,
+          554.9263305664062
+        ],
+        [
+          239.5978240966797,
+          566.9263153076172
+        ],
+        [
+          48.41015625,
+          566.9263153076172
+        ]
+      ]
+    },
+    {
+      "title": "1030.20c\u2014Unpaid or Lost Checks",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.41015625,
+          242.0859375
+        ],
+        [
+          244.04983520507812,
+          242.0859375
+        ],
+        [
+          244.04983520507812,
+          254.17657470703125
+        ],
+        [
+          48.41015625,
+          254.17657470703125
+        ]
+      ]
+    },
+    {
+      "title": "1030.30\u2014Processing Treasury Checks",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          350.17657470703125
+        ],
+        [
+          268.96185302734375,
+          350.17657470703125
+        ],
+        [
+          268.96185302734375,
+          362.17657470703125
+        ],
+        [
+          47.8125,
+          362.17657470703125
+        ]
+      ]
+    },
+    {
+      "title": "1030.30a\u2014Batching",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.111328125,
+          515.9265747070312
+        ],
+        [
+          164.55792236328125,
+          515.9265747070312
+        ],
+        [
+          164.55792236328125,
+          527.9265747070312
+        ],
+        [
+          48.111328125,
+          527.9265747070312
+        ]
+      ]
+    },
+    {
+      "title": "1030.30b\u2014TFS Form 5208",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.41015625,
+          120.65625
+        ],
+        [
+          199.25790405273438,
+          120.65625
+        ],
+        [
+          199.25790405273438,
+          132.67633056640625
+        ],
+        [
+          48.41015625,
+          132.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1030.30c\u2014TFS Form 5209",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          344.17633056640625
+        ],
+        [
+          198.81390380859375,
+          344.17633056640625
+        ],
+        [
+          198.81390380859375,
+          356.17633056640625
+        ],
+        [
+          47.8125,
+          356.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1030.40a\u2014Transfer of Deposits",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.21484375,
+          114.67633056640625
+        ],
+        [
+          228.70184326171875,
+          114.67633056640625
+        ],
+        [
+          228.70184326171875,
+          126.67633056640625
+        ],
+        [
+          47.21484375,
+          126.67633056640625
+        ]
+      ]
+    },
+    {
+      "title": "1030.40b\u2014Failure to Comply",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.41015625,
+          456.67633056640625
+        ],
+        [
+          214.15786743164062,
+          456.67633056640625
+        ],
+        [
+          214.15786743164062,
+          468.703125
+        ],
+        [
+          48.41015625,
+          468.703125
+        ]
+      ]
+    },
+    {
+      "title": "1030.40c\u2014Restoration of Charges",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          48.41015625,
+          603.6763305664062
+        ],
+        [
+          245.92181396484375,
+          603.6763305664062
+        ],
+        [
+          245.92181396484375,
+          615.6763153076172
+        ],
+        [
+          48.41015625,
+          615.6763153076172
+        ]
+      ]
+    },
+    {
+      "title": "1030.40d\u2014Improper Wire of Funds",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          440.859375
+        ],
+        [
+          248.23782348632812,
+          440.859375
+        ],
+        [
+          248.23782348632812,
+          452.92584228515625
+        ],
+        [
+          47.8125,
+          452.92584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1035\u2014Preparation and Submission of TFS Form 17",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          70.5234375,
+          534.4453125
+        ],
+        [
+          450.6328125,
+          534.4453125
+        ],
+        [
+          450.6328125,
+          549.1978759765625
+        ],
+        [
+          70.5234375,
+          549.1978759765625
+        ]
+      ]
+    },
+    {
+      "title": "Section 1045\u2014Reconcilement Letter",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          70.5234375,
+          459.9483642578125
+        ],
+        [
+          305.9878234863281,
+          459.9483642578125
+        ],
+        [
+          305.9878234863281,
+          473.4483642578125
+        ],
+        [
+          70.5234375,
+          473.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1050\u2014Lost or Stolen Paid Treasury Checks",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          69.328125,
+          127.6978759765625
+        ],
+        [
+          403.228271484375,
+          127.6978759765625
+        ],
+        [
+          403.228271484375,
+          141.1978759765625
+        ],
+        [
+          69.328125,
+          141.1978759765625
+        ]
+      ]
+    },
+    {
+      "title": "1050.10\u2014Requesting Check Status Information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.41015625,
+          224.17584228515625
+        ],
+        [
+          321.1337585449219,
+          224.17584228515625
+        ],
+        [
+          321.1337585449219,
+          236.28515625
+        ],
+        [
+          48.41015625,
+          236.28515625
+        ]
+      ]
+    },
+    {
+      "title": "1050.20\u2014Stop Payment",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          48.111328125,
+          459.67584228515625
+        ],
+        [
+          185.75790405273438,
+          459.67584228515625
+        ],
+        [
+          185.75790405273438,
+          472.18359375
+        ],
+        [
+          48.111328125,
+          472.18359375
+        ]
+      ]
+    },
+    {
+      "title": "Section 1060\u2014Corrections of Errors",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.12109375,
+          120.9483642578125
+        ],
+        [
+          305.4478759765625,
+          120.9483642578125
+        ],
+        [
+          305.4478759765625,
+          134.4483642578125
+        ],
+        [
+          71.12109375,
+          134.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1065\u2014Retention",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.12109375,
+          364.67578125
+        ],
+        [
+          232.4353790283203,
+          364.67578125
+        ],
+        [
+          232.4353790283203,
+          378.1983642578125
+        ],
+        [
+          71.12109375,
+          378.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1070\u2014Procurement of Forms",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          71.25,
+          448.6983642578125
+        ],
+        [
+          312.0223388671875,
+          448.6983642578125
+        ],
+        [
+          312.0223388671875,
+          462.1983642578125
+        ],
+        [
+          71.25,
+          462.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "The depositary may obtain Treasury forms by writing to:",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          46.6171875,
+          482.17633056640625
+        ],
+        [
+          368.2696533203125,
+          482.17633056640625
+        ],
+        [
+          368.2696533203125,
+          494.2265625
+        ],
+        [
+          46.6171875,
+          494.2265625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          33.46875,
+          33.05810546875
+        ],
+        [
+          239.29087829589844,
+          33.05810546875
+        ],
+        [
+          239.29087829589844,
+          54.05810546875
+        ],
+        [
+          33.46875,
+          54.05810546875
+        ]
+      ]
+    },
+    {
+      "title": "Direct inquiries concerning this chapter to:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          47.21484375,
+          107.17584228515625
+        ],
+        [
+          294.98577880859375,
+          107.17584228515625
+        ],
+        [
+          294.98577880859375,
+          119.49609375
+        ],
+        [
+          47.21484375,
+          119.49609375
+        ]
+      ]
+    },
+    {
+      "title": "Appendices",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          32.87109375,
+          363.90234375
+        ],
+        [
+          155.69692993164062,
+          363.90234375
+        ],
+        [
+          155.69692993164062,
+          385.5580749511719
+        ],
+        [
+          32.87109375,
+          385.5580749511719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          340
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Reference",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          503
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          9
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          791
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          789
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          709
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          767
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          573
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          407
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          471
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          431
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 1000 Maintaining Treasury\u2019s General Account _ TFX_ Treasury Financial Experience"
+}

@@ -1,0 +1,966 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 4000 Agency Use Of Credit\nReports And Reporting Of Federal Nontax\nDebts To Credit Bureaus",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          49.88671875
+        ],
+        [
+          557.1298217773438,
+          49.88671875
+        ],
+        [
+          557.1298217773438,
+          164.39898681640625
+        ],
+        [
+          33.46875,
+          164.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Agency Use Of Credit Reports And Reporting Of\nFederal Nontax Debts To Credit Bureaus",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          201.05859375
+        ],
+        [
+          516.7496948242188,
+          201.05859375
+        ],
+        [
+          516.7496948242188,
+          251.30859375
+        ],
+        [
+          33.46875,
+          251.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          284.4483642578125
+        ],
+        [
+          71.12109375,
+          284.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4010\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.92578125,
+          374.4483642578125
+        ],
+        [
+          320.5408020019531,
+          374.4483642578125
+        ],
+        [
+          320.5408020019531,
+          388.265625
+        ],
+        [
+          69.92578125,
+          388.265625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4015\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          666.9483642578125
+        ],
+        [
+          226.02740478515625,
+          666.9483642578125
+        ],
+        [
+          226.02740478515625,
+          681.01171875
+        ],
+        [
+          71.12109375,
+          681.01171875
+        ]
+      ]
+    },
+    {
+      "title": "Section 4020\u2014Terms and Definitions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          69.92578125,
+          396.9483642578125
+        ],
+        [
+          307.24334716796875,
+          396.9483642578125
+        ],
+        [
+          307.24334716796875,
+          410.4483642578125
+        ],
+        [
+          69.92578125,
+          410.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4025\u2014Background",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.5234375,
+          36.73828125
+        ],
+        [
+          248.54086303710938,
+          36.73828125
+        ],
+        [
+          248.54086303710938,
+          50.4483642578125
+        ],
+        [
+          70.5234375,
+          50.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 4030\u2014Generally",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.25,
+          280.6983642578125
+        ],
+        [
+          228.3046875,
+          280.6983642578125
+        ],
+        [
+          228.3046875,
+          294.1983642578125
+        ],
+        [
+          71.25,
+          294.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "4030.10\u2014 Consumer vs. Commercial Debts and Individuals vs. Entities",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          313.42633056640625
+        ],
+        [
+          452.8736267089844,
+          313.42633056640625
+        ],
+        [
+          452.8736267089844,
+          325.42633056640625
+        ],
+        [
+          47.8125,
+          325.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4030.20\u2014Written Agreement",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          47.8125,
+          683.1763229370117
+        ],
+        [
+          213.06988525390625,
+          683.1763229370117
+        ],
+        [
+          213.06988525390625,
+          695.1763229370117
+        ],
+        [
+          47.8125,
+          695.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "4030.30\u2014Dollar Threshold for Debt Reporting",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          48.41015625,
+          32.17657470703125
+        ],
+        [
+          310.9697570800781,
+          32.17657470703125
+        ],
+        [
+          310.9697570800781,
+          44.17657470703125
+        ],
+        [
+          48.41015625,
+          44.17657470703125
+        ]
+      ]
+    },
+    {
+      "title": "4030.40\u2014Credit Bureau Reporting by Multiple Agencies for the Same Debt",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          82.42657470703125
+        ],
+        [
+          474.153564453125,
+          82.42657470703125
+        ],
+        [
+          474.153564453125,
+          94.42657470703125
+        ],
+        [
+          47.8125,
+          94.42657470703125
+        ]
+      ]
+    },
+    {
+      "title": "4035.10\u2014Reporting Current Debts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          264.67657470703125
+        ],
+        [
+          246.725830078125,
+          264.67657470703125
+        ],
+        [
+          246.725830078125,
+          276.67657470703125
+        ],
+        [
+          47.8125,
+          276.67657470703125
+        ]
+      ]
+    },
+    {
+      "title": "4035.20\u2014Reporting Delinquent Debts",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          47.8125,
+          334.42657470703125
+        ],
+        [
+          265.1337890625,
+          334.42657470703125
+        ],
+        [
+          265.1337890625,
+          346.42657470703125
+        ],
+        [
+          47.8125,
+          346.42657470703125
+        ]
+      ]
+    },
+    {
+      "title": "4035.30\u2014Frequency of Debt Reporting and Updates",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          278.17633056640625
+        ],
+        [
+          347.6217346191406,
+          278.17633056640625
+        ],
+        [
+          347.6217346191406,
+          290.42578125
+        ],
+        [
+          47.8125,
+          290.42578125
+        ]
+      ]
+    },
+    {
+      "title": "4035.40\u2014Method and Format for Reporting Debts to Consumer Reporting Agencies",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.8125,
+          385.55859375
+        ],
+        [
+          529.3375244140625,
+          385.55859375
+        ],
+        [
+          529.3375244140625,
+          398.17633056640625
+        ],
+        [
+          47.8125,
+          398.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4035.50\u2014Handling Disputes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          47.21484375,
+          314.17633056640625
+        ],
+        [
+          210.90585327148438,
+          314.17633056640625
+        ],
+        [
+          210.90585327148438,
+          326.17633056640625
+        ],
+        [
+          47.21484375,
+          326.17633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4035.70\u2014Termination of Collection Action; Limitations Period",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          426.67584228515625
+        ],
+        [
+          400.86163330078125,
+          426.67584228515625
+        ],
+        [
+          400.86163330078125,
+          438.67584228515625
+        ],
+        [
+          47.8125,
+          438.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "4040.10\u2014Requirements for Reporting Current and Delinquent Commercial Debts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          46.6171875,
+          614.9258422851562
+        ],
+        [
+          511.7575378417969,
+          614.9258422851562
+        ],
+        [
+          511.7575378417969,
+          626.9258270263672
+        ],
+        [
+          46.6171875,
+          626.9258270263672
+        ]
+      ]
+    },
+    {
+      "title": "4040.20\u2014Frequency of Commercial Debt Reporting and Updates",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          47.8125,
+          703.44140625
+        ],
+        [
+          420.2336730957031,
+          703.44140625
+        ],
+        [
+          420.2336730957031,
+          716.1758346557617
+        ],
+        [
+          47.8125,
+          716.1758346557617
+        ]
+      ]
+    },
+    {
+      "title": "4040.30\u2014Method and Format for Reporting Commercial Debts",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          47.8125,
+          76.18359375
+        ],
+        [
+          408.1976623535156,
+          76.18359375
+        ],
+        [
+          408.1976623535156,
+          88.42633056640625
+        ],
+        [
+          47.8125,
+          88.42633056640625
+        ]
+      ]
+    },
+    {
+      "title": "4040.40\u2014Handling Disputed Information in Commercial Debtor Files",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          46.6171875,
+          692.1763229370117
+        ],
+        [
+          440.1175842285156,
+          692.1763229370117
+        ],
+        [
+          440.1175842285156,
+          704.1763229370117
+        ],
+        [
+          46.6171875,
+          704.1763229370117
+        ]
+      ]
+    },
+    {
+      "title": "4040.50\u2014Termination of Collection Action",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          46.6171875,
+          57.67584228515625
+        ],
+        [
+          289.9577331542969,
+          57.67584228515625
+        ],
+        [
+          289.9577331542969,
+          69.67584228515625
+        ],
+        [
+          46.6171875,
+          69.67584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Section 4045\u2014Obtaining Credit Reports",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.5234375,
+          132.9478759765625
+        ],
+        [
+          330.16632080078125,
+          132.9478759765625
+        ],
+        [
+          330.16632080078125,
+          146.4478759765625
+        ],
+        [
+          70.5234375,
+          146.4478759765625
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          33.75,
+          682.5580749511719
+        ],
+        [
+          239.29087829589844,
+          682.5580749511719
+        ],
+        [
+          239.29087829589844,
+          703.5580749511719
+        ],
+        [
+          33.75,
+          703.5580749511719
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          425
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          601
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          631
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          681
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          677
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          745
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          639
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          702
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          535
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          51
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 4000 Agency Use Of Credit Reports And Reporting Of Federal Nontax Debts To Credit Bureaus _ TFX_ Treasury Financial Experience"
+}

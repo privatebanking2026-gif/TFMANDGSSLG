@@ -1,0 +1,244 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Chapter 1000 Purpose And Plan Of\nVolume IV Of The Treasury Financial Manual\n(TFM)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          49.11328125
+        ],
+        [
+          576.1498413085938,
+          49.11328125
+        ],
+        [
+          576.1498413085938,
+          164.39898681640625
+        ],
+        [
+          33.46875,
+          164.39898681640625
+        ]
+      ]
+    },
+    {
+      "title": "Purpose And Plan Of Volume IV Of The Treasury\nFinancial Manual (TFM)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          33.46875,
+          201.05859375
+        ],
+        [
+          514.187744140625,
+          201.05859375
+        ],
+        [
+          514.187744140625,
+          251.30859375
+        ],
+        [
+          33.46875,
+          251.30859375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.25,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          270.9483642578125
+        ],
+        [
+          152.40744018554688,
+          284.4483642578125
+        ],
+        [
+          71.25,
+          284.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1010\u2014Scope and Applicability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          69.328125,
+          412.6983642578125
+        ],
+        [
+          320.5408020019531,
+          412.6983642578125
+        ],
+        [
+          320.5408020019531,
+          427.7109375
+        ],
+        [
+          69.328125,
+          427.7109375
+        ]
+      ]
+    },
+    {
+      "title": "Section 1015\u2014Authority",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          540.24609375
+        ],
+        [
+          228.36289978027344,
+          540.24609375
+        ],
+        [
+          228.36289978027344,
+          555.1983642578125
+        ],
+        [
+          70.5234375,
+          555.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Section 1020\u2014Composition of Volume IV",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.5234375,
+          623.77734375
+        ],
+        [
+          333.4921875,
+          623.77734375
+        ],
+        [
+          333.4921875,
+          639.1983642578125
+        ],
+        [
+          70.5234375,
+          639.1983642578125
+        ]
+      ]
+    },
+    {
+      "title": "Contact Information",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          33.46875,
+          347.66015625
+        ],
+        [
+          239.29087829589844,
+          347.66015625
+        ],
+        [
+          239.29087829589844,
+          369.0585632324219
+        ],
+        [
+          33.46875,
+          369.0585632324219
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          342
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Reference",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter 1000 Purpose And Plan Of Volume IV Of The Treasury Financial Manual (TFM) _ TFX_ Treasury Financial Experience"
+}
