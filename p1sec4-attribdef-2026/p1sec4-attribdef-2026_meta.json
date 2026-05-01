@@ -1,0 +1,612 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPPLEMENT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          22.81640625,
+          48.111328125
+        ],
+        [
+          212.30859375,
+          48.111328125
+        ],
+        [
+          212.30859375,
+          66.638671875
+        ],
+        [
+          22.81640625,
+          66.638671875
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Standard General Ledger \u2013 Account Attribute Definition Report",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          230.25,
+          66.75
+        ],
+        [
+          558.75,
+          66.75
+        ],
+        [
+          558.75,
+          80.384765625
+        ],
+        [
+          230.25,
+          80.384765625
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          32.09765625,
+          54.0
+        ],
+        [
+          107.25,
+          54.0
+        ],
+        [
+          107.25,
+          65.25
+        ],
+        [
+          32.09765625,
+          65.25
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Standard General Ledger \u2013 Account Attribute Definition Report",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          229.7109375,
+          67.5
+        ],
+        [
+          559.5,
+          67.5
+        ],
+        [
+          559.5,
+          80.384765625
+        ],
+        [
+          229.7109375,
+          80.384765625
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENT",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          29.77734375,
+          53.7890625
+        ],
+        [
+          110.98828125,
+          53.7890625
+        ],
+        [
+          110.98828125,
+          65.25
+        ],
+        [
+          29.77734375,
+          65.25
+        ]
+      ]
+    },
+    {
+      "title": "Section IV",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          699.9609375,
+          53.25
+        ],
+        [
+          755.25,
+          53.25
+        ],
+        [
+          755.25,
+          65.25
+        ],
+        [
+          699.9609375,
+          65.25
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Standard General Ledger \u2013 Account Attribute Definition Report",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          230.25,
+          66.75
+        ],
+        [
+          558.75,
+          66.75
+        ],
+        [
+          558.75,
+          80.25
+        ],
+        [
+          230.25,
+          80.25
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Standard General Ledger \u2013 Account Attribute Definition Report",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          230.25,
+          66.75
+        ],
+        [
+          559.5,
+          66.75
+        ],
+        [
+          559.5,
+          80.25
+        ],
+        [
+          230.25,
+          80.25
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENT",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          30.55078125,
+          52.892578125
+        ],
+        [
+          113.30859375,
+          52.892578125
+        ],
+        [
+          113.30859375,
+          65.443359375
+        ],
+        [
+          30.55078125,
+          65.443359375
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Standard General Ledger \u2013 Account Attribute Definition Report",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          230.25,
+          66.75
+        ],
+        [
+          558.75,
+          66.75
+        ],
+        [
+          558.75,
+          81.0
+        ],
+        [
+          230.25,
+          81.0
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENT\n\nU.S. Standard General Ledger \u2013 Account Attribute Definition Report\n\nU.S. Standard General Ledger \u2013 Account Attribute Definition Report",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          33.0,
+          48.41015625
+        ],
+        [
+          755.25,
+          48.41015625
+        ],
+        [
+          755.25,
+          76.5
+        ],
+        [
+          33.0,
+          76.5
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          32.09765625,
+          53.7890625
+        ],
+        [
+          106.5,
+          53.7890625
+        ],
+        [
+          106.5,
+          65.7421875
+        ],
+        [
+          32.09765625,
+          65.7421875
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Standard General Ledger \u2013 Account Attribute Definition Report",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          230.25,
+          66.75
+        ],
+        [
+          558.75,
+          66.75
+        ],
+        [
+          558.75,
+          80.384765625
+        ],
+        [
+          230.25,
+          80.384765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          35
+        ],
+        [
+          "TableCell",
+          35
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          49
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/p1sec4-attribdef-2026"
+}
