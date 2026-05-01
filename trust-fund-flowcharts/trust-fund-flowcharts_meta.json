@@ -1,0 +1,312 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Agency-Managed Trust Funds\nBasic Framework",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          127.5,
+          73.86328125
+        ],
+        [
+          455.25,
+          73.86328125
+        ],
+        [
+          455.25,
+          114.85546875
+        ],
+        [
+          127.5,
+          114.85546875
+        ]
+      ]
+    },
+    {
+      "title": "Treasury-Managed Trust Fund\nAllocation Accounts",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          155.390625,
+          39.4453125
+        ],
+        [
+          482.25,
+          39.4453125
+        ],
+        [
+          482.25,
+          84.75
+        ],
+        [
+          155.390625,
+          84.3046875
+        ]
+      ]
+    },
+    {
+      "title": "Basic Framework",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          248.25,
+          92.25
+        ],
+        [
+          390.0,
+          92.25
+        ],
+        [
+          390.0,
+          106.34765625
+        ],
+        [
+          248.25,
+          106.34765625
+        ]
+      ]
+    },
+    {
+      "title": "Appropriations to\nLiquidate Contract Authority\u2014\nFunded by Nonexpenditure Transfers",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          98.25,
+          42.92578125
+        ],
+        [
+          510.75,
+          42.92578125
+        ],
+        [
+          510.75,
+          122.58984375
+        ],
+        [
+          98.25,
+          122.58984375
+        ]
+      ]
+    },
+    {
+      "title": "Transfers of Contract Authority",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          135.0,
+          54.75
+        ],
+        [
+          480.0,
+          54.75
+        ],
+        [
+          480.0,
+          80.4375
+        ],
+        [
+          135.0,
+          80.4375
+        ]
+      ]
+    },
+    {
+      "title": "Basic Flow",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          264.0,
+          85.5
+        ],
+        [
+          351.75,
+          85.5
+        ],
+        [
+          351.75,
+          102.0
+        ],
+        [
+          264.0,
+          102.0
+        ]
+      ]
+    },
+    {
+      "title": "Nonexpenditure\nAppropriation Transfers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          237.75,
+          451.5
+        ],
+        [
+          371.25,
+          451.5
+        ],
+        [
+          371.25,
+          480.69140625
+        ],
+        [
+          237.75,
+          480.69140625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          39
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          36
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/trust-fund-flowcharts"
+}

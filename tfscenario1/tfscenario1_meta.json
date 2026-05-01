@@ -1,0 +1,1553 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          208.3150634765625,
+          37.51171875
+        ],
+        [
+          403.5118103027344,
+          37.51171875
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          208.3150634765625,
+          37.8984375
+        ],
+        [
+          403.5118103027344,
+          37.8984375
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          208.3150634765625,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.05078125,
+          195.29296875
+        ],
+        [
+          141.64453125,
+          195.29296875
+        ],
+        [
+          141.64453125,
+          208.43121337890625
+        ],
+        [
+          89.05078125,
+          208.43121337890625
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.05078125,
+          334.4313049316406
+        ],
+        [
+          141.40802001953125,
+          334.4313049316406
+        ],
+        [
+          141.40802001953125,
+          346.4313049316406
+        ],
+        [
+          89.05078125,
+          346.4313049316406
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.947265625,
+          389.63128662109375
+        ],
+        [
+          146.724609375,
+          389.63128662109375
+        ],
+        [
+          146.724609375,
+          402.1875
+        ],
+        [
+          89.947265625,
+          402.1875
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          87.556640625,
+          458.63128662109375
+        ],
+        [
+          141.40802001953125,
+          458.63128662109375
+        ],
+        [
+          141.40802001953125,
+          470.63128662109375
+        ],
+        [
+          87.556640625,
+          470.63128662109375
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.947265625,
+          513.8312683105469
+        ],
+        [
+          146.68801879882812,
+          513.8312683105469
+        ],
+        [
+          146.68801879882812,
+          525.8312683105469
+        ],
+        [
+          89.947265625,
+          525.8312683105469
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          208.3150634765625,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          88.453125,
+          113.6312255859375
+        ],
+        [
+          141.4080047607422,
+          113.6312255859375
+        ],
+        [
+          141.4080047607422,
+          125.6312255859375
+        ],
+        [
+          88.453125,
+          125.6312255859375
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          88.154296875,
+          167.8359375
+        ],
+        [
+          146.68800354003906,
+          167.8359375
+        ],
+        [
+          146.68800354003906,
+          180.83123779296875
+        ],
+        [
+          88.154296875,
+          180.83123779296875
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.349609375,
+          237.83123779296875
+        ],
+        [
+          141.4080047607422,
+          237.83123779296875
+        ],
+        [
+          141.4080047607422,
+          249.83123779296875
+        ],
+        [
+          89.349609375,
+          249.83123779296875
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.947265625,
+          291.97265625
+        ],
+        [
+          146.68800354003906,
+          291.97265625
+        ],
+        [
+          146.68800354003906,
+          305.0312805175781
+        ],
+        [
+          89.947265625,
+          305.0312805175781
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.349609375,
+          417.2312927246094
+        ],
+        [
+          141.40809631347656,
+          417.2312927246094
+        ],
+        [
+          141.40809631347656,
+          429.2312927246094
+        ],
+        [
+          89.349609375,
+          429.2312927246094
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.947265625,
+          486.2312927246094
+        ],
+        [
+          146.68809509277344,
+          486.2312927246094
+        ],
+        [
+          146.68809509277344,
+          498.2312927246094
+        ],
+        [
+          89.947265625,
+          498.2312927246094
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          208.3150634765625,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.05078125,
+          293.03125
+        ],
+        [
+          141.4080047607422,
+          293.03125
+        ],
+        [
+          141.4080047607422,
+          305.03125
+        ],
+        [
+          89.05078125,
+          305.03125
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.751953125,
+          458.6311950683594
+        ],
+        [
+          141.4080047607422,
+          458.6311950683594
+        ],
+        [
+          141.4080047607422,
+          470.6311950683594
+        ],
+        [
+          88.751953125,
+          470.6311950683594
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          90.0,
+          513.8312072753906
+        ],
+        [
+          146.68800354003906,
+          513.8312072753906
+        ],
+        [
+          146.68800354003906,
+          525.8312072753906
+        ],
+        [
+          90.0,
+          525.8312072753906
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          208.3150634765625,
+          37.51171875
+        ],
+        [
+          403.5118103027344,
+          37.51171875
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          88.751953125,
+          167.8359375
+        ],
+        [
+          141.4080047607422,
+          167.8359375
+        ],
+        [
+          141.4080047607422,
+          180.831298828125
+        ],
+        [
+          88.751953125,
+          180.831298828125
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.05078125,
+          360.80859375
+        ],
+        [
+          141.4080047607422,
+          360.80859375
+        ],
+        [
+          141.4080047607422,
+          374.0312805175781
+        ],
+        [
+          89.05078125,
+          374.0312805175781
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          88.751953125,
+          527.6312866210938
+        ],
+        [
+          141.40797424316406,
+          527.6312866210938
+        ],
+        [
+          141.40797424316406,
+          539.859375
+        ],
+        [
+          88.751953125,
+          539.859375
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          208.3150634765625,
+          37.51171875
+        ],
+        [
+          403.5118103027344,
+          37.51171875
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          208.3150634765625,
+          36.73828125
+        ],
+        [
+          403.5118103027344,
+          36.73828125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          208.3150634765625,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary Pre-Closing Adjusted Trial Balance (FACTS II ATB):",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.59375,
+          86.23828125
+        ],
+        [
+          444.1366271972656,
+          86.23828125
+        ],
+        [
+          444.1366271972656,
+          100.43353271484375
+        ],
+        [
+          52.59375,
+          100.43353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary Closing Entries:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.7890625,
+          307.31353759765625
+        ],
+        [
+          217.40731811523438,
+          307.31353759765625
+        ],
+        [
+          217.40731811523438,
+          321.3535461425781
+        ],
+        [
+          53.7890625,
+          321.3535461425781
+        ]
+      ]
+    },
+    {
+      "title": "C1. To record the consolidation of actual net-funded resources. (TC F204)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.59375,
+          335.671875
+        ],
+        [
+          450.8760070800781,
+          335.671875
+        ],
+        [
+          450.8760070800781,
+          348.8436279296875
+        ],
+        [
+          52.59375,
+          348.8436279296875
+        ]
+      ]
+    },
+    {
+      "title": "C2. To record the closing of unobligated balances to unapportioned authority. (TC F210)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          51.3984375,
+          443.953125
+        ],
+        [
+          527.075927734375,
+          443.953125
+        ],
+        [
+          527.075927734375,
+          459.421875
+        ],
+        [
+          51.3984375,
+          459.421875
+        ]
+      ]
+    },
+    {
+      "title": "C3. To record the closing of Expended Authority - Paid. (TC F214)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          52.59375,
+          515.49609375
+        ],
+        [
+          414.6360778808594,
+          515.49609375
+        ],
+        [
+          414.6360778808594,
+          530.19140625
+        ],
+        [
+          52.59375,
+          530.19140625
+        ]
+      ]
+    },
+    {
+      "title": "Budgetary Post-Closing Trial Balance:",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.19140625,
+          598.640625
+        ],
+        [
+          285.4662170410156,
+          598.640625
+        ],
+        [
+          285.4662170410156,
+          614.109375
+        ],
+        [
+          53.19140625,
+          614.109375
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          207.984375,
+          37.125
+        ],
+        [
+          404.015625,
+          37.125
+        ],
+        [
+          404.015625,
+          68.82281494140625
+        ],
+        [
+          207.984375,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary Pre-Closing Trial Balance (FACTS I Trial Balance):",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.59375,
+          86.23828125
+        ],
+        [
+          441.0127258300781,
+          86.23828125
+        ],
+        [
+          441.0127258300781,
+          100.43353271484375
+        ],
+        [
+          52.59375,
+          100.43353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary Closing Entries:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.19140625,
+          377.05078125
+        ],
+        [
+          225.23748779296875,
+          377.05078125
+        ],
+        [
+          225.23748779296875,
+          392.03350830078125
+        ],
+        [
+          53.19140625,
+          392.03350830078125
+        ]
+      ]
+    },
+    {
+      "title": "C1. To record the closing of revenues and expenses to cumulative results of operations. (TC \nF228)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.7890625,
+          407.5237121582031
+        ],
+        [
+          541.91748046875,
+          407.5237121582031
+        ],
+        [
+          541.91748046875,
+          433.3236999511719
+        ],
+        [
+          53.7890625,
+          433.3236999511719
+        ]
+      ]
+    },
+    {
+      "title": "Proprietary Post-Closing Trial Balance:",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          52.59375,
+          601.734375
+        ],
+        [
+          293.2921142578125,
+          601.734375
+        ],
+        [
+          293.2921142578125,
+          617.3893280029297
+        ],
+        [
+          52.59375,
+          617.3893280029297
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          207.38671875,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          207.38671875,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "SF 133: Report on Budget Execution and Budgetary Resources (Quarter 4):",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.7890625,
+          86.23828125
+        ],
+        [
+          506.7605285644531,
+          86.23828125
+        ],
+        [
+          506.7605285644531,
+          100.43353271484375
+        ],
+        [
+          53.7890625,
+          100.43353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          207.984375,
+          36.73828125
+        ],
+        [
+          403.5118103027344,
+          36.73828125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          207.984375,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "Program and Financing Schedule (P&F)14:",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          51.99609375,
+          83.53125
+        ],
+        [
+          310.1953125,
+          83.53125
+        ],
+        [
+          310.1953125,
+          100.19354248046875
+        ],
+        [
+          51.99609375,
+          100.19354248046875
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          207.38671875,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          207.38671875,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "OMB Form and Content Statements 15",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          190.4399871826172,
+          83.792724609375
+        ],
+        [
+          421.3829650878906,
+          83.792724609375
+        ],
+        [
+          421.3829650878906,
+          100.43353271484375
+        ],
+        [
+          190.4399871826172,
+          100.43353271484375
+        ]
+      ]
+    },
+    {
+      "title": "Scenario I\nBasic Trust Fund Accounting",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          207.38671875,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          37.125
+        ],
+        [
+          403.5118103027344,
+          68.82281494140625
+        ],
+        [
+          207.38671875,
+          68.82281494140625
+        ]
+      ]
+    },
+    {
+      "title": "OMB Form and Content Statements (continued)",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          161.16000366210938,
+          86.23828125
+        ],
+        [
+          450.93157958984375,
+          86.23828125
+        ],
+        [
+          450.93157958984375,
+          100.43353271484375
+        ],
+        [
+          161.16000366210938,
+          100.43353271484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          165
+        ],
+        [
+          "TableCell",
+          57
+        ],
+        [
+          "Line",
+          40
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          11
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          127
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "TableCell",
+          69
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "TableCell",
+          58
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/tfscenario1"
+}

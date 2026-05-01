@@ -1,0 +1,463 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          440.25,
+          100.5
+        ],
+        [
+          532.5,
+          100.5
+        ],
+        [
+          532.5,
+          127.5
+        ],
+        [
+          440.25,
+          127.5
+        ]
+      ]
+    },
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          441.0,
+          101.25
+        ],
+        [
+          531.0,
+          101.25
+        ],
+        [
+          531.0,
+          126.75
+        ],
+        [
+          441.0,
+          126.75
+        ]
+      ]
+    },
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          441.0,
+          102.0
+        ],
+        [
+          531.0,
+          102.0
+        ],
+        [
+          531.0,
+          126.75
+        ],
+        [
+          441.0,
+          126.75
+        ]
+      ]
+    },
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          440.25,
+          100.5
+        ],
+        [
+          531.75,
+          100.5
+        ],
+        [
+          531.75,
+          127.5
+        ],
+        [
+          440.25,
+          127.5
+        ]
+      ]
+    },
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          441.0,
+          101.25
+        ],
+        [
+          531.0,
+          101.25
+        ],
+        [
+          531.0,
+          126.75
+        ],
+        [
+          441.0,
+          126.75
+        ]
+      ]
+    },
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          441.0,
+          102.0
+        ],
+        [
+          530.25,
+          102.0
+        ],
+        [
+          530.25,
+          126.75
+        ],
+        [
+          441.0,
+          126.75
+        ]
+      ]
+    },
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          441.0,
+          102.75
+        ],
+        [
+          530.25,
+          102.75
+        ],
+        [
+          530.25,
+          126.0
+        ],
+        [
+          441.0,
+          126.0
+        ]
+      ]
+    },
+    {
+      "title": "Scenario",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          441.0,
+          102.0
+        ],
+        [
+          530.25,
+          102.0
+        ],
+        [
+          530.25,
+          126.75
+        ],
+        [
+          441.0,
+          126.75
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          8
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          9
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          14
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/trust-fund-cover-sheets"
+}

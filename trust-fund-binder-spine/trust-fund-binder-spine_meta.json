@@ -1,0 +1,68 @@
+{
+  "table_of_contents": [
+    {
+      "title": "FEDERAL TRUST FUND\nACCOUNTING GUIDE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          154.8828125,
+          285.31494140625
+        ],
+        [
+          707.3920454545455,
+          285.31494140625
+        ],
+        [
+          707.3920454545455,
+          400.8272058823529
+        ],
+        [
+          154.8828125,
+          394.8223039215686
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          10
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/trust-fund-binder-spine"
+}

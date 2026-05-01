@@ -1,0 +1,64 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ACCOUNTING TOPICS\nILLUSTRATED\nIN THIS GUIDE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          301.21875,
+          87.0
+        ],
+        [
+          514.5,
+          87.0
+        ],
+        [
+          514.5,
+          156.0
+        ],
+        [
+          301.21875,
+          156.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          46
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/trust-fund-topics-page"
+}

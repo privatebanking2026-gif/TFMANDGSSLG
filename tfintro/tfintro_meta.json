@@ -1,0 +1,354 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Federal Trust Fund Accounting Guide",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          180.36000061035156,
+          73.00341796875
+        ],
+        [
+          435.4513854980469,
+          73.00341796875
+        ],
+        [
+          435.4513854980469,
+          88.6671142578125
+        ],
+        [
+          180.36000061035156,
+          88.6671142578125
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          265.0773620605469,
+          110.9013671875
+        ],
+        [
+          350.7143249511719,
+          110.9013671875
+        ],
+        [
+          350.7143249511719,
+          125.87310791015625
+        ],
+        [
+          265.0773620605469,
+          125.87310791015625
+        ]
+      ]
+    },
+    {
+      "title": "Trust Funds",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.12109375,
+          150.39501953125
+        ],
+        [
+          149.9044189453125,
+          150.39501953125
+        ],
+        [
+          149.9044189453125,
+          165.2774658203125
+        ],
+        [
+          71.12109375,
+          165.2774658203125
+        ]
+      ]
+    },
+    {
+      "title": "Trust Fund Account Structure and Designation of Availability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.71875,
+          500.1936340332031
+        ],
+        [
+          447.9098815917969,
+          500.1936340332031
+        ],
+        [
+          447.9098815917969,
+          514.233642578125
+        ],
+        [
+          71.71875,
+          514.233642578125
+        ]
+      ]
+    },
+    {
+      "title": "Scenario Presentation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          70.5234375,
+          408.2735290527344
+        ],
+        [
+          206.67869567871094,
+          408.2735290527344
+        ],
+        [
+          206.67869567871094,
+          422.31353759765625
+        ],
+        [
+          70.5234375,
+          422.31353759765625
+        ]
+      ]
+    },
+    {
+      "title": "Scenario Guidelines",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.822265625,
+          73.80126953125
+        ],
+        [
+          194.90614318847656,
+          73.80126953125
+        ],
+        [
+          194.90614318847656,
+          88.1136474609375
+        ],
+        [
+          70.822265625,
+          88.1136474609375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.419921875,
+          336.693359375
+        ],
+        [
+          140.9097137451172,
+          336.693359375
+        ],
+        [
+          140.9097137451172,
+          351.3936462402344
+        ],
+        [
+          71.419921875,
+          351.3936462402344
+        ]
+      ]
+    },
+    {
+      "title": "Common Terms and Abbreviations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.12109375,
+          554.10791015625
+        ],
+        [
+          287.6501159667969,
+          554.10791015625
+        ],
+        [
+          287.6501159667969,
+          569.0735168457031
+        ],
+        [
+          71.12109375,
+          569.0735168457031
+        ]
+      ]
+    },
+    {
+      "title": "Relevant Web Sites",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.822265625,
+          336.29443359375
+        ],
+        [
+          191.5505828857422,
+          336.29443359375
+        ],
+        [
+          191.5505828857422,
+          350.5536193847656
+        ],
+        [
+          70.822265625,
+          350.5536193847656
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          58
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/tfintro"
+}

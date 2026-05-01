@@ -1,0 +1,110 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The US Standard General Ledger (USSGL)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          15.5390625,
+          78.890625
+        ],
+        [
+          463.36004638671875,
+          78.890625
+        ],
+        [
+          463.36004638671875,
+          103.1878662109375
+        ],
+        [
+          15.5390625,
+          103.1878662109375
+        ]
+      ]
+    },
+    {
+      "title": "Trust Fund Guide Cover",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          15.5390625,
+          163.96875
+        ],
+        [
+          207.52000427246094,
+          163.96875
+        ],
+        [
+          207.52000427246094,
+          182.015869140625
+        ],
+        [
+          15.5390625,
+          182.015869140625
+        ]
+      ]
+    },
+    {
+      "title": "To: Heads of Agencies, Other Users, Preparers, and Auditors of Federal Financial Information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          13.1484375,
+          329.87109375
+        ],
+        [
+          501.6280212402344,
+          329.87109375
+        ],
+        [
+          501.6280212402344,
+          342.59393310546875
+        ],
+        [
+          13.1484375,
+          342.59393310546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          67
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/trust-fund-guide-cover"
+}
