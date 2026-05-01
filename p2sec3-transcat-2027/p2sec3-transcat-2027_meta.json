@@ -1,0 +1,287 @@
+{
+  "table_of_contents": [
+    {
+      "title": "SUPPLEMENT Section III",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          86.0625,
+          46.79296875
+        ],
+        [
+          521.7655639648438,
+          46.79296875
+        ],
+        [
+          521.7655639648438,
+          72.31640625
+        ],
+        [
+          86.0625,
+          72.31640625
+        ]
+      ]
+    },
+    {
+      "title": "U.S. Standard General Ledger\nAccount Transaction Categories",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          228.3046875,
+          69.99609375
+        ],
+        [
+          384.1246032714844,
+          69.99609375
+        ],
+        [
+          384.1246032714844,
+          94.77520751953125
+        ],
+        [
+          228.3046875,
+          94.77520751953125
+        ]
+      ]
+    },
+    {
+      "title": "A. Funding\n100 - 399 Budgetary Resources Other Than Collections\n400 - 699 Authority Transfers\n700 - 799 Reimbursables and Other Income",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          93.234375,
+          137.28515625
+        ],
+        [
+          337.078125,
+          137.28515625
+        ],
+        [
+          337.078125,
+          204.57421875
+        ],
+        [
+          93.234375,
+          204.57421875
+        ]
+      ]
+    },
+    {
+      "title": "B. Disbursements and Payables",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.130859375,
+          209.98828125
+        ],
+        [
+          230.7806396484375,
+          209.98828125
+        ],
+        [
+          230.7806396484375,
+          220.263671875
+        ],
+        [
+          94.130859375,
+          220.263671875
+        ]
+      ]
+    },
+    {
+      "title": "C. Collections and Receivables",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.625,
+          287.68292236328125
+        ],
+        [
+          227.5465850830078,
+          287.68292236328125
+        ],
+        [
+          227.5465850830078,
+          297.6429443359375
+        ],
+        [
+          95.625,
+          297.6429443359375
+        ]
+      ]
+    },
+    {
+      "title": "D. Adjustments/Write-offs/Reclassification",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          96.22265625,
+          351.140625
+        ],
+        [
+          279.712158203125,
+          351.140625
+        ],
+        [
+          279.712158203125,
+          361.70562744140625
+        ],
+        [
+          96.22265625,
+          361.70562744140625
+        ]
+      ]
+    },
+    {
+      "title": "E. Accruals/Nonbudgetary Transfers Other Than Disbursements and Collections",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.625,
+          428.484375
+        ],
+        [
+          442.4776916503906,
+          428.484375
+        ],
+        [
+          442.4776916503906,
+          439.0848388671875
+        ],
+        [
+          95.625,
+          439.0848388671875
+        ]
+      ]
+    },
+    {
+      "title": "F. Yearend",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          94.728515625,
+          490.74609375
+        ],
+        [
+          144.7162628173828,
+          490.74609375
+        ],
+        [
+          144.7162628173828,
+          503.1475524902344
+        ],
+        [
+          94.728515625,
+          503.1475524902344
+        ]
+      ]
+    },
+    {
+      "title": "G. Memorandum Entries",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.326171875,
+          543.33984375
+        ],
+        [
+          204.9463653564453,
+          543.33984375
+        ],
+        [
+          204.9463653564453,
+          553.6547088623047
+        ],
+        [
+          95.326171875,
+          553.6547088623047
+        ]
+      ]
+    },
+    {
+      "title": "H. Other Specialized Transaction Entries",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          95.02734375,
+          580.46484375
+        ],
+        [
+          273.2550354003906,
+          580.46484375
+        ],
+        [
+          273.2550354003906,
+          590.6062774658203
+        ],
+        [
+          95.02734375,
+          590.6062774658203
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "Table",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/p2sec3-transcat-2027"
+}

@@ -1,0 +1,298 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Part 2\nSUPPLEMENT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.77734375,
+          37.93206787109375
+        ],
+        [
+          109.96512603759766,
+          37.93206787109375
+        ],
+        [
+          109.96512603759766,
+          59.53204345703125
+        ],
+        [
+          56.77734375,
+          59.53204345703125
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Statement of Custodial Activity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          211.5703125,
+          63.4918212890625
+        ],
+        [
+          402.50634765625,
+          63.4918212890625
+        ],
+        [
+          402.50634765625,
+          71.17181396484375
+        ],
+        [
+          211.5703125,
+          71.17181396484375
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Statement of Custodial Activity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          212.16796875,
+          63.49188232421875
+        ],
+        [
+          402.50592041015625,
+          63.49188232421875
+        ],
+        [
+          402.50592041015625,
+          71.171875
+        ],
+        [
+          212.16796875,
+          71.171875
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Statement of Custodial Activity",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          212.16796875,
+          63.49188232421875
+        ],
+        [
+          402.50592041015625,
+          63.49188232421875
+        ],
+        [
+          402.50592041015625,
+          71.171875
+        ],
+        [
+          212.16796875,
+          71.171875
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Statement of Custodial Activity",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          213.9609375,
+          63.421875
+        ],
+        [
+          402.8203125,
+          63.421875
+        ],
+        [
+          402.8203125,
+          71.171875
+        ],
+        [
+          213.9609375,
+          71.171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          357
+        ],
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          455
+        ],
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          399
+        ],
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          65
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Line",
+          33
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/p2sec5-custodialact-2027"
+}

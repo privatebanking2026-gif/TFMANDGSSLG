@@ -1,0 +1,2255 @@
+{
+  "table_of_contents": [
+    {
+      "title": "PRIOR-PERIOD ADJUSTMENTS DUE TO CORRECTION OF ERRORS\n-YEARS PRECEDING THE PRIOR YEAR",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          168.609375,
+          220.236328125
+        ],
+        [
+          623.390625,
+          220.236328125
+        ],
+        [
+          623.390625,
+          250.52536010742188
+        ],
+        [
+          168.609375,
+          250.52536010742188
+        ]
+      ]
+    },
+    {
+      "title": "EFFECTIVE FISCAL 2022",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.7158203125,
+          284.484375
+        ],
+        [
+          479.342529296875,
+          284.484375
+        ],
+        [
+          479.342529296875,
+          298.75274658203125
+        ],
+        [
+          312.7158203125,
+          298.75274658203125
+        ]
+      ]
+    },
+    {
+      "title": "PREPARED BY:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          341.859375,
+          411.2073974609375
+        ],
+        [
+          447.9626770019531,
+          411.2073974609375
+        ],
+        [
+          447.9626770019531,
+          425.2473907470703
+        ],
+        [
+          341.859375,
+          425.2473907470703
+        ]
+      ]
+    },
+    {
+      "title": "Version History",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          72.0,
+          73.51171875
+        ],
+        [
+          162.80859375,
+          73.51171875
+        ],
+        [
+          162.80859375,
+          88.27984619140625
+        ],
+        [
+          72.0,
+          88.27984619140625
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          365.8359375,
+          73.51171875
+        ],
+        [
+          424.8566589355469,
+          73.51171875
+        ],
+        [
+          424.8566589355469,
+          88.4073486328125
+        ],
+        [
+          365.8359375,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "Statement Presentation Table (for material errors only)",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          253.6800079345703,
+          86.361328125
+        ],
+        [
+          538.3560791015625,
+          86.361328125
+        ],
+        [
+          538.3560791015625,
+          99.2039794921875
+        ],
+        [
+          253.6800079345703,
+          99.2039794921875
+        ]
+      ]
+    },
+    {
+      "title": "PY Adj Attribute Definition for GTAS Reporting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          106.734375,
+          87.2578125
+        ],
+        [
+          360.719970703125,
+          87.2578125
+        ],
+        [
+          360.719970703125,
+          99.803955078125
+        ],
+        [
+          106.734375,
+          99.803955078125
+        ]
+      ]
+    },
+    {
+      "title": "Domain Definitions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          107.5078125,
+          170.60391235351562
+        ],
+        [
+          208.0546875,
+          170.60391235351562
+        ],
+        [
+          208.0546875,
+          182.60391235351562
+        ],
+        [
+          107.5078125,
+          182.60391235351562
+        ]
+      ]
+    },
+    {
+      "title": "\"B\" \u2013 Adjustments to prior-year reporting backdated in Treasury's central accounting system",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          108.0,
+          184.078125
+        ],
+        [
+          590.1959838867188,
+          184.078125
+        ],
+        [
+          590.1959838867188,
+          196.4039306640625
+        ],
+        [
+          108.0,
+          196.4039306640625
+        ]
+      ]
+    },
+    {
+      "title": "\"P\" \u2013 Adjustments to prior-year reporting not backdated in Treasury's central accounting system",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          108.00006866455078,
+          239.361328125
+        ],
+        [
+          609.2760009765625,
+          239.361328125
+        ],
+        [
+          609.2760009765625,
+          251.60394287109375
+        ],
+        [
+          108.00006866455078,
+          251.60394287109375
+        ]
+      ]
+    },
+    {
+      "title": "\"X\" \u2013 Not an adjustment to prior-year reporting",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          106.734375,
+          294.345703125
+        ],
+        [
+          357.328125,
+          294.345703125
+        ],
+        [
+          357.328125,
+          306.8039245605469
+        ],
+        [
+          106.734375,
+          306.8039245605469
+        ]
+      ]
+    },
+    {
+      "title": "Listing of USSGL Accounts Used In This Scenario",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          71.15625,
+          73.810546875
+        ],
+        [
+          372.7648620605469,
+          73.810546875
+        ],
+        [
+          372.7648620605469,
+          88.4073486328125
+        ],
+        [
+          71.15625,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "Assumptions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          70.76953125,
+          73.810546875
+        ],
+        [
+          138.10797119140625,
+          73.810546875
+        ],
+        [
+          138.10797119140625,
+          86.00396728515625
+        ],
+        [
+          70.76953125,
+          86.00396728515625
+        ]
+      ]
+    },
+    {
+      "title": "Prior-Year Trial Balances",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          71.15625,
+          73.51171875
+        ],
+        [
+          228.4252471923828,
+          73.51171875
+        ],
+        [
+          228.4252471923828,
+          88.4073486328125
+        ],
+        [
+          71.15625,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "System Pre-closing Trial Balance \u2013 Fiscal 2021",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          73.4765625,
+          106.083984375
+        ],
+        [
+          314.1600036621094,
+          106.083984375
+        ],
+        [
+          314.1600036621094,
+          118.1639404296875
+        ],
+        [
+          73.4765625,
+          118.1639404296875
+        ]
+      ]
+    },
+    {
+      "title": "General Fund of the U.S. Government",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          71.99996948242188,
+          74.00396728515625
+        ],
+        [
+          267.7559509277344,
+          74.00396728515625
+        ],
+        [
+          267.7559509277344,
+          86.00396728515625
+        ],
+        [
+          71.99996948242188,
+          86.00396728515625
+        ]
+      ]
+    },
+    {
+      "title": "System Pre-closing Trial Balance \u2013 Fiscal 2021",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          71.15625,
+          101.60400390625
+        ],
+        [
+          310.67999267578125,
+          101.60400390625
+        ],
+        [
+          310.67999267578125,
+          113.60400390625
+        ],
+        [
+          71.15625,
+          113.60400390625
+        ]
+      ]
+    },
+    {
+      "title": "System Post-closing Trial Balance \u2013 Fiscal 2021 / Beginning Balance \u2013 Fiscal 2022",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          69.609375,
+          73.810546875
+        ],
+        [
+          488.75994873046875,
+          73.810546875
+        ],
+        [
+          488.75994873046875,
+          86.00396728515625
+        ],
+        [
+          69.609375,
+          86.00396728515625
+        ]
+      ]
+    },
+    {
+      "title": "General Fund of the U.S. Government",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          71.15625,
+          74.00396728515625
+        ],
+        [
+          267.7559509277344,
+          74.00396728515625
+        ],
+        [
+          267.7559509277344,
+          86.00396728515625
+        ],
+        [
+          71.15625,
+          86.00396728515625
+        ]
+      ]
+    },
+    {
+      "title": "System Post-closing Trial Balances \u2013 Fiscal 2021 / Beginning Balance \u2013 Fiscal 2022",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          71.15625,
+          101.60400390625
+        ],
+        [
+          493.4399719238281,
+          101.60400390625
+        ],
+        [
+          493.4399719238281,
+          113.60400390625
+        ],
+        [
+          71.15625,
+          113.60400390625
+        ]
+      ]
+    },
+    {
+      "title": "Illustrative Transactions (The agency produces comparative financial statements.)",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          70.3828125,
+          73.51171875
+        ],
+        [
+          465.5556945800781,
+          73.51171875
+        ],
+        [
+          465.5556945800781,
+          88.4073486328125
+        ],
+        [
+          70.3828125,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "Fiscal 2022 Accounting System Activity Summary",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          71.15625,
+          73.810546875
+        ],
+        [
+          373.84881591796875,
+          73.810546875
+        ],
+        [
+          373.84881591796875,
+          88.4073486328125
+        ],
+        [
+          71.15625,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "Work Paper Trial Balance for Budgetary Accounts \u2013 SBR ONLY12",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          69.609375,
+          74.36737060546875
+        ],
+        [
+          469.91998291015625,
+          74.36737060546875
+        ],
+        [
+          469.91998291015625,
+          88.4073486328125
+        ],
+        [
+          69.609375,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "Financial System Activity and Trial Balance for Budgetary Accounts (Used To Prepare SF 133/Schedule P\nand 2022 SBR)13",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          69.609375,
+          74.36737060546875
+        ],
+        [
+          706.921875,
+          74.36737060546875
+        ],
+        [
+          706.921875,
+          104.48739624023438
+        ],
+        [
+          69.609375,
+          104.48739624023438
+        ]
+      ]
+    },
+    {
+      "title": "Closing Entries for Fiscal 2022",
+      "heading_level": null,
+      "page_id": 26,
+      "polygon": [
+        [
+          70.76953125,
+          73.51171875
+        ],
+        [
+          255.65724182128906,
+          73.51171875
+        ],
+        [
+          255.65724182128906,
+          88.4073486328125
+        ],
+        [
+          70.76953125,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "Post-closing Trial Balances \u2013 Fiscal 2022",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          69.609375,
+          74.109375
+        ],
+        [
+          314.2180480957031,
+          74.109375
+        ],
+        [
+          314.2180480957031,
+          88.4073486328125
+        ],
+        [
+          69.609375,
+          88.4073486328125
+        ]
+      ]
+    },
+    {
+      "title": "Post-closing Trial Balance (Work Paper) \u2013 Fiscal 2022",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          71.9296875,
+          131.48391723632812
+        ],
+        [
+          349.5599060058594,
+          131.48391723632812
+        ],
+        [
+          349.5599060058594,
+          143.736328125
+        ],
+        [
+          71.9296875,
+          143.736328125
+        ]
+      ]
+    },
+    {
+      "title": "Post-closing Trial Balance (Accounting System) \u2013 Fiscal 2022",
+      "heading_level": null,
+      "page_id": 30,
+      "polygon": [
+        [
+          71.9296875,
+          330.6839294433594
+        ],
+        [
+          384.239990234375,
+          330.6839294433594
+        ],
+        [
+          384.239990234375,
+          342.755859375
+        ],
+        [
+          71.9296875,
+          342.755859375
+        ]
+      ]
+    },
+    {
+      "title": "Balances from pg. 26",
+      "heading_level": null,
+      "page_id": 33,
+      "polygon": [
+        [
+          72.0,
+          86.9674072265625
+        ],
+        [
+          687.3030395507812,
+          86.9674072265625
+        ],
+        [
+          687.3030395507812,
+          101.00738525390625
+        ],
+        [
+          72.0,
+          101.00738525390625
+        ]
+      ]
+    },
+    {
+      "title": "Balances from pg. 25",
+      "heading_level": null,
+      "page_id": 35,
+      "polygon": [
+        [
+          72.0,
+          86.0625
+        ],
+        [
+          176.0398712158203,
+          86.0625
+        ],
+        [
+          176.0398712158203,
+          97.41302490234375
+        ],
+        [
+          72.0,
+          97.41302490234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          39
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Line",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          31
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "TableCell",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          94
+        ],
+        [
+          "Line",
+          24
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          128
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "TableCell",
+          38
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "TableCell",
+          39
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          61
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Line",
+          16
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          115
+        ],
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          108
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "TableCell",
+          42
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          68
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          68
+        ],
+        [
+          "TableCell",
+          62
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          78
+        ],
+        [
+          "TableCell",
+          61
+        ],
+        [
+          "Line",
+          22
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "TableCell",
+          182
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "TableCell",
+          126
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "TableCell",
+          108
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          449
+        ],
+        [
+          "TableCell",
+          290
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          57
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          195
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          28
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "TableCell",
+          85
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "TableCell",
+          33
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          144
+        ],
+        [
+          "TableCell",
+          61
+        ],
+        [
+          "Line",
+          30
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          146
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Line",
+          32
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 35,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "TableCell",
+          102
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 36,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "TableCell",
+          122
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 37,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          62
+        ],
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Line",
+          17
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 38,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ppa-final-version-2022"
+}

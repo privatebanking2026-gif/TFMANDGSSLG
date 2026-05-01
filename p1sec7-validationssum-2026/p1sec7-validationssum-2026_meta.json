@@ -1,0 +1,923 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          332.2080383300781,
+          55.58203125
+        ],
+        [
+          460.96875,
+          55.58203125
+        ],
+        [
+          460.96875,
+          78.20428466796875
+        ],
+        [
+          332.2080383300781,
+          78.20428466796875
+        ]
+      ]
+    },
+    {
+      "title": "Section VII\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          332.20831298828125,
+          49.62898635864258
+        ],
+        [
+          740.99853515625,
+          49.62898635864258
+        ],
+        [
+          740.99853515625,
+          66.638671875
+        ],
+        [
+          332.20831298828125,
+          66.638671875
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          332.20831298828125,
+          55.58203125
+        ],
+        [
+          460.58203125,
+          55.58203125
+        ],
+        [
+          460.58203125,
+          78.20099639892578
+        ],
+        [
+          332.20831298828125,
+          78.20099639892578
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          332.20831298828125,
+          56.478515625
+        ],
+        [
+          459.421875,
+          56.478515625
+        ],
+        [
+          459.421875,
+          80.982421875
+        ],
+        [
+          332.20831298828125,
+          80.982421875
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          332.20831298828125,
+          55.58203125
+        ],
+        [
+          460.58203125,
+          55.58203125
+        ],
+        [
+          460.58203125,
+          78.20099639892578
+        ],
+        [
+          332.20831298828125,
+          78.20099639892578
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENT",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          42.5390625,
+          42.732421875
+        ],
+        [
+          302.4140625,
+          42.732421875
+        ],
+        [
+          302.4140625,
+          63.650390625
+        ],
+        [
+          42.5390625,
+          63.650390625
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          331.41796875,
+          57.408294677734375
+        ],
+        [
+          459.21630859375,
+          57.408294677734375
+        ],
+        [
+          459.21630859375,
+          78.591796875
+        ],
+        [
+          331.41796875,
+          78.591796875
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          332.20831298828125,
+          55.58203125
+        ],
+        [
+          460.58203125,
+          55.58203125
+        ],
+        [
+          460.58203125,
+          78.20099639892578
+        ],
+        [
+          332.20831298828125,
+          78.20099639892578
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          332.20831298828125,
+          54.685546875
+        ],
+        [
+          467.9296875,
+          54.685546875
+        ],
+        [
+          467.9296875,
+          78.20099639892578
+        ],
+        [
+          332.20831298828125,
+          78.20099639892578
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          332.20831298828125,
+          57.076171875
+        ],
+        [
+          459.21630859375,
+          57.076171875
+        ],
+        [
+          459.21630859375,
+          79.189453125
+        ],
+        [
+          332.20831298828125,
+          79.189453125
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          332.20831298828125,
+          55.58203125
+        ],
+        [
+          459.80859375,
+          55.58203125
+        ],
+        [
+          459.80859375,
+          78.20099639892578
+        ],
+        [
+          332.20831298828125,
+          78.20099639892578
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          332.20831298828125,
+          54.984375
+        ],
+        [
+          465.22265625,
+          54.984375
+        ],
+        [
+          465.22265625,
+          78.20099639892578
+        ],
+        [
+          332.20831298828125,
+          78.20099639892578
+        ]
+      ]
+    },
+    {
+      "title": "Data Validations - Summary\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          332.20831298828125,
+          56.1796875
+        ],
+        [
+          459.21630859375,
+          56.1796875
+        ],
+        [
+          459.21630859375,
+          78.20099639892578
+        ],
+        [
+          332.20831298828125,
+          78.20099639892578
+        ]
+      ]
+    },
+    {
+      "title": "Section VII\nU.S. Standard General Ledger",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          332.20831298828125,
+          49.62898635864258
+        ],
+        [
+          743.2734375,
+          49.62898635864258
+        ],
+        [
+          743.2734375,
+          65.84129333496094
+        ],
+        [
+          332.20831298828125,
+          65.84129333496094
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "TableCell",
+          105
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "TableCell",
+          91
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          186
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "TableCell",
+          105
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          72
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          266
+        ],
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          163
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/p1sec7-validationssum-2026"
+}

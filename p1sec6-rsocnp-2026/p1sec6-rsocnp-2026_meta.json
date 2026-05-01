@@ -1,0 +1,455 @@
+{
+  "table_of_contents": [
+    {
+      "title": "USSGL Crosswalk - Reclassified Statement Of Operations and Changes in Net Position",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          138.65625,
+          62.26171875
+        ],
+        [
+          466.171875,
+          62.26171875
+        ],
+        [
+          466.171875,
+          71.29443359375
+        ],
+        [
+          138.65625,
+          71.29443359375
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Reclassified Statement Of Operations and Changes in Net Position",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          139.8515625,
+          63.03515625
+        ],
+        [
+          465.4762878417969,
+          63.03515625
+        ],
+        [
+          465.4762878417969,
+          71.54296875
+        ],
+        [
+          139.8515625,
+          71.54296875
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Reclassified Statement Of Operations and Changes in Net Position",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          141.046875,
+          63.421875
+        ],
+        [
+          466.171875,
+          63.421875
+        ],
+        [
+          466.171875,
+          71.29437255859375
+        ],
+        [
+          141.046875,
+          71.29437255859375
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Reclassified Statement Of Operations and Changes in Net Position",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          141.046875,
+          62.6484375
+        ],
+        [
+          466.171875,
+          62.6484375
+        ],
+        [
+          466.171875,
+          71.29437255859375
+        ],
+        [
+          141.046875,
+          71.29437255859375
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Reclassified Statement Of Operations and Changes in Net Position",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          142.2421875,
+          61.875
+        ],
+        [
+          467.3671875,
+          61.875
+        ],
+        [
+          467.3671875,
+          71.29437255859375
+        ],
+        [
+          142.2421875,
+          71.29437255859375
+        ]
+      ]
+    },
+    {
+      "title": "9\nNet position, end of period",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.708984375,
+          435.05859375
+        ],
+        [
+          156.884765625,
+          435.05859375
+        ],
+        [
+          156.884765625,
+          443.56640625
+        ],
+        [
+          48.708984375,
+          443.56640625
+        ]
+      ]
+    },
+    {
+      "title": "FOOTNOTES AND ADDITIONAL INFORMATION:",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          71.12109375,
+          462.90234375
+        ],
+        [
+          237.41864013671875,
+          462.90234375
+        ],
+        [
+          237.41864013671875,
+          471.41015625
+        ],
+        [
+          71.12109375,
+          471.41015625
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Reclassified Statement Of Operations and Changes in Net Position",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          143.4375,
+          63.03515625
+        ],
+        [
+          466.171875,
+          63.03515625
+        ],
+        [
+          466.171875,
+          71.54296875
+        ],
+        [
+          143.4375,
+          71.54296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          549
+        ],
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          540
+        ],
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          504
+        ],
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          450
+        ],
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          315
+        ],
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          57
+        ],
+        [
+          "TableCell",
+          36
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/p1sec6-rsocnp-2026"
+}

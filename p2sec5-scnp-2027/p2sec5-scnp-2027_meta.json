@@ -1,0 +1,206 @@
+{
+  "table_of_contents": [
+    {
+      "title": "USSGL Crosswalk - Statement of Changes in Net Position",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.9609375,
+          57.62109375
+        ],
+        [
+          400.8793640136719,
+          57.62109375
+        ],
+        [
+          400.8793640136719,
+          68.920654296875
+        ],
+        [
+          60.9609375,
+          68.920654296875
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Statement of Changes in Net Position",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          199.6171875,
+          60.71484375
+        ],
+        [
+          400.8848571777344,
+          60.71484375
+        ],
+        [
+          400.8848571777344,
+          68.9207763671875
+        ],
+        [
+          199.6171875,
+          68.9207763671875
+        ]
+      ]
+    },
+    {
+      "title": "USSGL Crosswalk - Statement of Changes in Net Position",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          200.8125,
+          61.1015625
+        ],
+        [
+          400.8848571777344,
+          61.1015625
+        ],
+        [
+          400.8848571777344,
+          68.9207763671875
+        ],
+        [
+          200.8125,
+          68.9207763671875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          504
+        ],
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          585
+        ],
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          194
+        ],
+        [
+          "Span",
+          156
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/p2sec5-scnp-2027"
+}
